@@ -13,6 +13,11 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'Valloric/YouCompleteMe'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
+Plugin 'tpope/vim-fugitive'
+Plugin 'kien/ctrlp.vim'
+Plugin 'bronson/vim-trailing-whitespace'
+Plugin 'scrooloose/syntastic'
+Plugin 'bling/vim-airline'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -42,6 +47,7 @@ set nolist
 set linebreak
 set shell=/bin/zsh
 set fdm=syntax
+set hlsearch
 au BufNewFile,BufRead *.py setlocal fdm=indent
 set foldlevelstart=20
 set scrolloff=5 " Scroll-boundaries
@@ -72,9 +78,9 @@ map <Leader>e :e
 map <Leader>vs :vsplit<CR>
 map <Leader>ss :split<CR>
 
-" YCM 
-let g:ycm_key_list_select_completion = ['<tab>']
-let g:ycm_key_list_previous_completion = ['<c-tab>']
+map <Leader>hl :nohlsearch<CR>
+
+" YCM
 let g:ycm_register_as_syntastic_checker = 1
 let g:ycm_collect_identifiers_from_tags_files = 1
 
@@ -87,6 +93,9 @@ let g:UltiSnipsJumpBackwardTrigger="<c-k>"
 " If you want :UltiSnipsEdit to split your window.
 let g:UltiSnipsEditSplit="vertical"
 
+" Vim airline
+set laststatus=2
+let g:airline_powerline_fonts = 1
 
 
 " Line break behaviour
