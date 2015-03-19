@@ -19,6 +19,7 @@ Plugin 'bronson/vim-trailing-whitespace'
 Plugin 'scrooloose/syntastic'
 Plugin 'bling/vim-airline'
 Plugin 'godlygeek/tabular'
+Plugin 'kchmck/vim-coffee-script'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -113,6 +114,11 @@ noremap <C-c> :nohl<CR>
 
 inoremap <Esc> <nop>
 inoremap hj <Esc>
+
+" Filetype dependant runfiles
+autocmd Filetype c,cpp map <buffer> <Leader>r :w<CR> :!make<CR>
+autocmd Filetype python map <buffer> <Leader>r :w<CR> :!python %<CR>
+autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!latexmk -pdf main.tex<CR>
 
 set t_Co=256
 
