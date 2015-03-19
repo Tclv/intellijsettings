@@ -1,0 +1,3 @@
+autocmd Filetype c,cpp  map <buffer> <Leader>R <C-o>:update<Bar>execute '!make '.shellescape(expand('%:r'), 1)<CR>
+autocmd Filetype python map <buffer> <Leader>R <C-o>:update<Bar>execute '!python '.shellescape(@%, 1)<CR>
+autocmd Filetype tex map <buffer> <Leader>R <C-o>:update<Bar>execute '!latexmk '.shellescape(@%, 1)<CR>
