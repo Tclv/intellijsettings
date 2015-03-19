@@ -18,6 +18,7 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'bronson/vim-trailing-whitespace'
 Plugin 'scrooloose/syntastic'
 Plugin 'bling/vim-airline'
+Plugin 'godlygeek/tabular'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -52,6 +53,12 @@ au BufNewFile,BufRead *.py setlocal fdm=indent
 set foldlevelstart=20
 set scrolloff=5 " Scroll-boundaries
 au BufNewFile,BufRead *.tex setlocal ft=tex
+"Hard tabstop
+set tabstop=4
+" Size indent
+set shiftwidth=4
+
+set softtabstop=4
 
 """" Leader Mappings
 " Tabularize
