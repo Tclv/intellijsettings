@@ -115,5 +115,15 @@ autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!latexmk -pdf main.tex<CR>
 
 set t_Co=256
 
+"Gaz tabs
+set expandtab
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set autoindent
+
+autocmd FileType ruby,haml,eruby,yaml,html,javascript,sass,cucumber set ai sw=2 sts=2 et
+autocmd FileType python set sw=4 sts=4 et
+
 " Allow saving of files as sudo when I forgot to start vim using sudo.
 cmap w!! w !sudo tee > /dev/null %
