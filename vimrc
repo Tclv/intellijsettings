@@ -118,7 +118,7 @@ inoremap hj <Esc>
 " Filetype dependant runfiles
 autocmd Filetype c,cpp map <buffer> <Leader>r :w<CR> :!make<CR>
 autocmd Filetype python map <buffer> <Leader>r :w<CR> :!python %<CR>
-autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!latexmk -pdf main.tex<CR>
+autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!latexmk -pdf -xelatex main.tex<CR>
 
 set t_Co=256
 
