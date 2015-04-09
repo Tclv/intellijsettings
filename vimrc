@@ -58,7 +58,6 @@ au BufNewFile,BufRead *.tex setlocal ft=tex
 set tabstop=4
 " Size indent
 set shiftwidth=4
-
 set softtabstop=4
 
 """" Leader Mappings
@@ -88,22 +87,6 @@ map <Leader>ss :split<CR>
 
 map <Leader>hl :nohlsearch<CR>
 
-" YCM
-let g:ycm_register_as_syntastic_checker = 1
-let g:ycm_collect_identifiers_from_tags_files = 1
-
-" Ultisnips
-" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
-let g:UltiSnipsExpandTrigger="<esc>"
-let g:UltiSnipsJumpForwardTrigger="<c-j>"
-let g:UltiSnipsJumpBackwardTrigger="<c-k>"
-
-" If you want :UltiSnipsEdit to split your window.
-let g:UltiSnipsEditSplit="vertical"
-
-" Vim airline
-set laststatus=2
-let g:airline_powerline_fonts = 1
 
 
 " Line break behaviour
@@ -132,5 +115,21 @@ set autoindent
 autocmd FileType ruby,haml,eruby,yaml,html,javascript,sass,cucumber set ai sw=2 sts=2 et
 autocmd FileType python set sw=4 sts=4 et
 
+" YCM
+let g:ycm_register_as_syntastic_checker = 1
+let g:ycm_collect_identifiers_from_tags_files = 1
+
+" Ultisnips
+" Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
+let g:UltiSnipsExpandTrigger="<esc>"
+let g:UltiSnipsJumpForwardTrigger="<c-j>"
+let g:UltiSnipsJumpBackwardTrigger="<c-k>"
+
+" If you want :UltiSnipsEdit to split your window.
+let g:UltiSnipsEditSplit="vertical"
+
+" Vim airline
+set laststatus=2
+let g:airline_powerline_fonts = 1
 " Allow saving of files as sudo when I forgot to start vim using sudo.
 cmap w!! w !sudo tee > /dev/null %
