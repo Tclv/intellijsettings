@@ -47,7 +47,7 @@ colorscheme solarized
 set wrap
 set nolist
 set linebreak
-set shell=/bin/zsh
+set shell=/bin/bash
 set fdm=syntax
 set hlsearch
 au BufNewFile,BufRead *.py setlocal fdm=indent
@@ -59,7 +59,7 @@ set tabstop=4
 " Size indent
 set shiftwidth=4
 set softtabstop=4
-
+set spell spelllang=en_gb
 """" Leader Mappings
 " Tabularize
 map <Leader>a= :Tabularize /=<CR>
@@ -101,7 +101,10 @@ inoremap hj <Esc>
 " Filetype dependant runfiles
 autocmd Filetype c,cpp map <buffer> <Leader>r :w<CR> :!make<CR>
 autocmd Filetype python map <buffer> <Leader>r :w<CR> :!python %<CR>
-autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!latexmk -pdf -xelatex main.tex<CR>
+autocmd Filetype python map <buffer> <Leader>t :w<CR> :!nosetests<CR>
+autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!maintexfind <bar> latexmk -pdf -xelatex<CR>
+autocmd Filetype tex map <buffer> <Leader>o :!xdg-open *.pdf<CR>
+autocmd Filetype sh map <buffer> <Leader>r :w<CR> :!./%<CR>
 
 set t_Co=256
 
@@ -131,5 +134,16 @@ let g:UltiSnipsEditSplit="vertical"
 " Vim airline
 set laststatus=2
 let g:airline_powerline_fonts = 1
+
+" Syntastic
+set statusline+=%#warningmsg#
+set statusline+=%{SyntasticStatuslineFlag()}
+set statusline+=%*
+
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_auto_loc_list = 1
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+
 " Allow saving of files as sudo when I forgot to start vim using sudo.
 cmap w!! w !sudo tee > /dev/null %
