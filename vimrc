@@ -57,9 +57,13 @@ au BufNewFile,BufRead *.tex setlocal ft=tex
 "Hard tabstop
 set tabstop=4
 " Size indent
+set expandtab
+set tabstop=4
 set shiftwidth=4
 set softtabstop=4
+set autoindent
 set spell spelllang=en_gb
+
 """" Leader Mappings
 " Tabularize
 map <Leader>a= :Tabularize /=<CR>
@@ -109,11 +113,6 @@ autocmd Filetype sh map <buffer> <Leader>r :w<CR> :!./%<CR>
 set t_Co=256
 
 "Gaz tabs
-set expandtab
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
-set autoindent
 
 autocmd FileType ruby,haml,eruby,yaml,html,javascript,sass,cucumber set ai sw=2 sts=2 et
 autocmd FileType python set sw=4 sts=4 et
@@ -140,7 +139,6 @@ set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 
-let g:syntastic_always_populate_loc_list = 1
 let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
