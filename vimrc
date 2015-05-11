@@ -58,9 +58,13 @@ au BufNewFile,BufRead *.pynb setlocal ft=python
 "Hard tabstop
 set tabstop=4
 " Size indent
+set expandtab
+set tabstop=4
 set shiftwidth=4
 set softtabstop=4
+set autoindent
 set spell spelllang=en_gb
+
 """" Leader Mappings
 " Tabularize
 map <Leader>a= :Tabularize /=<CR>
@@ -103,18 +107,13 @@ inoremap hj <Esc>
 autocmd Filetype c,cpp map <buffer> <Leader>r :w<CR> :!make<CR>
 autocmd Filetype python map <buffer> <Leader>r :w<CR> :!python %<CR>
 autocmd Filetype python map <buffer> <Leader>t :w<CR> :!nosetests<CR>
-autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!maintexfind <bar> latexmk -pdf -xelatex<CR>
-autocmd Filetype tex map <buffer> <Leader>o :!xdg-open *.pdf<CR>
+autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!texfind <bar> xargs latexmk -xelatex<CR>
+autocmd Filetype tex map <buffer> <Leader>o :!open *.pdf<CR>
 autocmd Filetype sh map <buffer> <Leader>r :w<CR> :!./%<CR>
 
 set t_Co=256
 
 "Gaz tabs
-set expandtab
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
-set autoindent
 
 autocmd FileType ruby,haml,eruby,yaml,html,javascript,sass,cucumber set ai sw=2 sts=2 et
 autocmd FileType python set sw=4 sts=4 et
@@ -122,6 +121,7 @@ autocmd FileType python set sw=4 sts=4 et
 " YCM
 let g:ycm_register_as_syntastic_checker = 1
 let g:ycm_collect_identifiers_from_tags_files = 1
+let g:ycm_global_ycm_extra_conf = '~/config/.ycm_extra_conf.py'
 
 " Ultisnips
 " Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
