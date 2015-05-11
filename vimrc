@@ -54,6 +54,7 @@ au BufNewFile,BufRead *.py setlocal fdm=indent
 set foldlevelstart=20
 set scrolloff=5 " Scroll-boundaries
 au BufNewFile,BufRead *.tex setlocal ft=tex
+au BufNewFile,BufRead *.pynb setlocal ft=python
 "Hard tabstop
 set tabstop=4
 " Size indent
@@ -140,8 +141,6 @@ set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 
-let g:syntastic_always_populate_loc_list = 1
-let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
