@@ -49,6 +49,7 @@ set nolist
 set linebreak
 set shell=/bin/bash
 set fdm=syntax
+set backspace=indent,eol,start
 set hlsearch
 au BufNewFile,BufRead *.py setlocal fdm=indent
 set foldlevelstart=20
@@ -64,6 +65,8 @@ set shiftwidth=4
 set softtabstop=4
 set autoindent
 set spell spelllang=en_gb
+
+set wildignore+=*.aux,*.out,*.bbl,*.blg,*.fdb_latexmk,*.fls,*.log,*.pdf,*.run.xml,*.pyc
 
 """" Leader Mappings
 " Tabularize
@@ -141,8 +144,21 @@ set statusline+=%#warningmsg#
 set statusline+=%{SyntasticStatuslineFlag()}
 set statusline+=%*
 
-let g:syntastic_check_on_open = 1
+let g:syntastic_python_checkers = ['flake8', 'pylint']
+let g:syntastic_check_on_open = 0
 let g:syntastic_check_on_wq = 0
+map <Leader>c :SyntasticCheck <CR>
+let g:syntastic_python_flake8_args='--ignore=E501'
 
 " Allow saving of files as sudo when I forgot to start vim using sudo.
 cmap w!! w !sudo tee > /dev/null %
+
+if has("multi_byte")
+    if &termencoding == ""
+        let &termencoding = &encoding
+    endif
+    set encoding=utf-8
+    setglobal fileencoding=utf-8
+    "setglobal bomb
+     set fileencodings=ucs-bom,utf-8,latin1
+endif
