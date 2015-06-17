@@ -148,6 +148,7 @@ let g:syntastic_python_checkers = ['flake8', 'pylint']
 let g:syntastic_check_on_open = 0
 let g:syntastic_check_on_wq = 0
 map <Leader>c :SyntasticCheck <CR>
+
 let g:syntastic_python_flake8_args='--ignore=E501'
 
 " Allow saving of files as sudo when I forgot to start vim using sudo.
