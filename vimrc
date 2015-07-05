@@ -20,6 +20,7 @@ Plugin 'scrooloose/syntastic'
 Plugin 'bling/vim-airline'
 Plugin 'godlygeek/tabular'
 Plugin 'kchmck/vim-coffee-script'
+Plugin 'LaTeX-Box-Team/LaTeX-Box'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -111,8 +112,8 @@ autocmd Filetype c,cpp map <buffer> <Leader>r :w<CR> :!make<CR>
 autocmd Filetype python map <buffer> <Leader>r :w<CR> :!python %<CR>
 autocmd Filetype python map <buffer> <Leader>t :w<CR> :!nosetests<CR>
 autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!texfind <bar> xargs latexmk -xelatex<CR>
-autocmd Filetype tex map <buffer> <Leader>o :!open *.pdf<CR>
 autocmd Filetype sh map <buffer> <Leader>r :w<CR> :!./%<CR>
+autocmd Filetype tex map <silent> <Leader>o :!open *.pdf<CR>
 
 set t_Co=256
 
@@ -163,3 +164,4 @@ if has("multi_byte")
     "setglobal bomb
      set fileencodings=ucs-bom,utf-8,latin1
 endif
+
