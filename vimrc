@@ -67,7 +67,7 @@ set softtabstop=4
 set autoindent
 set spell spelllang=en_gb
 
-set wildignore+=*.aux,*.out,*.bbl,*.blg,*.fdb_latexmk,*.fls,*.log,*.pdf,*.run.xml,*.pyc
+set wildignore+=*.aux,*.out,*.toc,*.bbl,*.blg,*.fdb_latexmk,*.fls,*.log,*.pdf,*.run.xml,*.pyc
 
 """" Leader Mappings
 " Tabularize
