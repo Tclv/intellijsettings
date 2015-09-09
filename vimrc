@@ -126,6 +126,7 @@ autocmd FileType python set sw=4 sts=4 et
 let g:ycm_register_as_syntastic_checker = 1
 let g:ycm_collect_identifiers_from_tags_files = 1
 let g:ycm_global_ycm_extra_conf = '~/config/.ycm_extra_conf.py'
+let g:EclimCompletionMethod = 'omnifunc'
 
 " Ultisnips
 " Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
