@@ -21,6 +21,7 @@ Plugin 'bling/vim-airline'
 Plugin 'godlygeek/tabular'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'LaTeX-Box-Team/LaTeX-Box'
+Plugin 'rizzatti/dash.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -67,7 +68,7 @@ set softtabstop=4
 set autoindent
 set spell spelllang=en_gb
 
-set wildignore+=*.aux,*.out,*.toc,*.bbl,*.blg,*.fdb_latexmk,*.fls,*.log,*.pdf,*.run.xml,*.pyc
+set wildignore+=*.class,*.aux,*.out,*.toc,*.bbl,*.blg,*.fdb_latexmk,*.fls,*.log,*.pdf,*.run.xml,*.pyc
 
 """" Leader Mappings
 " Tabularize
@@ -127,6 +128,9 @@ let g:ycm_register_as_syntastic_checker = 1
 let g:ycm_collect_identifiers_from_tags_files = 1
 let g:ycm_global_ycm_extra_conf = '~/config/.ycm_extra_conf.py'
 let g:EclimCompletionMethod = 'omnifunc'
+
+" Dash
+:nmap <silent> <leader>d <Plug>DashSearch
 
 " Ultisnips
 " Trigger configuration. Do not use <tab> if you use https://github.com/Valloric/YouCompleteMe.
