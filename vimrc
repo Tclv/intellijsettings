@@ -22,6 +22,7 @@ Plugin 'godlygeek/tabular'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'LaTeX-Box-Team/LaTeX-Box'
 Plugin 'rizzatti/dash.vim'
+Plugin 'derekwyatt/vim-scala'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -115,6 +116,8 @@ autocmd Filetype python map <buffer> <Leader>t :w<CR> :!nosetests<CR>
 autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!texfind <bar> xargs latexmk -xelatex<CR>
 autocmd Filetype sh map <buffer> <Leader>r :w<CR> :!./%<CR>
 autocmd Filetype tex map <silent> <Leader>o :!open *.pdf<CR>
+autocmd Filetype java map <silent> <Leader>t :!mvn test<CR>
+autocmd Filetype java map <silent> <Leader>r :!mvn -Pdesktop install<CR>
 
 set t_Co=256
 
