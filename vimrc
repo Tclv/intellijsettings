@@ -61,6 +61,8 @@ au BufNewFile,BufRead *.tex setlocal ft=tex
 au BufNewFile,BufRead *.pynb setlocal ft=python
 "Hard tabstop
 set tabstop=4
+
+cabbr <expr> %% expand('%:p:h')
 " Size indent
 set expandtab
 set tabstop=4
@@ -118,12 +120,13 @@ autocmd Filetype sh map <buffer> <Leader>r :w<CR> :!./%<CR>
 autocmd Filetype tex map <silent> <Leader>o :!open *.pdf<CR>
 autocmd Filetype java map <silent> <Leader>t :!mvn test<CR>
 autocmd Filetype java map <silent> <Leader>r :!mvn -Pdesktop install<CR>
+autocmd Filetype haskell map <buffer> <Leader>r :w<CR> :!hugs %<CR>
 
 set t_Co=256
 
 "Gaz tabs
 
-autocmd FileType ruby,haml,eruby,yaml,html,javascript,sass,cucumber set ai sw=2 sts=2 et
+autocmd FileType ruby,haml,eruby,yaml,html,java,javascript,sass,cucumber set ai sw=2 sts=2 et
 autocmd FileType python set sw=4 sts=4 et
 
 " YCM
