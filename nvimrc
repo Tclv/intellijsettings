@@ -3,7 +3,7 @@ call plug#begin('~/.nvim/plugged')
     Plug 'altercation/vim-colors-solarized'
     Plug 'benekastah/neomake'
     Plug 'kassio/neoterm'
-    Plug 'Valloric/YouCompleteMe', { 'do': './install.py' }
+    Plug 'Valloric/YouCompleteMe', { 'do': './install.py --clang-completer' }
     Plug 'ctrlpvim/ctrlp.vim'
     Plug 'derekwyatt/vim-scala'
 call plug#end()
