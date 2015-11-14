@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
-vim +PluginInstall +qall
+mkdir -p ${XDG_CONFIG_HOME:=$HOME/.config}
+curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ln -s ~/Config/nvimrc ~/.config/nvim/init.vim
+nvim +PlugInstall +qall

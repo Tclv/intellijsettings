@@ -11,4 +11,3 @@ function gi() { curl -L -s https://www.gitignore.io/api/$@ ;}
 
 export KEYTIMEOUT=1
 
-alias eclim="~/Applications/Eclipse.app/Contents/Eclipse/eclimd"

@@ -23,6 +23,7 @@ Plugin 'kchmck/vim-coffee-script'
 Plugin 'LaTeX-Box-Team/LaTeX-Box'
 Plugin 'rizzatti/dash.vim'
 Plugin 'derekwyatt/vim-scala'
+Plugin 'tpope/vim-sleuth'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -59,15 +60,11 @@ set foldlevelstart=20
 set scrolloff=5 " Scroll-boundaries
 au BufNewFile,BufRead *.tex setlocal ft=tex
 au BufNewFile,BufRead *.pynb setlocal ft=python
-"Hard tabstop
-set tabstop=4
+
 
 cabbr <expr> %% expand('%:p:h')
 " Size indent
 set expandtab
-set tabstop=4
-set shiftwidth=4
-set softtabstop=4
 set autoindent
 set spell spelllang=en_gb
 
@@ -101,7 +98,7 @@ map <Leader>ss :split<CR>
 map <Leader>hl :nohlsearch<CR>
 
 
-
+let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
 " Line break behaviour
 nmap j gj
 nmap k gk
@@ -118,16 +115,12 @@ autocmd Filetype python map <buffer> <Leader>t :w<CR> :!nosetests<CR>
 autocmd Filetype tex map <buffer> <Leader>r :w<CR> :!texfind <bar> xargs latexmk -xelatex<CR>
 autocmd Filetype sh map <buffer> <Leader>r :w<CR> :!./%<CR>
 autocmd Filetype tex map <silent> <Leader>o :!open *.pdf<CR>
-autocmd Filetype java map <silent> <Leader>t :!mvn test<CR>
-autocmd Filetype java map <silent> <Leader>r :!mvn -Pdesktop install<CR>
+autocmd Filetype java :ProjectImportDiscover .<CR>
 autocmd Filetype haskell map <buffer> <Leader>r :w<CR> :!hugs %<CR>
 
 set t_Co=256
 
-"Gaz tabs
 
-autocmd FileType ruby,haml,eruby,yaml,html,java,javascript,sass,cucumber set ai sw=2 sts=2 et
-autocmd FileType python set sw=4 sts=4 et
 
 " YCM
 let g:ycm_register_as_syntastic_checker = 1
@@ -159,9 +152,12 @@ set statusline+=%*
 let g:syntastic_python_checkers = ['flake8', 'pylint']
 let g:syntastic_check_on_open = 0
 let g:syntastic_check_on_wq = 0
+let g:syntastic_java_checkers = ['javac', 'checkstyle']
+let g:syntastic_java_javac_config_file_enabled = 1
 map <Leader>c :SyntasticCheck <CR>
 
 let g:syntastic_python_flake8_args='--ignore=E501'
+
 
 " Allow saving of files as sudo when I forgot to start vim using sudo.
 cmap w!! w !sudo tee > /dev/null %
@@ -176,3 +172,6 @@ if has("multi_byte")
      set fileencodings=ucs-bom,utf-8,latin1
 endif
 
+if filereadable(".vimrc_proj")
+    so .vimrc_proj
+endif
