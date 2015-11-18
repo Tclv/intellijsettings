@@ -6,6 +6,8 @@ call plug#begin('~/.nvim/plugged')
     Plug 'Valloric/YouCompleteMe', { 'do': './install.py --clang-completer' }
     Plug 'ctrlpvim/ctrlp.vim'
     Plug 'derekwyatt/vim-scala'
+    Plug 'SirVer/ultisnips'
+    Plug 'honza/vim-snippets'
 call plug#end()
 
 """ Editor settings
@@ -95,6 +97,11 @@ let g:EclimCompletionMethod = 'omnifunc'
 "" Neoterm
 let g:neoterm_position = 'vertical'
 let g:neoterm_automap_keys = ',tt'
+
+"" Ultisnips
+let g:UltiSnipsExpandTrigger="<esc>"
+let g:UltiSnipsJumpForwardTrigger="<c-j>"
+let g:UltiSnipsJumpBackwardTrigger="<c-k>"
 
 """ Read local vim if available in project directory
 if filereadable(".nvimrc_proj")
