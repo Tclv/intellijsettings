@@ -1,22 +1,7 @@
 <scheme name="Solarized Dark (Darcula)" version="141" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
-  </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -1335,6 +1320,9 @@
       <value>
         <option name="FOREGROUND" value="dc322f" />
       </value>
+    </option>
+    <option name="JAVA_DOC_MARKUP">
+      <value />
     </option>
     <option name="JAVA_DOC_TAG">
       <value>
