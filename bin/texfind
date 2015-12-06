@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+if [[ $1 == "" ]];
+then
+    dir="./";
+else
+    dir=$1"/";
+fi
+
+for file in $(ls $dir| grep "\.tex"); do
+    grepp="$(cat $dir$file | grep "documentclass")";
+    if [[ $grepp == *"\\documentclass"* ]];
+    then
+        echo $file;
+    fi
+done
