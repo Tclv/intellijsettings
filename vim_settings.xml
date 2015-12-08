@@ -3,26 +3,68 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1449606254731">
+      <file name="/Dummy.txt" timestamp="1449607210578">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1449607148947">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449607139185">
+        <mark key="'" line="34" column="31" />
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="59" />
+        <mark key="." line="37" column="59" />
+        <mark key="^" line="37" column="59" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" timestamp="1449606943015">
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/physics/PhysicsComponent.java" timestamp="1449607091609">
+        <mark key="[" line="10" column="64" />
+        <mark key="]" line="10" column="62" />
+        <mark key="^" line="10" column="62" />
+        <mark key="." line="10" column="62" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="34" column="31" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" />
+    </jumps>
     <registers>
       <register name="1" type="4">
-        <text>;</text>
+        <text>SCREEN_HEIGHT</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>SCREEN_HEIGHT</text>
       </register>
       <register name="2" type="4">
+        <text>SCREEN_HEIGHT = 600;</text>
+      </register>
+      <register name="3" type="4">
+        <text>S</text>
+      </register>
+      <register name="4" type="4">
+        <text>600</text>
+      </register>
+      <register name="5" type="4">
+        <text>800</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QWRkZWQgYSBtYXAgdGhhdCBnZXRzIHJlbmRlcmVkIGFzIGJhY2tncm91bmQuCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>;</text>
+      </register>
+      <register name="8" type="4">
         <text>n</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>SCREEN_HEIGHT</text>
       </register>
     </registers>
     <search>
@@ -32,14 +74,27 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>w</entry>
         <entry>sp</entry>
         <entry>sv</entry>
         <entry>vs</entry>
+        <entry>vertical resize +5</entry>
+        <entry>split</entry>
+        <entry>vsplit</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
