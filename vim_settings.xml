@@ -40,11 +40,11 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/com/elevatormusic/renderer/MapRenderer.java" timestamp="1449589305939">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="20" column="48" />
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/com/elevatormusic/renderer/MapRenderer.java" timestamp="1449590620264">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
+        <mark key="^" line="30" column="16" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/MapRenderer.java" timestamp="1449588493568">
         <mark key="[" line="0" column="8" />
@@ -169,11 +169,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/Development/ElevatorMusic/desktop/src/com/elevatormusic/desktop/DesktopLauncher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKVU1QX0FDQ0VMRVJBVElPTlw+</text>
@@ -181,32 +181,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIGludCBTUFJJVEVfV0lEVEggPSAzODsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>i</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>i</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>m</text>
       </register>
       <register name="5" type="4">
-        <text>filename</text>
+        <text>m</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>}</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">VGlsZWRNYXAg</text>
+        <text>}</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAoKCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYWRsb2dpYy5nZHguZ3JhcGhpY3MuQ2FtZXJhOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -233,9 +233,12 @@
       </history-search>
       <history-cmd>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>split</entry>
+        <entry>vsplit</entry>
+        <entry>W</entry>
+        <entry>vs</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -259,6 +262,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
