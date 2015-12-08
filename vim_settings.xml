@@ -25,8 +25,10 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="/a.dummy" timestamp="1449333532335">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/com/elevatormusic/renderer/Room.java" timestamp="1449595272229">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/driver/DriverComponent.java" timestamp="1449332427286">
         <mark key="[" line="14" column="12" />
@@ -40,11 +42,12 @@
         <mark key="." line="15" column="9" />
         <mark key="^" line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/com/elevatormusic/renderer/MapRenderer.java" timestamp="1449594893537">
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="23" />
-        <mark key="^" line="30" column="16" />
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/com/elevatormusic/renderer/MapRenderer.java" timestamp="1449595156960">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="27" column="16" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/MapRenderer.java" timestamp="1449588493568">
         <mark key="[" line="0" column="8" />
@@ -169,10 +172,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/Development/ElevatorMusic/desktop/src/com/elevatormusic/desktop/DesktopLauncher.java" />
       <jump line="11" column="27" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" />
       <jump line="46" column="0" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/Development/ElevatorMusic/core/com/elevatormusic/renderer/MapRenderer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYW1lcmEucG9zaXRpb24uc2V0KHBsYXllci5waHlzaWNzLnBvc2l0aW9uLCAwKTsKICAgICAgICBtYXAucmVuZGVyKGNhbWVyYSk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>player.physics.position);</text>
@@ -184,35 +188,33 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIGludCBTUFJJVEVfV0lEVEggPSAzODsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50W10gQkFDS0dST1VORCA9IHswfTsKICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50W10gRk9SRUdST1VORCA9IHsxfTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBjYW1lcmEucG9zaXRpb24uc2V0KHBsYXllci5waHlzaWNzLnBvc2l0aW9uLCAwKTsKICAgICAgICBtYXAucmVuZGVyKGNhbWVyYSk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>player.physics.position);</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>private</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>private</text>
-      </register>
-      <register name="5" type="4">
-        <text>private</text>
-      </register>
-      <register name="6" type="8">
-        <text>p
-p
-p</text>
-      </register>
-      <register name="7" type="8">
-        <text>p
-p
-p</text>
       </register>
       <register name="8" type="4">
         <text>private</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="9" type="8">
+        <text>p
+p
+p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
