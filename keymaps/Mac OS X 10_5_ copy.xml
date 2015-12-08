@@ -2,4 +2,7 @@
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
 </keymap>
