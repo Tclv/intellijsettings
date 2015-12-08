@@ -8,14 +8,35 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text>;</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>;</text>
+      </register>
+      <register name="2" type="4">
+        <text>n</text>
+      </register>
+      <register name=":" type="4">
+        <text>vs</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+        <entry>sp</entry>
+        <entry>sv</entry>
+        <entry>vs</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
