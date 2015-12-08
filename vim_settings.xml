@@ -40,6 +40,18 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/com/elevatormusic/renderer/MapRenderer.java" timestamp="1449589305939">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="20" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/MapRenderer.java" timestamp="1449588493568">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
+      </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/nacl/core/GameObject.java" timestamp="1449241349030">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="0" column="16" />
@@ -157,11 +169,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/Development/ElevatorMusic/desktop/src/com/elevatormusic/desktop/DesktopLauncher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>filename</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKVU1QX0FDQ0VMRVJBVElPTlw+</text>
@@ -169,32 +181,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIGludCBTUFJJVEVfV0lEVEggPSAzODsK</text>
       </register>
-      <register name="1" type="4">
-        <text>\</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>sensical</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">b2JqZWN0IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Z2FtZSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>gameobjects</text>
+        <text>filename</text>
       </register>
       <register name="6" type="4">
-        <text>Created by dorus on 05/12/15.</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ZmluYWwg</text>
+        <text encoding="base64">VGlsZWRNYXAg</text>
       </register>
-      <register name="8" type="4">
-        <text>public</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIudXBkYXRlKGRlbHRhVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgIAoKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
