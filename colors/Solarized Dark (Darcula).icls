@@ -1,7 +1,10 @@
 <scheme name="Solarized Dark (Darcula)" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -1154,6 +1157,9 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
+    <option name="HAML_RUBY_CODE">
+      <value />
+    </option>
     <option name="HAML_RUBY_START">
       <value>
         <option name="FOREGROUND" value="d33682" />
@@ -1569,6 +1575,9 @@
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="JSP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
