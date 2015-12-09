@@ -708,7 +708,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -781,7 +780,6 @@
         <option name="FOREGROUND" value="d33682" />
       </value>
     </option>
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -1312,9 +1310,6 @@
       <value>
         <option name="FOREGROUND" value="dc322f" />
       </value>
-    </option>
-    <option name="JAVA_DOC_MARKUP">
-      <value />
     </option>
     <option name="JAVA_DOC_TAG">
       <value>
