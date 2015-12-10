@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" timestamp="1449783012293">
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" timestamp="1449784243907">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="31" />
-        <mark key="." line="47" column="31" />
-        <mark key="^" line="47" column="31" />
+        <mark key="[" line="84" column="33" />
+        <mark key="]" line="85" column="32" />
+        <mark key="^" line="85" column="32" />
+        <mark key="." line="85" column="32" />
       </file>
       <file name="/a.dummy" timestamp="1449780305356">
         <mark key="[" line="0" column="0" />
@@ -25,12 +25,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" timestamp="1449782988483">
-        <mark key="'" line="72" column="92" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="12" />
-        <mark key="^" line="71" column="12" />
-        <mark key="." line="71" column="12" />
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" timestamp="1449784440629">
+        <mark key="[" line="39" column="8" />
+        <mark key="]" line="63" column="41" />
+        <mark key="^" line="63" column="41" />
+        <mark key="." line="63" column="41" />
       </file>
       <file name="/fragment.java" timestamp="1449612166519">
         <mark key="[" line="0" column="0" />
@@ -40,6 +39,12 @@
         <mark key="]" line="10" column="62" />
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/Direction.java" timestamp="1449783108762">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -57,55 +62,59 @@
       <jump line="48" column="16" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
       <jump line="72" column="92" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
       <jump line="72" column="0" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
+      <jump line="53" column="12" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
+      <jump line="24" column="24" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
+      <jump line="58" column="24" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
+      <jump line="33" column="23" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb2xsaXNpb25NYXAgPSBidWlsZENvbGxpc2lvbk1hcChtYXApOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQgPSAoSW50ZWdlcikgcHJvcGVydGllcy5nZXQoImhlaWdodCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ3JpZFgpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb2xsaXNpb25NYXAgPSBidWlsZENvbGxpc2lvbk1hcChtYXApOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>height</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBNYXBQcm9wZXJ0aWVzIHByb3BlcnRpZXMgPSBtYXAuZ2V0UHJvcGVydGllcygpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>tile&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>deltaPos</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">VmVjdG9yMiA=</text>
       </register>
       <register name="7" type="4">
-        <text>width</text>
+        <text>.add(deltaPos);</text>
       </register>
-      <register name="8" type="4">
-        <text>tileheight</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmbG9hdCAK</text>
       </register>
-      <register name="9" type="4">
-        <text>height</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -118,6 +127,8 @@
         <entry>console</entry>
         <entry>System.out</entry>
         <entry>create</entry>
+        <entry encoding="base64">XDxjb2xsaXNpb25NYXBcPg==</entry>
+        <entry encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
