@@ -3,15 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" timestamp="1449766954869">
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" timestamp="1449777932400">
         <mark key="'" line="40" column="33" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="23" column="23" />
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
+      <file name="/Dummy.txt" timestamp="1449778064145">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1449766967661">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="9" column="53" />
+        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/GameScreen.java" timestamp="1449608424291">
         <mark key="[" line="0" column="25" />
@@ -45,10 +54,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKiBUZW1wb3JhcnkgYmF0Y2ggZm9yIHJlbmRlcmluZy4gKi8K</text>
+        <text encoding="base64">ICogTWFpbiBjbGFzcyBvZiB0aGUgZ2FtZS4gQ29uY2VybnMgaXRzZWxmIHdpdGggY3JlYXRpbmcKICogdGhlIG1haW4gbWVudSBhbmQgc2V0dGluZyB0aGF0IGFzIHNjcmVlbi4gQWxsb3dzIGFjY2VzcwogKiBmb3IgYWxsIGRpZmZlcmVudCBzY3JlZW5zIHRvIGJlIGFibGUgdG8gc2V0IHNjcmVlbi4K</text>
       </register>
       <register name="-" type="4">
-        <text>desktop/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>800</text>
@@ -56,32 +65,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBra2tyaXZhdGUgR2FtZU9iamVjdCBwbGF5ZXI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKiBUZW1wb3JhcnkgYmF0Y2ggZm9yIHJlbmRlcmluZy4gKi8K</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>desktop/</text>
+        <text>*</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICogc2V0IHNjcmVlbnMK</text>
+      </register>
+      <register name="4" type="4">
+        <text>dynamically</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKiBUZW1wb3JhcnkgYmF0Y2ggZm9yIHJlbmRlcmluZy4gKi8K</text>
+      </register>
+      <register name="6" type="4">
+        <text>desktop/</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5iYWRsb2dpYy5nZHguQXBwbGljYXRpb25BZGFwdGVyOwppbXBvcnQgY29tLmJhZGxvZ2ljLmdkeC5HZHg7CmltcG9ydCBjb20uYmFkbG9naWMuZ2R4LmdyYXBoaWNzLkdMMjA7CmltcG9ydCBjb20uYmFkbG9naWMuZ2R4LmdyYXBoaWNzLk9ydGhvZ3JhcGhpY0NhbWVyYTsKaW1wb3J0IGNvbS5iYWRsb2dpYy5nZHguZ3JhcGhpY3MuVGV4dHVyZTsKaW1wb3J0IGNvbS5iYWRsb2dpYy5nZHguZ3JhcGhpY3MuZzJkLlNwcml0ZUJhdGNoOwppbXBvcnQgY29tLmVsZXZhdG9ybXVzaWMuZ2FtZW9iamVjdC5HYW1lT2JqZWN0OwppbXBvcnQgY29tLmVsZXZhdG9ybXVzaWMuZ2FtZW9iamVjdC5kcml2ZXIuRHJpdmVyQ29tcG9uZW50OwppbXBvcnQgY29tLmVsZXZhdG9ybXVzaWMuZ2FtZW9iamVjdC5waHlzaWNzLlBoeXNpY3NDb21wb25lbnQ7CmltcG9ydCBjb20uZWxldmF0b3JtdXNpYy5nYW1lb2JqZWN0LnJlbmRlcmVyLlJlbmRlcmVyQ29tcG9uZW50OwppbXBvcnQgY29tLmVsZXZhdG9ybXVzaWMucmVuZGVyZXIuUm9vbTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QWRkZWQgYSBtYXAgdGhhdCBnZXRzIHJlbmRlcmVkIGFzIGJhY2tncm91bmQsIHRoZSBtYXAgaXRzZWxmIGFuZCB0aGUgcGljdHVyZSBjb250YWluaW5nIHRoZSB0ZXh0dXJlcyB1c2VkIGluIHRoZSBtYXAuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZmluYWwg</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYWRsb2dpYy5nZHgubWF0aC5WZWN0b3IyOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZmluYWwg</text>
-      </register>
-      <register name="8" type="4">
-        <text>public</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
