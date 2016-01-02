@@ -25,6 +25,13 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" timestamp="1451754073393">
+        <mark key="'" line="12" column="67" />
+        <mark key="[" line="12" column="65" />
+        <mark key="]" line="12" column="67" />
+        <mark key="^" line="12" column="67" />
+        <mark key="." line="12" column="67" />
+      </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" timestamp="1449784440629">
         <mark key="[" line="39" column="8" />
         <mark key="]" line="63" column="41" />
@@ -33,6 +40,12 @@
       </file>
       <file name="/fragment.java" timestamp="1449612166519">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/physics/PhysicsComponent.java" timestamp="1449607091609">
         <mark key="[" line="10" column="64" />
@@ -66,55 +79,76 @@
       <jump line="24" column="24" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
       <jump line="58" column="24" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
       <jump line="33" column="23" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
+      <jump line="38" column="18" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="47" column="12" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="48" column="41" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="49" column="12" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="52" column="12" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="53" column="12" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="41" column="51" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="11" column="66" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="69" column="35" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="14" column="39" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="4" column="34" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="64" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="68" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="72" column="16" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="60" column="42" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="33" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="59" column="34" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="63" column="33" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="67" column="33" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
+      <jump line="12" column="67" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsaXNpb25NYXAgPSBidWlsZENvbGxpc2lvbk1hcChtYXApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</text>
+        <text encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ3JpZFgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGltcHVsc2VWZWN0b3IpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsaXNpb25NYXAgPSBidWlsZENvbGxpc2lvbk1hcChtYXApOwo=</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXBQcm9wZXJ0aWVzIHByb3BlcnRpZXMgPSBtYXAuZ2V0UHJvcGVydGllcygpOwo=</text>
+      <register name="2" type="4">
+        <text>MathUtils.random(-1, 1), MathUtils.random(-1, 1));</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>-</text>
       </register>
       <register name="5" type="4">
-        <text>deltaPos</text>
+        <text>-</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">VmVjdG9yMiA=</text>
+        <text>isButtonPressed</text>
       </register>
       <register name="7" type="4">
-        <text>.add(deltaPos);</text>
+        <text>isButtonPressed</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdCAK</text>
+      <register name="8" type="4">
+        <text>isButtonPressed</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQgCg==</text>
+      <register name="9" type="4">
+        <text>isButtonPressed</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</last-search>
+      <last-search encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -129,18 +163,23 @@
         <entry>create</entry>
         <entry encoding="base64">XDxjb2xsaXNpb25NYXBcPg==</entry>
         <entry encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</entry>
+        <entry>boxBody</entry>
+        <entry>gravity</entry>
+        <entry encoding="base64">XDxpbXB1bHNlVmVjdG9yXD4=</entry>
+        <entry encoding="base64">XDxJbnB1dFw+</entry>
+        <entry encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
         <entry>sv</entry>
         <entry>vs</entry>
         <entry>vertical resize +5</entry>
-        <entry>split</entry>
         <entry>let@/=&quot;&quot;</entry>
         <entry>e</entry>
         <entry>w:</entry>
         <entry>vsplit</entry>
         <entry>W</entry>
+        <entry>split</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
