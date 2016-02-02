@@ -77,6 +77,9 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="8" />
       </file>
+      <file name="/fragment.java" timestamp="1454437781782">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
         <mark key="[" line="33" column="53" />
         <mark key="]" line="33" column="53" />
@@ -88,6 +91,13 @@
         <mark key="]" line="10" column="62" />
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
+      </file>
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454438380734">
+        <mark key="'" line="2" column="36" />
+        <mark key="[" line="95" column="39" />
+        <mark key="]" line="95" column="39" />
+        <mark key="." line="95" column="39" />
+        <mark key="^" line="95" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -149,46 +159,50 @@
       <jump line="9" column="24" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
       <jump line="79" column="16" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
       <jump line="74" column="15" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="89" column="7" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="94" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="2" column="36" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>connecte</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>connecte</text>
       </register>
       <register name="/" type="4">
         <text>grid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja0JvdW5kcyhpLCBqKTsK</text>
+        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>connecte</text>
       </register>
-      <register name="2" type="4">
-        <text>this</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IG5vVGlsZXM7Cg==</text>
+      <register name="3" type="4">
+        <text>StdIn</text>
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBlZHUucHJpbmNldG9uLmNzLmFsZ3M0LlN0ZE91dAo=</text>
       </register>
       <register name="5" type="4">
+        <text>j</text>
+      </register>
+      <register name="6" type="4">
         <text>i</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja0JvdW5kcyhpLCBqKTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>IllegalArgumentException</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkU3RhdHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -245,6 +259,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
