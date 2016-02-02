@@ -70,11 +70,12 @@
         <mark key="^" line="63" column="41" />
         <mark key="." line="63" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" timestamp="1454435627541">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="25" />
-        <mark key="." line="21" column="25" />
-        <mark key="^" line="21" column="25" />
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" timestamp="1454437343309">
+        <mark key="'" line="76" column="15" />
+        <mark key="[" line="32" column="28" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="8" />
+        <mark key="^" line="33" column="8" />
       </file>
       <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
         <mark key="[" line="33" column="53" />
@@ -136,55 +137,67 @@
       <jump line="288" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
       <jump line="12" column="24" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
+      <jump line="32" column="29" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="65" column="21" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="77" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="33" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="66" column="24" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="27" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="9" column="24" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="79" column="16" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
+      <jump line="74" column="15" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</text>
+        <text>grid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IE47Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja0JvdW5kcyhpLCBqKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzCg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this</text>
       </register>
-      <register name="3" type="4">
-        <text>final</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IG5vVGlsZXM7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>boolean</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>1</text>
+        <text>i</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjaGVja0JvdW5kcyhpLCBqKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>+</text>
+        <text>IllegalArgumentException</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">TiA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">KiA=</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</last-search>
+      <last-search>grid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</last-pattern>
+      <last-pattern>grid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -204,6 +217,8 @@
         <entry encoding="base64">XDxpbXB1bHNlVmVjdG9yXD4=</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
         <entry encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</entry>
+        <entry>checkBounds</entry>
+        <entry>grid</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
