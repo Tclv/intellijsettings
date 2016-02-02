@@ -92,12 +92,12 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454441702465">
-        <mark key="'" line="2" column="36" />
-        <mark key="[" line="95" column="39" />
-        <mark key="]" line="95" column="39" />
-        <mark key="." line="95" column="39" />
-        <mark key="^" line="95" column="39" />
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454443426279">
+        <mark key="'" line="0" column="49" />
+        <mark key="[" line="81" column="36" />
+        <mark key="]" line="81" column="36" />
+        <mark key="." line="81" column="36" />
+        <mark key="^" line="81" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -163,55 +163,71 @@
       <jump line="1" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
       <jump line="94" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
       <jump line="2" column="36" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="25" column="22" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="27" column="27" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="28" column="28" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="29" column="27" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="75" column="27" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="80" column="28" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="9" column="24" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="26" column="24" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="95" column="32" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="24" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="84" column="4" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="30" column="27" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
+      <jump line="0" column="49" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>connecte</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>connecte</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>grid</text>
+        <text>checkBounds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgeCA9IGogLSAxOwogICAgICAgIGludCB5ID0gaSAtIDE7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>connecte</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>*</text>
       </register>
-      <register name="3" type="4">
-        <text>StdIn</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuKjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlZHUucHJpbmNldG9uLmNzLmFsZ3M0LlN0ZE91dAo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>j</text>
-      </register>
-      <register name="6" type="4">
-        <text>i</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkU3RhdHM7Cg==</text>
+      <register name="5" type="4">
+        <text>(i - 1) * N + j;</text>
+      </register>
+      <register name="6" type="4">
+        <text>1</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">LSA=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">aWQg</text>
+      </register>
+      <register name="9" type="4">
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>grid</last-search>
+      <last-search>checkBounds</last-search>
       <last-offset />
-      <last-pattern>grid</last-pattern>
+      <last-pattern>checkBounds</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -231,8 +247,10 @@
         <entry encoding="base64">XDxpbXB1bHNlVmVjdG9yXD4=</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
         <entry encoding="base64">XDxpc0J1dHRvblByZXNzZWRcPg==</entry>
-        <entry>checkBounds</entry>
+        <entry>y</entry>
+        <entry>x</entry>
         <entry>grid</entry>
+        <entry>checkBounds</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
