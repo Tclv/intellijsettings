@@ -99,12 +99,12 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454449032179">
-        <mark key="'" line="0" column="49" />
-        <mark key="[" line="91" column="6" />
-        <mark key="]" line="91" column="6" />
-        <mark key="^" line="25" column="12" />
-        <mark key="." line="91" column="6" />
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454503559025">
+        <mark key="'" line="8" column="43" />
+        <mark key="[" line="76" column="12" />
+        <mark key="]" line="76" column="28" />
+        <mark key="^" line="76" column="28" />
+        <mark key="." line="76" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -195,64 +195,47 @@
       <jump line="54" column="30" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" />
       <jump line="2" column="36" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" />
+      <jump line="8" column="43" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>percolatorUnionFind</text>
       </register>
       <register name="-" type="4">
-        <text>isFull</text>
+        <text>percolatorUnionFind</text>
       </register>
       <register name="/" type="4">
         <text>checkBounds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbG93ZXJCb3VuZCA9IERvdWJsZS50b1N0cmluZyhzdGF0cy5jb25maWRlbmNlTG8oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVyY29sYXRvclVuaW9uRmluZC51bmlvbihpZCwgc291cmNlSWQpOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//</text>
+      <register name="1" type="4">
+        <text>percolatorUnionFind</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocGMuaXNPcGVuKDEsNikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVyY29sYXRvclVuaW9uRmluZC51bmlvbihpZCwgc291cmNlSWQpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbiA9IDQwOwogICAgICAgIFBlcmNvbGF0aW9uIHBjID0gbmV3IFBlcmNvbGF0aW9uKG4pOwogICAgICAgIHBjLm9wZW4oMSw2KTsK</text>
+      <register name="3" type="4">
+        <text>percolatorUnionFind</text>
       </register>
       <register name="4" type="4">
-        <text>isFull</text>
+        <text>percolatorUnionFind</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+      <register name="5" type="4">
+        <text>percolatorUnionFind</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpbnB1dCA9IFN0ZEluLnJlYWRBbGxJbnRzKCk7Cg==</text>
+      <register name="6" type="4">
+        <text>percolatorUnionFind</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//</text>
+      <register name="7" type="4">
+        <text>percolatorUnionFind</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQZXJjb2xhdGlvbiBwYyA9IG5ldyBQZXJjb2xhdGlvbigyMDApOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihwYy5pc0Z1bGwoMSwgMSkpOwo=</text>
+      <register name="8" type="4">
+        <text>percolatorUnionFind</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIWdyaWRbaS0xXVtqLTFdOwo=</text>
+      <register name="9" type="4">
+        <text>unionFind</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
