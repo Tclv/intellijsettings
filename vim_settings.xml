@@ -58,12 +58,12 @@
         <mark key="." line="9" column="53" />
         <mark key="^" line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" timestamp="1454447566648">
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" timestamp="1454505850118">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="25" column="40" />
-        <mark key="." line="25" column="40" />
-        <mark key="^" line="25" column="40" />
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+        <mark key="^" line="26" column="25" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/GameScreen.java" timestamp="1449608424291">
         <mark key="[" line="0" column="25" />
@@ -99,7 +99,7 @@
         <mark key="^" line="10" column="62" />
         <mark key="." line="10" column="62" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454503559025">
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454505522471">
         <mark key="'" line="8" column="43" />
         <mark key="[" line="76" column="12" />
         <mark key="]" line="76" column="28" />
@@ -199,10 +199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>percolatorUnionFind</text>
+        <text>isFull</text>
       </register>
       <register name="-" type="4">
-        <text>percolatorUnionFind</text>
+        <text>isFull</text>
       </register>
       <register name="/" type="4">
         <text>checkBounds</text>
@@ -211,22 +211,22 @@
         <text encoding="base64">ICAgICAgICAgICAgcGVyY29sYXRvclVuaW9uRmluZC51bmlvbihpZCwgc291cmNlSWQpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>percolatorUnionFind</text>
+        <text>isFull</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyY29sYXRvclVuaW9uRmluZC51bmlvbihpZCwgc291cmNlSWQpOwo=</text>
+      <register name="2" type="4">
+        <text>isOpen</text>
       </register>
       <register name="3" type="4">
-        <text>percolatorUnionFind</text>
+        <text>!</text>
       </register>
       <register name="4" type="4">
-        <text>percolatorUnionFind</text>
+        <text>Full</text>
       </register>
       <register name="5" type="4">
         <text>percolatorUnionFind</text>
       </register>
-      <register name="6" type="4">
-        <text>percolatorUnionFind</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGVyY29sYXRvclVuaW9uRmluZC51bmlvbihpZCwgc291cmNlSWQpOwo=</text>
       </register>
       <register name="7" type="4">
         <text>percolatorUnionFind</text>
@@ -235,7 +235,7 @@
         <text>percolatorUnionFind</text>
       </register>
       <register name="9" type="4">
-        <text>unionFind</text>
+        <text>percolatorUnionFind</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
