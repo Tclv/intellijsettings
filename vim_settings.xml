@@ -25,6 +25,12 @@
       <file name="/Dummy.txt" timestamp="1454434302703">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" timestamp="1454768864556">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="115" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/test/src/Knapsack.java" timestamp="1452978853382">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="117" column="1" />
@@ -43,12 +49,19 @@
         <mark key="^" line="12" column="67" />
         <mark key="." line="12" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454762293757">
-        <mark key="'" line="46" column="3" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-        <mark key="^" line="139" column="36" />
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Subset.java" timestamp="1454767903843">
+        <mark key="'" line="4" column="25" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="7" />
+      </file>
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454768958100">
+        <mark key="'" line="134" column="13" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/Direction.java" timestamp="1449783108762">
         <mark key="[" line="5" column="23" />
@@ -88,7 +101,7 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1454448153466">
+      <file name="/fragment.java" timestamp="1454768853087">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
@@ -106,31 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="17" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" />
-      <jump line="21" column="30" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="49" column="35" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="21" column="43" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="36" column="33" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="2" column="10" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="31" column="17" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="50" column="25" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="56" column="8" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="48" column="16" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="72" column="92" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="53" column="12" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="24" column="24" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="58" column="24" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="33" column="23" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" />
-      <jump line="38" column="18" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="47" column="12" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="48" column="41" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="49" column="12" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="52" column="12" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="53" column="12" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="41" column="51" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="11" column="66" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="69" column="35" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="14" column="39" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
@@ -205,66 +193,87 @@
       <jump line="23" column="23" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="32" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="46" column="3" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="15" column="7" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="49" column="16" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="9" column="24" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="117" column="35" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="5" column="25" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Subset.java" />
+      <jump line="34" column="4" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="42" column="20" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="52" column="25" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="62" column="30" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="113" column="34" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="125" column="37" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="21" column="36" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="126" column="23" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="140" column="14" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="28" column="22" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="106" column="24" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="14" column="16" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="112" column="12" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="115" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="120" column="13" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" />
+      <jump line="138" column="38" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="141" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="147" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="132" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="134" column="13" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlbSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Ob1N1Y2hFbGVtZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>System.out</text>
       </register>
       <register name="/" type="4">
-        <text>iterator</text>
+        <text>System.out</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDQ7IGkrKykgewogICAgICAgICAgICBkZXEuYWRkTGFzdChhW2ldKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlbSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Ob1N1Y2hFbGVtZW50RXhjZXB0aW9uOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>size</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkT3V0Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text>SourceToHTMLConverter</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdGRPdXQucHJpbnRsbigiSXRlcmFibGUiKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>first</text>
+        <text>System.out</text>
       </register>
       <register name="5" type="4">
-        <text>firs</text>
+        <text>System.out</text>
       </register>
       <register name="6" type="4">
-        <text>first</text>
+        <text>System.out</text>
       </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>System.out</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>System.out</text>
       </register>
       <register name="9" type="4">
-        <text>getNext</text>
+        <text>System.out</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>iterator</last-search>
+      <last-search>System.out</last-search>
       <last-offset />
-      <last-pattern>iterator</last-pattern>
+      <last-pattern>System.out</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>createPlayer</entry>
-        <entry encoding="base64">XDxmbG9hdFw+</entry>
-        <entry encoding="base64">XDxnZXRSYXdEZWx0YVRpbWVcPg==</entry>
-        <entry>800</entry>
         <entry>console</entry>
-        <entry>System.out</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxjb2xsaXNpb25NYXBcPg==</entry>
         <entry encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</entry>
@@ -278,6 +287,12 @@
         <entry>grid</entry>
         <entry>checkBounds</entry>
         <entry>iterator</entry>
+        <entry>next</entry>
+        <entry>enqueue</entry>
+        <entry>Main</entry>
+        <entry>main</entry>
+        <entry>Integer</entry>
+        <entry>System.out</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -289,8 +304,8 @@
         <entry>w:</entry>
         <entry>vsplit</entry>
         <entry>split</entry>
-        <entry>W</entry>
         <entry>&quot;w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
