@@ -43,12 +43,12 @@
         <mark key="^" line="12" column="67" />
         <mark key="." line="12" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454703001746">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="100" column="9" />
-        <mark key="]" line="101" column="38" />
-        <mark key="." line="101" column="38" />
-        <mark key="^" line="101" column="38" />
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454762293757">
+        <mark key="'" line="46" column="3" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="139" column="36" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/Direction.java" timestamp="1449783108762">
         <mark key="[" line="5" column="23" />
@@ -202,55 +202,58 @@
       <jump line="102" column="29" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="110" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="37" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="23" column="23" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="46" column="3" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlbSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
-        <text>checkBounds</text>
+        <text>iterator</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDQ7IGkrKykgewogICAgICAgICAgICBkZXEuYWRkRmlyc3QoYVtpXSk7CiAgICAgICAgfQogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNDsgaSsrKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkZXEucmVtb3ZlTGFzdCgpLmVxdWFscyhhW2ldKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDQ7IGkrKykgewogICAgICAgICAgICBkZXEuYWRkTGFzdChhW2ldKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJlbSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>size</text>
       </register>
       <register name="3" type="4">
-        <text>removeFirst</text>
+        <text>SourceToHTMLConverter</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>first</text>
       </register>
       <register name="5" type="4">
-        <text>deq</text>
+        <text>firs</text>
       </register>
       <register name="6" type="4">
-        <text>removeLast</text>
+        <text>first</text>
       </register>
       <register name="7" type="4">
-        <text>First</text>
+        <text>)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXN0LnNldFByZXZpb3VzKG5ld0xhc3QpOwo=</text>
+      <register name="8" type="4">
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>Next</text>
+        <text>getNext</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>checkBounds</last-search>
+      <last-search>iterator</last-search>
       <last-offset />
-      <last-pattern>checkBounds</last-pattern>
+      <last-pattern>iterator</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -274,6 +277,7 @@
         <entry>x</entry>
         <entry>grid</entry>
         <entry>checkBounds</entry>
+        <entry>iterator</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -286,6 +290,7 @@
         <entry>vsplit</entry>
         <entry>split</entry>
         <entry>W</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
