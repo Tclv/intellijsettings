@@ -25,11 +25,11 @@
       <file name="/Dummy.txt" timestamp="1454434302703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" timestamp="1454768864556">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="115" column="17" />
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" timestamp="1454771245228">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="^" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/test/src/Knapsack.java" timestamp="1452978853382">
         <mark key="[" line="0" column="0" />
@@ -56,12 +56,12 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454768958100">
-        <mark key="'" line="134" column="13" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454771008884">
+        <mark key="'" line="78" column="23" />
+        <mark key="[" line="136" column="7" />
+        <mark key="]" line="136" column="7" />
+        <mark key="." line="136" column="7" />
+        <mark key="^" line="149" column="10" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/Direction.java" timestamp="1449783108762">
         <mark key="[" line="5" column="23" />
@@ -101,7 +101,7 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1454768853087">
+      <file name="/fragment.java" timestamp="1454770835870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
@@ -119,8 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="66" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="69" column="35" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="14" column="39" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="4" column="34" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="64" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
@@ -219,61 +217,62 @@
       <jump line="147" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="132" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="134" column="13" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="18" column="20" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="78" column="23" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Ob1N1Y2hFbGVtZW50RXhjZXB0aW9uOwo=</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIA==</text>
       </register>
       <register name="-" type="4">
-        <text>System.out</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>System.out</text>
+        <text>return next</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Ob1N1Y2hFbGVtZW50RXhjZXB0aW9uOwo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkT3V0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdGRPdXQucHJpbnRsbigiSXRlcmFibGUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBEZXF1ZTxJbnRlZ2VyPiBkZXEgPSBuZXcgRGVxdWU8PigpOwogICAgICAgIGRlcS5hZGRGaXJzdCgxKTsKICAgICAgICBkZXEuYWRkTGFzdCgyKTsKICAgICAgICBkZXEucmVtb3ZlTGFzdCgpOwogICAgICAgIGRlcS5hZGRMYXN0KDQpOwogICAgICAgIGRlcS5yZW1vdmVGaXJzdCgpOwogICAgICAgIGRlcS5hZGRMYXN0KDYpOwogICAgICAgIGRlcS5yZW1vdmVMYXN0KCk7CiAgICAgICAgZGVxLmFkZExhc3QoOCk7CiAgICAgICAgZGVxLnJlbW92ZUZpcnN0KCk7CiAgICAgICAgZGVxLnJlbW92ZUZpcnN0KCk7CiAgICAgICAgZGVxLmFkZEZpcnN0KDExKTsKICAgICAgICBkZXEucmVtb3ZlTGFzdCgpOwogICAgICAgIGZvcihpbnQgaiA6IGRlcSkgewogICAgICAgICAgICBTdGRPdXQucHJpbnRsbihqKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>System.out</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text>System.out</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>System.out</text>
+        <text>{</text>
       </register>
       <register name="7" type="4">
-        <text>System.out</text>
+        <text>last.setNext(null) {</text>
       </register>
       <register name="8" type="4">
-        <text>System.out</text>
+        <text>last</text>
       </register>
-      <register name="9" type="4">
-        <text>System.out</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlIGZpcnN0ID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>System.out</last-search>
+      <last-search>return next</last-search>
       <last-offset />
-      <last-pattern>System.out</last-pattern>
+      <last-pattern>return next</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxjb2xsaXNpb25NYXBcPg==</entry>
         <entry encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</entry>
@@ -293,6 +292,7 @@
         <entry>main</entry>
         <entry>Integer</entry>
         <entry>System.out</entry>
+        <entry>return next</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
