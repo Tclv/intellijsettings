@@ -74,12 +74,18 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455275823184">
-        <mark key="'" line="131" column="26" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="74" column="53" />
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455277852015">
+        <mark key="'" line="60" column="19" />
+        <mark key="[" line="74" column="35" />
+        <mark key="]" line="74" column="43" />
+        <mark key="." line="74" column="43" />
+        <mark key="^" line="74" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" timestamp="1455277792231">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
         <mark key="[" line="7" column="0" />
@@ -128,16 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="33" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="59" column="34" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="63" column="33" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="67" column="33" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="12" column="67" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="290" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/test/src/Runner.java" />
-      <jump line="3" column="21" filename="$USER_HOME$/Desktop/test/src/Knapsack.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/test/src/Knapsack.java" />
       <jump line="288" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
       <jump line="12" column="24" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
@@ -228,16 +224,26 @@
       <jump line="131" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
       <jump line="23" column="4" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
       <jump line="124" column="26" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="136" column="4" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="121" column="42" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="116" column="15" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="114" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="111" column="19" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="109" column="29" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="105" column="11" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="104" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="62" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="60" column="19" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>compareTO</text>
+        <text>slope</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
@@ -246,44 +252,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHtudWxsfTsK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>null</text>
       </register>
       <register name="4" type="4">
-        <text>:while ()</text>
+        <text>'</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
-      <register name="6" type="4">
-        <text>+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="4">
-        <text>x2</text>
+        <text>Created by dorus on 2/12/16.</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>null</text>
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>original</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>compareTO</last-search>
+      <last-search>slope</last-search>
       <last-offset />
-      <last-pattern>compareTO</last-pattern>
+      <last-pattern>slope</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</entry>
-        <entry>boxBody</entry>
         <entry>gravity</entry>
         <entry encoding="base64">XDxpbXB1bHNlVmVjdG9yXD4=</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
@@ -302,6 +306,8 @@
         <entry>return next</entry>
         <entry>compare</entry>
         <entry>compareTO</entry>
+        <entry>toSlope</entry>
+        <entry>slope</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
