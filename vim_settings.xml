@@ -74,12 +74,12 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455274109991">
-        <mark key="'" line="131" column="34" />
-        <mark key="[" line="131" column="35" />
-        <mark key="]" line="132" column="40" />
-        <mark key="." line="132" column="40" />
-        <mark key="^" line="132" column="40" />
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455275823184">
+        <mark key="'" line="131" column="26" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="74" column="53" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
         <mark key="[" line="7" column="0" />
@@ -128,8 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="16" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="60" column="42" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="33" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="59" column="34" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
@@ -228,62 +226,62 @@
       <jump line="13" column="1" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
       <jump line="131" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="23" column="4" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="124" column="26" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlZHUucHJpbmNldG9uLmNzLmFsZ3M0LlN0ZE91dEQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Main</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>return next</text>
+        <text>compareTO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlZHUucHJpbmNldG9uLmNzLmFsZ3M0LlN0ZE91dEQK</text>
-      </register>
-      <register name="2" type="4">
-        <text>Main</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">UmV0dXJuIA==</text>
-      </register>
-      <register name="4" type="4">
-        <text>n</text>
-      </register>
-      <register name="5" type="4">
-        <text>this</text>
-      </register>
-      <register name="6" type="4">
-        <text>that</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBZT1VSIENPREUgSEVSRSAqLwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIA==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>:while ()</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>+</text>
+      </register>
+      <register name="7" type="4">
+        <text>x2</text>
+      </register>
+      <register name="8" type="4">
+        <text>1</text>
+      </register>
+      <register name="9" type="4">
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>return next</last-search>
+      <last-search>compareTO</last-search>
       <last-offset />
-      <last-pattern>return next</last-pattern>
+      <last-pattern>compareTO</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
-        <entry encoding="base64">XDxjb2xsaXNpb25NYXBcPg==</entry>
         <entry encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</entry>
         <entry>boxBody</entry>
         <entry>gravity</entry>
@@ -302,6 +300,8 @@
         <entry>Integer</entry>
         <entry>System.out</entry>
         <entry>return next</entry>
+        <entry>compare</entry>
+        <entry>compareTO</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
