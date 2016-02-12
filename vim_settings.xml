@@ -74,18 +74,24 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455299378252">
-        <mark key="'" line="60" column="19" />
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="74" column="43" />
-        <mark key="." line="74" column="43" />
-        <mark key="^" line="74" column="43" />
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455304127924">
+        <mark key="'" line="59" column="19" />
+        <mark key="[" line="145" column="37" />
+        <mark key="]" line="145" column="37" />
+        <mark key="." line="145" column="37" />
+        <mark key="^" line="145" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" timestamp="1455277792231">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="19" />
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" timestamp="1455304918492">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" timestamp="1455304657015">
+        <mark key="'" line="52" column="18" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="15" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
         <mark key="[" line="7" column="0" />
@@ -134,12 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
-      <jump line="12" column="24" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
-      <jump line="32" column="29" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
-      <jump line="65" column="21" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
-      <jump line="77" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
       <jump line="25" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
       <jump line="33" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
       <jump line="72" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
@@ -234,46 +234,52 @@
       <jump line="104" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
       <jump line="62" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
       <jump line="60" column="19" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="31" column="37" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="32" column="37" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="30" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="7" column="24" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="41" column="20" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="52" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50c1tdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>slope</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUG9pbnQgZmluZE1pblBvaW50KFBvaW50IHAsIFBvaW50IHEsIFBvaW50IHIsIFBvaW50IHMpIHsKICAgICAgICBQb2ludFtdIHN1YnBvaW50cyA9IG5ldyBQb2ludFtdIHtwLCBxLCByLCBzfTsKICAgICAgICBBcnJheXMuc29ydChzdWJwb2ludHMpOwogICAgICAgIHJldHVybiBzdWJwb2ludHNbMF07CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50c1tdCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IHtudWxsfTsK</text>
+      <register name="2" type="4">
+        <text>-</text>
       </register>
       <register name="3" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogCg==</text>
-      </register>
-      <register name="7" type="4">
         <text>Created by dorus on 2/12/16.</text>
       </register>
-      <register name="8" type="4">
-        <text>null</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBGYXN0Q29sbGluZWFyUG9pbnRzKFBvaW50c1tdIHBvaW50cykgewo=</text>
       </register>
       <register name="9" type="4">
-        <text>original</text>
+        <text>subpoints</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -314,13 +320,13 @@
         <entry>sv</entry>
         <entry>vs</entry>
         <entry>vertical resize +5</entry>
-        <entry>let@/=&quot;&quot;</entry>
         <entry>e</entry>
         <entry>w:</entry>
         <entry>vsplit</entry>
         <entry>split</entry>
-        <entry>&quot;w</entry>
         <entry>W</entry>
+        <entry>&quot;w</entry>
+        <entry>let@/=&quot;&quot;</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
