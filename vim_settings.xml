@@ -36,6 +36,12 @@
         <mark key="]" line="117" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/Chat.java" timestamp="1455287743524">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/driver/PlayerStates.java" timestamp="1454953618002">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="38" column="12" />
@@ -61,6 +67,19 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/Main.java" timestamp="1455293968343">
+        <mark key="'" line="15" column="43" />
+        <mark key="[" line="13" column="59" />
+        <mark key="]" line="13" column="62" />
+        <mark key="." line="13" column="62" />
+        <mark key="^" line="13" column="62" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/ChatClient.java" timestamp="1455292903411">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
       <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454771008884">
         <mark key="'" line="78" column="23" />
         <mark key="[" line="136" column="7" />
@@ -73,6 +92,12 @@
         <mark key="]" line="7" column="10" />
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/ChatService.java" timestamp="1455292647861">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
         <mark key="[" line="7" column="0" />
@@ -106,7 +131,7 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1454770835870">
+      <file name="/fragment.java" timestamp="1455293945320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
@@ -124,10 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="39" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="4" column="34" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="64" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="68" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="72" column="16" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="60" column="42" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
       <jump line="79" column="0" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
@@ -224,61 +245,64 @@
       <jump line="134" column="13" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="18" column="20" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="78" column="23" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/Main.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/ChatClient.java" />
+      <jump line="14" column="45" filename="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/ChatClient.java" />
+      <jump line="15" column="43" filename="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/Main.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIA==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>return next</text>
+        <text encoding="base64">XDxVbmljYXN0UmVtb3RlT2JqZWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIAovLyAKLy8gCi8vIA==</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZXF1ZTxJbnRlZ2VyPiBkZXEgPSBuZXcgRGVxdWU8PigpOwogICAgICAgIGRlcS5hZGRGaXJzdCgxKTsKICAgICAgICBkZXEuYWRkTGFzdCgyKTsKICAgICAgICBkZXEucmVtb3ZlTGFzdCgpOwogICAgICAgIGRlcS5hZGRMYXN0KDQpOwogICAgICAgIGRlcS5yZW1vdmVGaXJzdCgpOwogICAgICAgIGRlcS5hZGRMYXN0KDYpOwogICAgICAgIGRlcS5yZW1vdmVMYXN0KCk7CiAgICAgICAgZGVxLmFkZExhc3QoOCk7CiAgICAgICAgZGVxLnJlbW92ZUZpcnN0KCk7CiAgICAgICAgZGVxLnJlbW92ZUZpcnN0KCk7CiAgICAgICAgZGVxLmFkZEZpcnN0KDExKTsKICAgICAgICBkZXEucmVtb3ZlTGFzdCgpOwogICAgICAgIGZvcihpbnQgaiA6IGRlcSkgewogICAgICAgICAgICBTdGRPdXQucHJpbnRsbihqKTsKICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>:</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>m</text>
       </register>
       <register name="6" type="4">
-        <text>{</text>
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>last.setNext(null) {</text>
+        <text>localhost</text>
       </register>
       <register name="8" type="4">
-        <text>last</text>
+        <text>Hello World!</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIGZpcnN0ID0gbnVsbDsK</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>return next</last-search>
+      <last-search encoding="base64">XDxVbmljYXN0UmVtb3RlT2JqZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>return next</last-pattern>
+      <last-pattern encoding="base64">XDxVbmljYXN0UmVtb3RlT2JqZWN0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry encoding="base64">XDxjb2xsaXNpb25NYXBcPg==</entry>
         <entry encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</entry>
         <entry>boxBody</entry>
@@ -298,6 +322,7 @@
         <entry>Integer</entry>
         <entry>System.out</entry>
         <entry>return next</entry>
+        <entry encoding="base64">XDxVbmljYXN0UmVtb3RlT2JqZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -310,6 +335,7 @@
         <entry>vsplit</entry>
         <entry>split</entry>
         <entry>&quot;w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
@@ -328,6 +354,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
