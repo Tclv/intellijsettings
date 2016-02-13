@@ -74,18 +74,18 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455376353533">
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455377152987">
         <mark key="'" line="164" column="26" />
         <mark key="[" line="164" column="44" />
         <mark key="]" line="164" column="44" />
         <mark key="." line="164" column="49" />
         <mark key="^" line="164" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" timestamp="1455376546834">
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="43" />
-        <mark key="." line="25" column="43" />
-        <mark key="^" line="28" column="40" />
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" timestamp="1455377297074">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="25" column="52" />
       </file>
       <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" timestamp="1455376330009">
         <mark key="'" line="12" column="8" />
@@ -243,8 +243,8 @@
       <jump line="164" column="26" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sortedPoints[j].slopeTo() != currentSlope</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb3J0ZWRQb2ludHNbal0uc2xvcGVUbyhjdXJyZW50UG9pbnQpKTsK</text>
       </register>
       <register name="-" type="4">
         <text>sortedPoints[j].slopeTo() != currentSlope</text>
@@ -255,32 +255,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMaW5lU2VnbWVudFtdIHNlZ21lbnRhcnIgPSBuZXcgTGluZVNlZ21lbnRbc2VnbWVudHMuc2l6ZSgpXTsKICAgICAgICByZXR1cm4gc2VnbWVudHMudG9BcnJheShzZWdtZW50YXJyKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>sortedPoints[j].slopeTo() != currentSlope</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzb3J0ZWRQb2ludHNbal0uc2xvcGVUbyhjdXJyZW50UG9pbnQpKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>currentPoint</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>BruteCollinearPoints</text>
+        <text>sortedPoints[j].slopeTo() != currentSlope</text>
       </register>
       <register name="4" type="4">
+        <text>currentPoint</text>
+      </register>
+      <register name="5" type="4">
         <text>BruteCollinearPoints</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>BruteCollinearPoints</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUG9pbnQgY3VycmVudFBvaW50ID0gcG9pbnRzW2ldOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
