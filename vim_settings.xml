@@ -36,12 +36,6 @@
         <mark key="]" line="117" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/Chat.java" timestamp="1455287743524">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-      </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/driver/PlayerStates.java" timestamp="1454953618002">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="38" column="12" />
@@ -67,19 +61,6 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/Main.java" timestamp="1455293968343">
-        <mark key="'" line="15" column="43" />
-        <mark key="[" line="13" column="59" />
-        <mark key="]" line="13" column="62" />
-        <mark key="." line="13" column="62" />
-        <mark key="^" line="13" column="62" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/ChatClient.java" timestamp="1455292903411">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-      </file>
       <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454771008884">
         <mark key="'" line="78" column="23" />
         <mark key="[" line="136" column="7" />
@@ -93,11 +74,24 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/ChatService.java" timestamp="1455292647861">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="4" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="7" column="4" />
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455304127924">
+        <mark key="'" line="59" column="19" />
+        <mark key="[" line="145" column="37" />
+        <mark key="]" line="145" column="37" />
+        <mark key="." line="145" column="37" />
+        <mark key="^" line="145" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" timestamp="1455304918492">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" timestamp="1455304657015">
+        <mark key="'" line="52" column="18" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="15" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
         <mark key="[" line="7" column="0" />
@@ -131,9 +125,6 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1455293945320">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
         <mark key="[" line="33" column="53" />
         <mark key="]" line="33" column="53" />
@@ -149,24 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="16" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="60" column="42" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="33" column="38" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="59" column="34" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="63" column="33" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="67" column="33" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="12" column="67" filename="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" />
-      <jump line="290" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/Desktop/test/src/Runner.java" />
-      <jump line="3" column="21" filename="$USER_HOME$/Desktop/test/src/Knapsack.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/test/src/Knapsack.java" />
-      <jump line="288" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
-      <jump line="12" column="24" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" />
-      <jump line="32" column="29" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
-      <jump line="65" column="21" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
-      <jump line="77" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
       <jump line="25" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
       <jump line="33" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
       <jump line="72" column="8" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" />
@@ -245,67 +218,82 @@
       <jump line="134" column="13" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="18" column="20" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
       <jump line="78" column="23" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/Main.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/ChatClient.java" />
-      <jump line="14" column="45" filename="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/ChatClient.java" />
-      <jump line="15" column="43" filename="$USER_HOME$/Development/Distributed-Algorithms/HelloWorld/src/Main.java" />
+      <jump line="132" column="36" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="13" column="1" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="131" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="23" column="4" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="124" column="26" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="136" column="4" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="121" column="42" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="116" column="15" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="114" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="111" column="19" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="109" column="29" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="105" column="11" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="104" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="62" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="60" column="19" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
+      <jump line="31" column="37" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="32" column="37" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="30" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="7" column="24" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="41" column="20" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
+      <jump line="52" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50c1tdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVbmljYXN0UmVtb3RlT2JqZWN0XD4=</text>
+        <text>slope</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGVkdS5wcmluY2V0b24uY3MuYWxnczQuU3RkSW47Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUG9pbnQgZmluZE1pblBvaW50KFBvaW50IHAsIFBvaW50IHEsIFBvaW50IHIsIFBvaW50IHMpIHsKICAgICAgICBQb2ludFtdIHN1YnBvaW50cyA9IG5ldyBQb2ludFtdIHtwLCBxLCByLCBzfTsKICAgICAgICBBcnJheXMuc29ydChzdWJwb2ludHMpOwogICAgICAgIHJldHVybiBzdWJwb2ludHNbMF07CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaW50c1tdCg==</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>-</text>
       </register>
       <register name="3" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="5" type="4">
-        <text>m</text>
+        <text>Created by dorus on 2/12/16.</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>localhost</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="8" type="4">
-        <text>Hello World!</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBGYXN0Q29sbGluZWFyUG9pbnRzKFBvaW50c1tdIHBvaW50cykgewo=</text>
       </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>subpoints</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVbmljYXN0UmVtb3RlT2JqZWN0XD4=</last-search>
+      <last-search>slope</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVbmljYXN0UmVtb3RlT2JqZWN0XD4=</last-pattern>
+      <last-pattern>slope</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2xsaXNpb25NYXBcPg==</entry>
-        <entry encoding="base64">XDxidWlsZENvbGxpc2lvbk1hcFw+</entry>
-        <entry>boxBody</entry>
         <entry>gravity</entry>
         <entry encoding="base64">XDxpbXB1bHNlVmVjdG9yXD4=</entry>
         <entry encoding="base64">XDxJbnB1dFw+</entry>
@@ -322,21 +310,23 @@
         <entry>Integer</entry>
         <entry>System.out</entry>
         <entry>return next</entry>
-        <entry encoding="base64">XDxVbmljYXN0UmVtb3RlT2JqZWN0XD4=</entry>
+        <entry>compare</entry>
+        <entry>compareTO</entry>
+        <entry>toSlope</entry>
+        <entry>slope</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
         <entry>sv</entry>
         <entry>vs</entry>
         <entry>vertical resize +5</entry>
-        <entry>let@/=&quot;&quot;</entry>
         <entry>e</entry>
         <entry>w:</entry>
         <entry>vsplit</entry>
         <entry>split</entry>
-        <entry>&quot;w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
+        <entry>&quot;w</entry>
+        <entry>let@/=&quot;&quot;</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -356,7 +346,7 @@
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
