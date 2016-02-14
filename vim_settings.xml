@@ -9,27 +9,17 @@
         <mark key="]" line="310" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" timestamp="1449784243907">
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" timestamp="1455461969170">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="84" column="33" />
-        <mark key="]" line="85" column="32" />
-        <mark key="^" line="85" column="32" />
-        <mark key="." line="85" column="32" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/com/company/Percolation.java" timestamp="1454434508677">
         <mark key="[" line="6" column="44" />
         <mark key="]" line="7" column="30" />
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1454434302703">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" timestamp="1454773659977">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/test/src/Knapsack.java" timestamp="1452978853382">
         <mark key="[" line="0" column="0" />
@@ -40,12 +30,6 @@
         <mark key="[" line="38" column="10" />
         <mark key="]" line="38" column="12" />
         <mark key="." line="38" column="12" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/src/Runner.java" timestamp="1452978980853">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" timestamp="1451754073393">
         <mark key="'" line="12" column="67" />
@@ -61,6 +45,55 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/DebugInfoRenderer.java" timestamp="1455462105044">
+        <mark key="[" line="17" column="41" />
+        <mark key="]" line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="48" />
+      </file>
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" timestamp="1455384196288">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="81" column="20" />
+        <mark key="]" line="82" column="50" />
+        <mark key="." line="82" column="50" />
+        <mark key="^" line="82" column="50" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="9" column="53" />
+        <mark key="^" line="9" column="53" />
+      </file>
+      <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+        <mark key="^" line="33" column="53" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/physics/PhysicsComponent.java" timestamp="1455461914726" />
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" timestamp="1455463169153">
+        <mark key="'" line="51" column="21" />
+        <mark key="[" line="61" column="18" />
+        <mark key="]" line="61" column="18" />
+        <mark key="^" line="45" column="18" />
+        <mark key="." line="61" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1454434302703">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" timestamp="1454773659977">
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="^" line="40" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/test/src/Runner.java" timestamp="1452978980853">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObject.java" timestamp="1455462637648" />
       <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454771008884">
         <mark key="'" line="78" column="23" />
         <mark key="[" line="136" column="7" />
@@ -85,24 +118,12 @@
         <mark key="." line="146" column="37" />
         <mark key="^" line="146" column="37" />
       </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" timestamp="1455384196288">
-        <mark key="'" line="31" column="8" />
-        <mark key="[" line="81" column="20" />
-        <mark key="]" line="82" column="50" />
-        <mark key="." line="82" column="50" />
-        <mark key="^" line="82" column="50" />
-      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/PlayerConstants.java" timestamp="1455461788991" />
       <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" timestamp="1455382319642">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="53" />
-        <mark key="." line="9" column="53" />
-        <mark key="^" line="9" column="53" />
       </file>
       <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" timestamp="1454505850118">
         <mark key="'" line="3" column="0" />
@@ -123,18 +144,18 @@
         <mark key="^" line="63" column="41" />
         <mark key="." line="63" column="41" />
       </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1455462116731">
+        <mark key="[" line="84" column="39" />
+        <mark key="]" line="84" column="46" />
+        <mark key="." line="84" column="46" />
+        <mark key="^" line="84" column="46" />
+      </file>
       <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" timestamp="1454437343309">
         <mark key="'" line="76" column="15" />
         <mark key="[" line="32" column="28" />
         <mark key="]" line="33" column="8" />
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="8" />
-      </file>
-      <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
-        <mark key="[" line="33" column="53" />
-        <mark key="]" line="33" column="53" />
-        <mark key="." line="33" column="53" />
-        <mark key="^" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454505522471">
         <mark key="'" line="8" column="43" />
@@ -145,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" />
       <jump line="53" column="59" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" />
       <jump line="55" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" />
@@ -245,61 +265,61 @@
       <jump line="18" column="38" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
       <jump line="95" column="1" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
       <jump line="31" column="8" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
+      <jump line="43" column="21" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>299</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>System</text>
+        <text encoding="base64">XDxXQUxLUkxFRlRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwb2ludHMgPSBBcnJheXMuY29weU9mKHBvaW50cywgbik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwo=</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>299</text>
+        <text>col</text>
       </register>
       <register name="3" type="4">
-        <text>9</text>
+        <text>row</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzbG9wZXMpOwo=</text>
+      <register name="4" type="4">
+        <text />
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5IYXNoTWFwOwo=</text>
+      <register name="5" type="4">
+        <text>n</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihlbmQpOwo=</text>
+      <register name="6" type="4">
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>+</text>
+        <text>deltaTime</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>System</last-search>
+      <last-search encoding="base64">XDxXQUxLUkxFRlRcPg==</last-search>
       <last-offset />
-      <last-pattern>System</last-pattern>
+      <last-pattern encoding="base64">XDxXQUxLUkxFRlRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>checkBounds</entry>
         <entry>iterator</entry>
         <entry>next</entry>
         <entry>enqueue</entry>
@@ -319,6 +339,7 @@
         <entry>input</entry>
         <entry encoding="base64">XDxzbG9wZXNTZWdtZW50c1w+</entry>
         <entry>System</entry>
+        <entry encoding="base64">XDxXQUxLUkxFRlRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -333,8 +354,8 @@
         <entry>let@/=&quot;&quot;</entry>
         <entry>s</entry>
         <entry>Lw</entry>
-        <entry>W</entry>
         <entry>w:w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
