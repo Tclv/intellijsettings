@@ -13,6 +13,7 @@
         <mark key="'" line="73" column="0" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
+        <mark key="^" line="85" column="32" />
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/com/company/Percolation.java" timestamp="1454434508677">
@@ -105,7 +106,7 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week2/src/RandomizedQueue.java" timestamp="1455382542385">
+      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week2/src/RandomizedQueue.java" timestamp="1455566283118">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="47" />
       </file>
@@ -317,6 +318,7 @@
     </search>
     <history>
       <history-search>
+        <entry>checkBounds</entry>
         <entry>iterator</entry>
         <entry>next</entry>
         <entry>enqueue</entry>
@@ -336,7 +338,6 @@
         <entry>input</entry>
         <entry encoding="base64">XDxzbG9wZXNTZWdtZW50c1w+</entry>
         <entry>System</entry>
-        <entry encoding="base64">XDxXQUxLUkxFRlRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -351,8 +352,8 @@
         <entry>let@/=&quot;&quot;</entry>
         <entry>s</entry>
         <entry>Lw</entry>
-        <entry>w:w</entry>
         <entry>W</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
