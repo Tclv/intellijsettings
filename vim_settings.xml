@@ -40,11 +40,11 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" timestamp="1457803779167">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="6" column="31" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" timestamp="1457804258238">
+        <mark key="[" line="51" column="12" />
+        <mark key="]" line="51" column="12" />
         <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="31" />
+        <mark key="." line="51" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -121,11 +121,11 @@
       <jump line="18" column="54" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Created by dorus on 10/03/16.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
@@ -133,32 +133,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b1N0cmluZyhpZCkgKyAiIGlzIGRvbmUgIik7Cg==</text>
+      <register name="2" type="4">
+        <text>t</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
+      <register name="3" type="4">
+        <text>n</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbW0uaGFzTWVzc2FnZSgpKSB7CiAgICAgICAgICAgICAgICBNZXNzYWdlIG0gPSBjb21tLmRlbGl2ZXIoKTsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKEludGVnZXIucGFyc2VJbnQobS5nZXRNZXNzYWdlKCkpKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
       <register name="5" type="4">
-        <text>Created by dorus on 10/03/16.</text>
+        <text>(</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGsrKzsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>+</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b1N0cmluZyhpZCkgKyAiIGlzIGRvbmUgIik7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbW0uaGFzTWVzc2FnZSgpKSB7CiAgICAgICAgICAgICAgICBNZXNzYWdlIG0gPSBjb21tLmRlbGl2ZXIoKTsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKEludGVnZXIucGFyc2VJbnQobS5nZXRNZXNzYWdlKCkpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>.,.+1w</text>
