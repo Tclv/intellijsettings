@@ -3,441 +3,145 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/test/src/ProjectScheduling.java" timestamp="1453041237033">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="310" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" timestamp="1457794422010">
+        <mark key="'" line="26" column="50" />
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="15" column="70" />
+        <mark key="." line="15" column="70" />
+        <mark key="^" line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_RMI.java" timestamp="1457702908242">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457794340648">
+        <mark key="'" line="28" column="7" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="47" />
+        <mark key="." line="25" column="47" />
+        <mark key="^" line="25" column="47" />
       </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" timestamp="1455461969170">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="85" column="32" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457794432897">
+        <mark key="'" line="12" column="50" />
+        <mark key="[" line="7" column="55" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
+        <mark key="^" line="7" column="93" />
       </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/com/company/Percolation.java" timestamp="1454434508677">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="7" column="30" />
-        <mark key="^" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/src/Knapsack.java" timestamp="1452978853382">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="117" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Ack.java" timestamp="1457705844032">
-        <mark key="[" line="8" column="61" />
-        <mark key="]" line="8" column="66" />
-        <mark key="^" line="8" column="66" />
-        <mark key="." line="8" column="66" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/driver/PlayerStates.java" timestamp="1454953618002">
-        <mark key="[" line="38" column="10" />
-        <mark key="]" line="38" column="12" />
-        <mark key="." line="38" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/PhysicsWorld.java" timestamp="1451754073393">
-        <mark key="'" line="12" column="67" />
-        <mark key="[" line="12" column="65" />
-        <mark key="]" line="12" column="67" />
-        <mark key="^" line="12" column="67" />
-        <mark key="." line="12" column="67" />
-      </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Subset.java" timestamp="1454767903843">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
-        <mark key="^" line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/DebugInfoRenderer.java" timestamp="1455462105044">
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="48" />
-        <mark key="^" line="17" column="48" />
-        <mark key="." line="17" column="48" />
-      </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" timestamp="1455384196288">
-        <mark key="'" line="31" column="8" />
-        <mark key="[" line="81" column="20" />
-        <mark key="]" line="82" column="50" />
-        <mark key="." line="82" column="50" />
-        <mark key="^" line="82" column="50" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457705997584">
-        <mark key="[" line="32" column="43" />
-        <mark key="]" line="32" column="43" />
-        <mark key="." line="32" column="43" />
-        <mark key="^" line="32" column="43" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1449778053489">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="53" />
-        <mark key="." line="9" column="53" />
-        <mark key="^" line="9" column="53" />
-      </file>
-      <file name="$USER_HOME$/Development/Box2D_GDX_test/core/src/jonas/b2dtest/Bmain.java" timestamp="1451753588973">
-        <mark key="[" line="33" column="53" />
-        <mark key="]" line="33" column="53" />
-        <mark key="." line="33" column="53" />
-        <mark key="^" line="33" column="53" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" timestamp="1455465123655">
-        <mark key="'" line="51" column="21" />
-        <mark key="[" line="61" column="18" />
-        <mark key="]" line="61" column="18" />
-        <mark key="^" line="45" column="18" />
-        <mark key="." line="61" column="18" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1454434302703">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/RandomizedQueue.java" timestamp="1454773659977">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" timestamp="1457707098952">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="^" line="141" column="29" />
-        <mark key="." line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" timestamp="1457703597514">
-        <mark key="'" line="16" column="37" />
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-        <mark key="^" line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/Desktop/test/src/Runner.java" timestamp="1452978980853">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_client.java" timestamp="1457702756410">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-      </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" timestamp="1454771008884">
-        <mark key="'" line="78" column="23" />
-        <mark key="[" line="136" column="7" />
-        <mark key="]" line="136" column="7" />
-        <mark key="." line="136" column="7" />
-        <mark key="^" line="149" column="10" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/Direction.java" timestamp="1449783108762">
-        <mark key="[" line="5" column="23" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Communicator.java" timestamp="1457793140900">
+        <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="10" />
-      </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week2/src/RandomizedQueue.java" timestamp="1455566283118">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="47" />
-      </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" timestamp="1455384000640">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="146" column="36" />
-        <mark key="]" line="146" column="37" />
-        <mark key="." line="146" column="37" />
-        <mark key="^" line="146" column="37" />
-      </file>
-      <file name="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" timestamp="1455382319642">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="30" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/PercolationStats.java" timestamp="1454505850118">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="26" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Communicator.java" timestamp="1457706210720">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="45" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/GameScreen.java" timestamp="1449608424291">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="28" />
-        <mark key="^" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/renderer/Room.java" timestamp="1449784440629">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="63" column="41" />
-        <mark key="^" line="63" column="41" />
-        <mark key="." line="63" column="41" />
-      </file>
-      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1455462116731">
-        <mark key="[" line="84" column="39" />
-        <mark key="]" line="84" column="46" />
-        <mark key="." line="84" column="46" />
-        <mark key="^" line="84" column="46" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" timestamp="1457702670826">
-        <mark key="'" line="14" column="15" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="^" line="29" column="18" />
-        <mark key="." line="180" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/src/Percolation.java" timestamp="1454437343309">
-        <mark key="'" line="76" column="15" />
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="33" column="8" />
-        <mark key="." line="33" column="8" />
-        <mark key="^" line="33" column="8" />
-      </file>
-      <file name="/fragment.java" timestamp="1457703348285">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" timestamp="1457707004025">
-        <mark key="[" line="35" column="62" />
-        <mark key="]" line="35" column="61" />
-        <mark key="." line="35" column="61" />
-        <mark key="^" line="35" column="61" />
-      </file>
-      <file name="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week1/src/Percolation.java" timestamp="1454505522471">
-        <mark key="'" line="8" column="43" />
-        <mark key="[" line="76" column="12" />
-        <mark key="]" line="76" column="28" />
-        <mark key="^" line="76" column="28" />
-        <mark key="." line="76" column="28" />
+        <mark key="^" line="7" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
-      <jump line="132" column="17" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
-      <jump line="134" column="13" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
-      <jump line="18" column="20" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
-      <jump line="78" column="23" filename="$USER_HOME$/Development/AlgorithmsSedgeWickWayne/Week2/src/Deque.java" />
-      <jump line="132" column="36" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="13" column="1" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="131" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="23" column="4" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="124" column="26" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="136" column="4" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="121" column="42" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="116" column="15" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="114" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="111" column="19" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="109" column="29" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="105" column="11" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="104" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="62" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="60" column="19" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="31" column="37" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
-      <jump line="32" column="37" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
-      <jump line="30" column="34" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
-      <jump line="7" column="24" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
-      <jump line="52" column="18" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
-      <jump line="12" column="8" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
-      <jump line="164" column="26" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="33" column="16" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="12" column="65" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="61" column="15" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="60" column="51" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="59" column="25" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="56" column="15" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="55" column="23" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="51" column="12" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="20" column="8" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="16" column="24" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="9" column="11" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="35" column="21" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/BruteCollinearPoints.java" />
-      <jump line="147" column="0" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="19" column="4" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="165" column="62" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/Point.java" />
-      <jump line="71" column="21" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="70" column="16" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="75" column="21" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="28" column="8" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="74" column="16" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="82" column="50" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="84" column="16" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="30" column="31" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="80" column="44" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="78" column="60" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="18" column="38" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="95" column="1" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="31" column="8" filename="$USER_HOME$/Development/CourseraAlgorithms/Week3/src/FastCollinearPoints.java" />
-      <jump line="43" column="21" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
-      <jump line="32" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="203" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="107" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="35" column="31" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="206" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="179" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="199" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="14" column="15" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/bc_process.java" />
-      <jump line="68" column="42" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="74" column="43" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="23" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" />
-      <jump line="16" column="37" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" />
-      <jump line="59" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" />
-      <jump line="18" column="33" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" />
-      <jump line="19" column="25" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" />
-      <jump line="40" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="183" column="19" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="192" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="142" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="164" column="32" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="129" column="34" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="124" column="86" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="26" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="107" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="43" column="27" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="136" column="86" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="119" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="162" column="15" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="93" column="48" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="95" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="110" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="146" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="125" column="51" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="127" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="143" column="18" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="87" column="10" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="214" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="11" column="55" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="47" column="32" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="197" column="24" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="132" column="38" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="141" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="17" column="14" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="191" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="185" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="9" column="13" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="19" column="11" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="54" column="36" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="57" column="29" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="121" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="103" column="53" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="47" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="144" column="18" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="105" column="50" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="104" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="96" column="11" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="28" column="7" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="22" column="61" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="43" column="48" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="7" column="35" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="0" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="53" column="42" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="28" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="12" column="50" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="23" column="41" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="26" column="50" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW1wbGVtZW50cyA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cDw=</text>
+        <text encoding="base64">aW1wbGVtZW50cyA=</text>
       </register>
       <register name="/" type="4">
-        <text>Hashtable</text>
+        <text>namespace</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIG5hbWU7Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW1wbGVtZW50cyA=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CWlmIChuZXdTdW0gPT0gcHJvY2Vzc29ycy5zaXplKCkgJiYgdGhpcy5idWZmZXIucGVlaygpLmVxdWFscyhhKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJyZWFkeSBmb3IgZGVsaXZlcnkiKTsKCQkJfSBlbHNlIHs=</text>
+        <text>Communicator</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEucm1pLnJlZ2lzdHJ5LlJlZ2lzdHJ5Owo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">U2VyaWFsaXphYmxlIA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">cDw=</text>
+        <text>implement</text>
       </register>
-      <register name="6" type="4">
-        <text>Hashtable</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>Hashtable</text>
+        <text>Broadcaster</text>
       </register>
       <register name="8" type="4">
-        <text>HashMap</text>
+        <text>9</text>
       </register>
       <register name="9" type="4">
-        <text>asd</text>
+        <text>9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Hashtable</last-search>
+      <last-search>namespace</last-search>
       <last-offset />
-      <last-pattern>Hashtable</last-pattern>
+      <last-pattern>namespace</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>compare</entry>
-        <entry>compareTO</entry>
-        <entry>toSlope</entry>
-        <entry>slope</entry>
-        <entry>segments</entry>
-        <entry>Double</entry>
-        <entry encoding="base64">XDxGYXN0Q29sbGluZWFyUG9pbnRzXD4=</entry>
-        <entry encoding="base64">XDxCcnV0ZUNvbGxpbmVhclBvaW50c1w+</entry>
-        <entry>input</entry>
-        <entry encoding="base64">XDxzbG9wZXNTZWdtZW50c1w+</entry>
-        <entry>System</entry>
-        <entry encoding="base64">XDxiY19STUlcPg==</entry>
-        <entry>i</entry>
-        <entry encoding="base64">IGFzZGFzZGE=</entry>
-        <entry encoding="base64">XDx0aW1lc3RlbXBcPg==</entry>
-        <entry>allP</entry>
-        <entry>getId</entry>
-        <entry>add</entry>
-        <entry>allPs</entry>
-        <entry>Hashtable</entry>
+        <entry>broadcast</entry>
+        <entry>Broadcaster</entry>
+        <entry>b</entry>
+        <entry>asd</entry>
+        <entry encoding="base64">XDxwcm9jZXNzb3JzXD4=</entry>
+        <entry>receive</entry>
+        <entry encoding="base64">XDwxMDk5XD4=</entry>
+        <entry>1099</entry>
+        <entry>namespace</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
-        <entry>sv</entry>
-        <entry>vs</entry>
-        <entry>vertical resize +5</entry>
-        <entry>e</entry>
-        <entry>w:</entry>
-        <entry>&quot;w</entry>
-        <entry>s</entry>
-        <entry>Lw</entry>
-        <entry>w:w</entry>
-        <entry>vsplit</entry>
-        <entry>split</entry>
         <entry>let@/=&quot;&quot;</entry>
+        <entry>e Broadcaster.java</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
   </component>
 </application>
