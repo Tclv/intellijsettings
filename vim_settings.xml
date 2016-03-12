@@ -3,32 +3,48 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" timestamp="1457794422010">
-        <mark key="'" line="26" column="50" />
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="15" column="70" />
-        <mark key="." line="15" column="70" />
-        <mark key="^" line="15" column="70" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" timestamp="1457802305773">
+        <mark key="'" line="71" column="39" />
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="71" column="39" />
+        <mark key="." line="71" column="39" />
+        <mark key="^" line="71" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457794340648">
-        <mark key="'" line="28" column="7" />
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="47" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="47" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457803491662">
+        <mark key="'" line="43" column="32" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="63" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457794432897">
-        <mark key="'" line="12" column="50" />
-        <mark key="[" line="7" column="55" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="55" />
-        <mark key="^" line="7" column="93" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/MessageComparator.java" timestamp="1457794557738">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Communicator.java" timestamp="1457793140900">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="10" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="10" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" timestamp="1457803439324">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457803746892">
+        <mark key="'" line="18" column="54" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Communicator.java" timestamp="1457803318356">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" timestamp="1457803605772">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -42,7 +58,6 @@
       <jump line="128" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="143" column="18" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="87" column="10" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="185" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="9" column="13" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="19" column="11" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
@@ -66,56 +81,93 @@
       <jump line="85" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="53" column="42" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="28" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
-      <jump line="12" column="50" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="23" column="41" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="26" column="50" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="32" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" />
+      <jump line="5" column="62" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" />
+      <jump line="48" column="37" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" />
+      <jump line="44" column="5" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="68" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="82" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="80" column="40" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="12" column="40" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="79" column="89" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="50" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="48" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="99" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="57" column="35" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="40" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" />
+      <jump line="71" column="39" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
+      <jump line="43" column="32" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" />
+      <jump line="35" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="85" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="1" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="19" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="71" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="4" column="28" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="11" column="18" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="18" column="54" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyA=</text>
+        <text>Created by dorus on 10/03/16.</text>
       </register>
       <register name="/" type="4">
-        <text>namespace</text>
+        <text>remove</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>Communicator</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">U2VyaWFsaXphYmxlIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b1N0cmluZyhpZCkgKyAiIGlzIGRvbmUgIik7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbW0uaGFzTWVzc2FnZSgpKSB7CiAgICAgICAgICAgICAgICBNZXNzYWdlIG0gPSBjb21tLmRlbGl2ZXIoKTsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKEludGVnZXIucGFyc2VJbnQobS5nZXRNZXNzYWdlKCkpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="4">
-        <text>implement</text>
+        <text>Created by dorus on 10/03/16.</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBjbGsrKzsK</text>
       </register>
       <register name="7" type="4">
-        <text>Broadcaster</text>
+        <text>+</text>
       </register>
       <register name="8" type="4">
-        <text>9</text>
+        <text>+</text>
       </register>
       <register name="9" type="4">
-        <text>9</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>.,.+1w</text>
       </register>
     </registers>
     <search>
-      <last-search>namespace</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>namespace</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -130,17 +182,35 @@
         <entry encoding="base64">XDwxMDk5XD4=</entry>
         <entry>1099</entry>
         <entry>namespace</entry>
+        <entry encoding="base64">XDxNZXNzYWdlQ29tcGFyYXRvclw+</entry>
+        <entry>locat</entry>
+        <entry>ackSums</entry>
+        <entry encoding="base64">XDxicm9hZGNhc3RBY2tcPg==</entry>
+        <entry>false</entry>
+        <entry>has</entry>
+        <entry>System.out</entry>
+        <entry encoding="base64">XDxQcmlvcml0eVF1ZXVlXD4=</entry>
+        <entry encoding="base64">XDxQcmlvcml0eUJsb2NraW5nUXVldWVcPg==</entry>
+        <entry>PriorityQueue</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry>let@/=&quot;&quot;</entry>
         <entry>e Broadcaster.java</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>&quot;w</entry>
+        <entry>:w</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>.,.+1w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
