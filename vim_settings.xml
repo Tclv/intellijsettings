@@ -10,23 +10,23 @@
         <mark key="." line="71" column="39" />
         <mark key="^" line="71" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457803491662">
-        <mark key="'" line="43" column="32" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="63" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="6" column="21" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457870754914">
+        <mark key="'" line="31" column="26" />
+        <mark key="[" line="41" column="53" />
+        <mark key="]" line="41" column="53" />
+        <mark key="." line="41" column="53" />
+        <mark key="^" line="41" column="53" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/MessageComparator.java" timestamp="1457794557738">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" timestamp="1457803439324">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" timestamp="1457870859467">
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457803746892">
         <mark key="'" line="18" column="54" />
@@ -119,61 +119,63 @@
       <jump line="4" column="28" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="11" column="18" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="18" column="54" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="50" column="27" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" />
+      <jump line="48" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVxdWFsIGhvcGVmdWxseT8iKTsK</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>println</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text>out</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b1N0cmluZyhpZCkgKyAiIGlzIGRvbmUgIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1lc3NhZ2VzLmdldCgxKS5zaXplKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWVzc2FnZXMuZ2V0KDEpLnNpemUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbW0uaGFzTWVzc2FnZSgpKSB7CiAgICAgICAgICAgICAgICBNZXNzYWdlIG0gPSBjb21tLmRlbGl2ZXIoKTsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKEludGVnZXIucGFyc2VJbnQobS5nZXRNZXNzYWdlKCkpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>.,.+1w</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>list</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>list</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>broadcast</entry>
         <entry>Broadcaster</entry>
         <entry>b</entry>
         <entry>asd</entry>
@@ -193,6 +195,7 @@
         <entry encoding="base64">XDxQcmlvcml0eUJsb2NraW5nUXVldWVcPg==</entry>
         <entry>PriorityQueue</entry>
         <entry>remove</entry>
+        <entry>list</entry>
       </history-search>
       <history-cmd>
         <entry>let@/=&quot;&quot;</entry>
@@ -200,9 +203,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>&quot;w</entry>
         <entry>:w</entry>
-        <entry>W</entry>
-        <entry>w</entry>
         <entry>.,.+1w</entry>
+        <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
