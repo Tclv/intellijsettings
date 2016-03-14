@@ -22,6 +22,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Maekawa_client.java" timestamp="1457963027583">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" timestamp="1457961286602" />
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457960646618">
         <mark key="'" line="18" column="54" />
       </file>
@@ -31,10 +38,25 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" timestamp="1457964907811">
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="67" />
+        <mark key="." line="16" column="67" />
+        <mark key="^" line="16" column="67" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/MaekawaClient.java" timestamp="1457964746787">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" timestamp="1457804258238">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="12" />
         <mark key="." line="86" column="12" />
+      </file>
+      <file name="/fragment.java" timestamp="1457962889808">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -109,49 +131,51 @@
       <jump line="4" column="28" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="11" column="18" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="18" column="54" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
+      <jump line="8" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/MaekawaClient.java" />
+      <jump line="12" column="28" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/MaekawaClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IG5vUHJvYzsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>NO_PROC</text>
       </register>
       <register name="/" type="4">
         <text>remove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFRocmVhZCBwOiBwcm9jZXNzZXMpIHsKICAgICAgICAgICAgcC5zdGFydCgpOwogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IG5vUHJvYzsK</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>NO_PROC</text>
       </register>
       <register name="3" type="4">
-        <text>n</text>
+        <text>noProc</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm5vUHJvYyA9IG5vUHJvYzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b1N0cmluZyhpZCkgKyAiIGlzIGRvbmUgIik7Cg==</text>
+      <register name="7" type="4">
+        <text>200</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdCk7Cg==</text>
+      <register name="8" type="4">
+        <text>20000</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvbW0uaGFzTWVzc2FnZSgpKSB7CiAgICAgICAgICAgICAgICBNZXNzYWdlIG0gPSBjb21tLmRlbGl2ZXIoKTsKICAgICAgICAgICAgICAgIGxpc3QuYWRkKEludGVnZXIucGFyc2VJbnQobS5nZXRNZXNzYWdlKCkpKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>20</text>
       </register>
       <register name=":" type="4">
-        <text>.,.+1w</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -190,9 +214,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>&quot;w</entry>
         <entry>:w</entry>
+        <entry>.,.+1w</entry>
         <entry>W</entry>
         <entry>w</entry>
-        <entry>.,.+1w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
