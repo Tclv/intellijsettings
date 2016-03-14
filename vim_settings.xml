@@ -10,7 +10,7 @@
         <mark key="." line="71" column="39" />
         <mark key="^" line="71" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457803491662">
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457960707815">
         <mark key="'" line="43" column="32" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="63" />
@@ -22,17 +22,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Main.java" timestamp="1457803439324">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457803746892">
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457960646618">
         <mark key="'" line="18" column="54" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Communicator.java" timestamp="1457803318356">
         <mark key="[" line="7" column="29" />
@@ -41,10 +32,9 @@
         <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" timestamp="1457804258238">
-        <mark key="[" line="51" column="12" />
-        <mark key="]" line="51" column="12" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="51" column="12" />
+        <mark key="[" line="86" column="12" />
+        <mark key="]" line="86" column="12" />
+        <mark key="." line="86" column="12" />
       </file>
     </filemarks>
     <jumps>
