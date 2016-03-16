@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1458138600651">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/MessageType.java" timestamp="1458139296917">
+        <mark key="[" line="2" column="65" />
+        <mark key="]" line="2" column="65" />
+        <mark key="^" line="2" column="65" />
+        <mark key="." line="2" column="65" />
+      </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" timestamp="1457802305773">
         <mark key="'" line="71" column="39" />
         <mark key="[" line="71" column="36" />
@@ -10,27 +19,40 @@
         <mark key="." line="71" column="39" />
         <mark key="^" line="71" column="39" />
       </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/MessageComparator.java" timestamp="1457794557738">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" timestamp="1458140927965">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="65" column="33" />
+        <mark key="]" line="65" column="34" />
+        <mark key="." line="65" column="34" />
+        <mark key="^" line="65" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457803746892">
+        <mark key="'" line="18" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" timestamp="1458141401837">
+        <mark key="'" line="94" column="4" />
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="23" />
+        <mark key="^" line="62" column="23" />
+        <mark key="." line="62" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/MaekawaClient.java" timestamp="1458141495083">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="17" />
+        <mark key="." line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+      </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457870754914">
         <mark key="'" line="31" column="26" />
         <mark key="[" line="41" column="53" />
         <mark key="]" line="41" column="53" />
         <mark key="." line="41" column="53" />
         <mark key="^" line="41" column="53" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/MessageComparator.java" timestamp="1457794557738">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" timestamp="1458138078004">
-        <mark key="'" line="123" column="8" />
-        <mark key="[" line="67" column="27" />
-        <mark key="]" line="67" column="30" />
-        <mark key="^" line="67" column="30" />
-        <mark key="." line="67" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457803746892">
-        <mark key="'" line="18" column="54" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Communicator.java" timestamp="1457803318356">
         <mark key="[" line="7" column="29" />
@@ -43,49 +65,17 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/MaekawaClient.java" timestamp="1458138111612">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Message.java" timestamp="1457804258238">
         <mark key="[" line="51" column="12" />
         <mark key="]" line="51" column="12" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="51" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1458133531738">
+      <file name="/fragment.java" timestamp="1458138600656">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="48" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="95" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="110" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="146" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="125" column="51" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="127" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="159" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="128" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="143" column="18" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="87" column="10" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="9" column="13" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="19" column="11" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="54" column="36" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="57" column="29" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="121" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="103" column="53" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="47" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="135" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="144" column="18" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="105" column="50" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="104" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="96" column="11" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="28" column="7" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" />
-      <jump line="33" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
-      <jump line="22" column="61" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="43" column="48" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="7" column="35" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="0" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
@@ -136,79 +126,110 @@
       <jump line="185" column="27" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="145" column="13" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="147" column="24" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
-      <jump line="134" column="30" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="14" column="40" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="152" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
-      <jump line="163" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="209" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="222" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="82" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="92" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="109" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="113" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="179" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="282" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="203" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="164" column="15" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="76" column="14" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="100" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="119" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="131" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="140" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="150" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="163" column="14" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="177" column="49" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="180" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="183" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="186" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="189" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="192" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="195" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="65" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="75" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="77" column="14" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="134" column="10" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="174" column="24" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="93" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="13" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="27" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="38" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="39" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="40" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="42" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="45" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="49" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="62" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
+      <jump line="90" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoIWNvbW0ucmVxdWVzdEdyYW50ZWQoKSkgewogICAgICAgICAgICA7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>System.out</text>
+        <text>public</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaWQgPT0gMCkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2xrKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoIWNvbW0ucmVxdWVzdEdyYW50ZWQoKSkgewogICAgICAgICAgICA7CiAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>u</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>out</text>
       </register>
       <register name="3" type="4">
-        <text>GRANT</text>
+        <text>Grant</text>
       </register>
-      <register name="4" type="4">
-        <text>message</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nLmZvcm1hdCgiQ2xpZW50ICVkIG90dSBvZiByZXF1ZXN0IGNhbGwiLCBpZCkpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJc2VuZChNZXNzYWdlVHlwZS5HUkFOVCxqKTsK</text>
+      <register name="5" type="4">
+        <text>2000</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>offer</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlVHlwZSB0eXBlID0gbnVsbDsKICAgICAgICBpbnQgdGFyZ2V0ID0gLTE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>System.out</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern>System.out</last-pattern>
+      <last-pattern>public</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>receive</entry>
-        <entry encoding="base64">XDwxMDk5XD4=</entry>
-        <entry>1099</entry>
-        <entry>namespace</entry>
-        <entry encoding="base64">XDxNZXNzYWdlQ29tcGFyYXRvclw+</entry>
-        <entry>locat</entry>
-        <entry>ackSums</entry>
-        <entry encoding="base64">XDxicm9hZGNhc3RBY2tcPg==</entry>
-        <entry>false</entry>
         <entry>has</entry>
         <entry encoding="base64">XDxQcmlvcml0eVF1ZXVlXD4=</entry>
         <entry encoding="base64">XDxQcmlvcml0eUJsb2NraW5nUXVldWVcPg==</entry>
@@ -220,6 +241,15 @@
         <entry>synchronized</entry>
         <entry>poll</entry>
         <entry>System.out</entry>
+        <entry>Exit</entry>
+        <entry>exit</entry>
+        <entry>receive()</entry>
+        <entry>add</entry>
+        <entry>messageQueue</entry>
+        <entry>receive</entry>
+        <entry>clk</entry>
+        <entry encoding="base64">XDx1cGRhdGVSZXF1ZXN0U2V0XD4=</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry>let@/=&quot;&quot;</entry>
@@ -228,7 +258,12 @@
         <entry>&quot;w</entry>
         <entry>:w</entry>
         <entry>.,.+1w</entry>
+        <entry>a</entry>
+        <entry>vsplit</entry>
+        <entry>e Messenger</entry>
+        <entry>e Messenger.java</entry>
         <entry>W</entry>
+        <entry encoding="base64">IHc=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
