@@ -24,22 +24,22 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" timestamp="1458156090922">
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" timestamp="1458157335412">
         <mark key="'" line="152" column="0" />
-        <mark key="[" line="74" column="48" />
-        <mark key="]" line="74" column="53" />
-        <mark key="." line="74" column="53" />
-        <mark key="^" line="74" column="53" />
+        <mark key="[" line="152" column="102" />
+        <mark key="]" line="152" column="102" />
+        <mark key="." line="152" column="102" />
+        <mark key="^" line="152" column="146" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1457803746892">
         <mark key="'" line="18" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" timestamp="1458142615263">
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" timestamp="1458157233912">
         <mark key="'" line="98" column="46" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="101" column="33" />
-        <mark key="." line="102" column="0" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/MaekawaClient.java" timestamp="1458150110391">
         <mark key="[" line="42" column="12" />
@@ -60,7 +60,8 @@
         <mark key="." line="7" column="43" />
         <mark key="^" line="7" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" timestamp="1458136821436">
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" timestamp="1458157072253">
+        <mark key="'" line="7" column="38" />
         <mark key="[" line="7" column="38" />
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
@@ -87,7 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="80" column="40" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="12" column="40" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
       <jump line="79" column="89" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" />
@@ -187,13 +187,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="85" column="74" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
       <jump line="152" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" />
+      <jump line="7" column="38" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>null</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>relinQ</text>
@@ -202,31 +203,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlAiICsgdGhpcy5pZCArICIgKCIgKyBJbnRlZ2VyLnRvU3RyaW5nKHRoaXMuY3VycmVudEdyYW50LmdldElkKCkpICsgIikiICsgICIgcmVjZWl2ZXMgIiArIG10LnRvU3RyaW5nKCkgKyAiIGZyb20gUCIgKyBtLmdldFNlbmRJRCgpICsgIiBUc3RhbXAgIiArIEludGVnZXIudG9TdHJpbmcobS5nZXRUaW1lU3RhbXAoKSkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>null</text>
+        <text>+</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjCg==</text>
+      <register name="2" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>new Tuple(-1,-1);</text>
+        <text>null</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN1cnJlbnRHcmFudCA9IG5ldyBUdXBsZSgtMSwtMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjCg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new Tuple(-1,-1);</text>
       </register>
-      <register name="6" type="4">
-        <text>)</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmN1cnJlbnRHcmFudCA9IG5ldyBUdXBsZSgtMSwtMSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>|</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
       <register name="9" type="4">
-        <text>/</text>
+        <text>|</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -274,8 +275,8 @@
         <entry>e Messenger</entry>
         <entry>e Messenger.java</entry>
         <entry encoding="base64">IHc=</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
