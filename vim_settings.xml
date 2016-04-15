@@ -2,14 +2,86 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" timestamp="1460739278887">
+        <mark key="[" line="50" column="32" />
+        <mark key="]" line="50" column="32" />
+        <mark key="." line="50" column="32" />
+        <mark key="^" line="50" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/build.gradle" timestamp="1460736783589">
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="41" column="60" />
+        <mark key="^" line="41" column="60" />
+        <mark key="." line="41" column="60" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/desktop/src/com/elevatormusic/desktop/DesktopLauncher.java" timestamp="1460737059684">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="20" column="65" />
+        <mark key="]" line="20" column="68" />
+        <mark key="^" line="20" column="68" />
+        <mark key="." line="20" column="68" />
+      </file>
+      <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1460738058331" />
+    </filemarks>
+    <jumps>
+      <jump line="20" column="30" filename="$USER_HOME$/Development/ElevatorMusic/desktop/src/com/elevatormusic/desktop/DesktopLauncher.java" />
+    </jumps>
+    <registers>
+      <register name="1" type="4">
+        <text>0</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>0</text>
+      </register>
+      <register name="2" type="4">
+        <text>.</text>
+      </register>
+      <register name="3" type="4">
+        <text>1</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVncy5sZW5ndGgpOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="4">
+        <text>(</text>
+      </register>
+      <register name="7" type="4">
+        <text>size</text>
+      </register>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
+      <register name="9" type="4">
+        <text>(</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>0</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-cmd>
+        <entry>W</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
