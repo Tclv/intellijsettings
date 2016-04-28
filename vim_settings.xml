@@ -47,11 +47,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1461853072231">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="10" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1461854593645">
+        <mark key="[" line="50" column="69" />
+        <mark key="]" line="51" column="48" />
+        <mark key="." line="51" column="48" />
+        <mark key="^" line="51" column="48" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/physics/Direction.java" timestamp="1460751904160">
         <mark key="[" line="2" column="0" />
@@ -186,11 +186,11 @@
       <jump line="115" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Component</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZXNzYWdlVHlwZVw+</text>
@@ -198,32 +198,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWZhdWx0QW5pbS5wdXQoRGlyZWN0aW9uLkxlZnQsIG5ldyBBbmltYXRpb24oMC4xNWYsIGF0bGFzLmZpbmRSZWdpb25zKCJQYXNzaXZlZnJvbnQiKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Component</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5vX2dyYW50cyA9IDA7CiAgICAgICAgdGhpcy5ncmFudGVkID0gZmFsc2U7CiAgICAgICAgdGhpcy5wb3N0cG9uZWQgPSBmYWxzZTsKICAgICAgICB0aGlzLmlucXVpcmluZyA9IGZhbHNlOwogICAgICAgIHRoaXMucmVxdWVzdEdyYW50ZWQgPSBmYWxzZTsKICAgICAgICB0aGlzLmN1cnJlbnRHcmFudCA9IG5ldyBUdXBsZSgtMSwgLTEpOwogICAgICAgIHRoaXMuUSA9IG5ldyBQcmlvcml0eUJsb2NraW5nUXVldWU8VHVwbGU+KDIwLCBUdXBsZS50aW1lT3JkZXJpbmcpOwogICAgICAgIHRoaXMucm93cyA9IG5ldyBBcnJheUxpc3Q8QXJyYXlMaXN0PENvbW11bmljYXRvcj4+KCk7CiAgICAgICAgdGhpcy5jb2x1bW5zID0gbmV3IEFycmF5TGlzdDxBcnJheUxpc3Q8Q29tbXVuaWNhdG9yPj4oKTsKICAgICAgICB0aGlzLnZlcnRpY2FsUlMgPSBuZXcgQXJyYXlMaXN0PENvbW11bmljYXRvcj4oKTsKICAgICAgICB0aGlzLmhvcml6b250YWxSUyA9IG5ldyBBcnJheUxpc3Q8Q29tbXVuaWNhdG9yPigpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICB0aGlzLm5vX2dyYW50cyA9IDA7CiAgICAgICAgdGhpcy5ncmFudGVkID0gZmFsc2U7CiAgICAgICAgdGhpcy5wb3N0cG9uZWQgPSBmYWxzZTsKICAgICAgICB0aGlzLmlucXVpcmluZyA9IGZhbHNlOwogICAgICAgIHRoaXMucmVxdWVzdEdyYW50ZWQgPSBmYWxzZTsKICAgICAgICB0aGlzLmN1cnJlbnRHcmFudCA9IG5ldyBUdXBsZSgtMSwgLTEpOwogICAgICAgIHRoaXMuUSA9IG5ldyBQcmlvcml0eUJsb2NraW5nUXVldWU8VHVwbGU+KDIwLCBUdXBsZS50aW1lT3JkZXJpbmcpOwogICAgICAgIHRoaXMucm93cyA9IG5ldyBBcnJheUxpc3Q8QXJyYXlMaXN0PENvbW11bmljYXRvcj4+KCk7CiAgICAgICAgdGhpcy5jb2x1bW5zID0gbmV3IEFycmF5TGlzdDxBcnJheUxpc3Q8Q29tbXVuaWNhdG9yPj4oKTsKICAgICAgICB0aGlzLnZlcnRpY2FsUlMgPSBuZXcgQXJyYXlMaXN0PENvbW11bmljYXRvcj4oKTsKICAgICAgICB0aGlzLmhvcml6b250YWxSUyA9IG5ldyBBcnJheUxpc3Q8Q29tbXVuaWNhdG9yPigpOw==</text>
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaXNzYS4K</text>
-      </register>
-      <register name="5" type="4">
-        <text>send</text>
-      </register>
-      <register name="6" type="4">
-        <text>receive</text>
-      </register>
-      <register name="7" type="4">
+      <register name="4" type="4">
         <text>Node</text>
       </register>
-      <register name="8" type="4">
-        <text>send</text>
+      <register name="5" type="4">
+        <text>(</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Node</text>
+      </register>
+      <register name="7" type="4">
+        <text>public</text>
+      </register>
+      <register name="8" type="4">
+        <text>Component</text>
+      </register>
+      <register name="9" type="4">
+        <text>Component</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
