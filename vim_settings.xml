@@ -16,7 +16,7 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" timestamp="1461852199472" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Component.java" timestamp="1461853027406" />
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/driver/PlayerStateMachine.java" timestamp="1460739586048">
         <mark key="'" line="7" column="19" />
         <mark key="[" line="35" column="29" />
@@ -47,10 +47,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1461852616119">
-        <mark key="[" line="32" column="56" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1461853072231">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/physics/Direction.java" timestamp="1460751904160">
         <mark key="[" line="2" column="0" />
@@ -185,11 +186,11 @@
       <jump line="115" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Component</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZXNzYWdlVHlwZVw+</text>
@@ -197,32 +198,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBkZWZhdWx0QW5pbS5wdXQoRGlyZWN0aW9uLkxlZnQsIG5ldyBBbmltYXRpb24oMC4xNWYsIGF0bGFzLmZpbmRSZWdpb25zKCJQYXNzaXZlZnJvbnQiKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text>Component</text>
       </register>
-      <register name="2" type="4">
-        <text>id</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm5vX2dyYW50cyA9IDA7CiAgICAgICAgdGhpcy5ncmFudGVkID0gZmFsc2U7CiAgICAgICAgdGhpcy5wb3N0cG9uZWQgPSBmYWxzZTsKICAgICAgICB0aGlzLmlucXVpcmluZyA9IGZhbHNlOwogICAgICAgIHRoaXMucmVxdWVzdEdyYW50ZWQgPSBmYWxzZTsKICAgICAgICB0aGlzLmN1cnJlbnRHcmFudCA9IG5ldyBUdXBsZSgtMSwgLTEpOwogICAgICAgIHRoaXMuUSA9IG5ldyBQcmlvcml0eUJsb2NraW5nUXVldWU8VHVwbGU+KDIwLCBUdXBsZS50aW1lT3JkZXJpbmcpOwogICAgICAgIHRoaXMucm93cyA9IG5ldyBBcnJheUxpc3Q8QXJyYXlMaXN0PENvbW11bmljYXRvcj4+KCk7CiAgICAgICAgdGhpcy5jb2x1bW5zID0gbmV3IEFycmF5TGlzdDxBcnJheUxpc3Q8Q29tbXVuaWNhdG9yPj4oKTsKICAgICAgICB0aGlzLnZlcnRpY2FsUlMgPSBuZXcgQXJyYXlMaXN0PENvbW11bmljYXRvcj4oKTsKICAgICAgICB0aGlzLmhvcml6b250YWxSUyA9IG5ldyBBcnJheUxpc3Q8Q29tbXVuaWNhdG9yPigpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>getSendLevel()</text>
+        <text encoding="base64">ICB0aGlzLm5vX2dyYW50cyA9IDA7CiAgICAgICAgdGhpcy5ncmFudGVkID0gZmFsc2U7CiAgICAgICAgdGhpcy5wb3N0cG9uZWQgPSBmYWxzZTsKICAgICAgICB0aGlzLmlucXVpcmluZyA9IGZhbHNlOwogICAgICAgIHRoaXMucmVxdWVzdEdyYW50ZWQgPSBmYWxzZTsKICAgICAgICB0aGlzLmN1cnJlbnRHcmFudCA9IG5ldyBUdXBsZSgtMSwgLTEpOwogICAgICAgIHRoaXMuUSA9IG5ldyBQcmlvcml0eUJsb2NraW5nUXVldWU8VHVwbGU+KDIwLCBUdXBsZS50aW1lT3JkZXJpbmcpOwogICAgICAgIHRoaXMucm93cyA9IG5ldyBBcnJheUxpc3Q8QXJyYXlMaXN0PENvbW11bmljYXRvcj4+KCk7CiAgICAgICAgdGhpcy5jb2x1bW5zID0gbmV3IEFycmF5TGlzdDxBcnJheUxpc3Q8Q29tbXVuaWNhdG9yPj4oKTsKICAgICAgICB0aGlzLnZlcnRpY2FsUlMgPSBuZXcgQXJyYXlMaXN0PENvbW11bmljYXRvcj4oKTsKICAgICAgICB0aGlzLmhvcml6b250YWxSUyA9IG5ldyBBcnJheUxpc3Q8Q29tbXVuaWNhdG9yPigpOw==</text>
       </register>
-      <register name="4" type="4">
-        <text>=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmaXNzYS4K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aGlnaGVyTGV2ZWwg</text>
+        <text>send</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Ym9vbGVhbiA=</text>
+        <text>receive</text>
       </register>
       <register name="7" type="4">
-        <text>(this.sendID)</text>
+        <text>Node</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>send</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
