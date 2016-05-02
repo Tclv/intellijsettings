@@ -33,6 +33,12 @@
         <mark key="]" line="12" column="23" />
         <mark key="." line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/MessageType.java" timestamp="1462203845259">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/TotalOrderBroadcaster.java" timestamp="1458047620136">
         <mark key="'" line="18" column="54" />
         <mark key="[" line="23" column="8" />
@@ -50,12 +56,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1462201985385">
-        <mark key="'" line="62" column="20" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="^" line="114" column="98" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1462203821969">
+        <mark key="'" line="59" column="20" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="88" column="43" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457960707815">
         <mark key="'" line="43" column="32" />
@@ -178,44 +184,44 @@
       <jump line="62" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbjxDb21tdW5pY2F0b3I+IEVwcmltZSA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>EXIT</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>EXIT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEJsb2NraW5nUXVldWU8TWVzc2FnZT4gbWVzc2FnZVF1ZXVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGUucmVjZWl2ZShuZXcgTWVzc2FnZShsZXZlbCwgTWVzc2FnZVR5cGUuUkVRVUVTVCwgdGhpcy5wYXJlbnQuZ2V0SWQoKSkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbjxDb21tdW5pY2F0b3I+IEVwcmltZSA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
+      <register name="1" type="4">
+        <text>EXIT</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>KILL</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1lc3NhZ2UgbSA9IG1lc3NhZ2VRdWV1ZS5wb2xsKCk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>Integer</text>
+        <text>continue</text>
       </register>
       <register name="5" type="4">
-        <text>toString</text>
+        <text>if</text>
       </register>
-      <register name="6" type="4">
-        <text>quit</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicm9hZENhc3RSZXF1ZXN0KCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>HashSet</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>Set</text>
       </register>
       <register name="9" type="4">
-        <text>this</text>
+        <text>values</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
