@@ -50,12 +50,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1462199994253">
-        <mark key="'" line="55" column="40" />
-        <mark key="[" line="85" column="75" />
-        <mark key="]" line="85" column="74" />
-        <mark key="^" line="85" column="74" />
-        <mark key="." line="85" column="74" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1462201985385">
+        <mark key="'" line="62" column="20" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="114" column="98" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Client.java" timestamp="1457960707815">
         <mark key="'" line="43" column="32" />
@@ -169,61 +169,67 @@
       <jump line="44" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" />
       <jump line="50" column="40" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="71" column="51" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="76" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="93" column="34" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="97" column="51" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="98" column="48" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="99" column="34" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="62" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbjxDb21tdW5pY2F0b3I+IEVwcmltZSA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzZXNcPg==</text>
+        <text encoding="base64">XDxFXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgyMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEJsb2NraW5nUXVldWU8TWVzc2FnZT4gbWVzc2FnZVF1ZXVlOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbjxDb21tdW5pY2F0b3I+IEVwcmltZSA9IG5ldyBIYXNoU2V0PD4oKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>math</text>
+        <text>(</text>
       </register>
       <register name="3" type="4">
-        <text>math</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
         <text>.</text>
       </register>
+      <register name="4" type="4">
+        <text>Integer</text>
+      </register>
+      <register name="5" type="4">
+        <text>toString</text>
+      </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>quit</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDp3Cg==</text>
+      <register name="7" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgZWxlY3QoKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0aGlzLmlkKTsKCiAgICAgICAgfQo=</text>
+      <register name="9" type="4">
+        <text>this</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzZXNcPg==</last-search>
+      <last-search encoding="base64">XDxFXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9jZXNzb3JzXD4=</entry>
         <entry>receive</entry>
         <entry encoding="base64">XDwxMDk5XD4=</entry>
         <entry>1099</entry>
@@ -243,6 +249,7 @@
         <entry>ensure</entry>
         <entry>no_grants</entry>
         <entry encoding="base64">XDxwcm9jZXNzZXNcPg==</entry>
+        <entry encoding="base64">XDxFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>let@/=&quot;&quot;</entry>
