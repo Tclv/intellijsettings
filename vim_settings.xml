@@ -56,8 +56,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1462205865884">
-        <mark key="'" line="67" column="0" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1462205936460">
+        <mark key="'" line="67" column="53" />
         <mark key="[" line="67" column="38" />
         <mark key="]" line="67" column="53" />
         <mark key="." line="67" column="53" />
@@ -105,7 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="9" column="13" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="19" column="11" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
       <jump line="54" column="36" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab1/src/Broadcaster.java" />
@@ -205,6 +204,7 @@
       <jump line="19" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="40" column="19" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/AfekGafniClient.java" />
       <jump line="66" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="67" column="53" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
