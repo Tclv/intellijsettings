@@ -81,12 +81,12 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" timestamp="1463931837862">
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" timestamp="1463935226178">
         <mark key="'" line="50" column="5" />
-        <mark key="[" line="114" column="65" />
-        <mark key="]" line="114" column="64" />
-        <mark key="^" line="114" column="64" />
-        <mark key="." line="114" column="64" />
+        <mark key="[" line="99" column="42" />
+        <mark key="]" line="99" column="45" />
+        <mark key="^" line="99" column="45" />
+        <mark key="." line="99" column="45" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" timestamp="1461841003079">
         <mark key="'" line="135" column="0" />
@@ -250,10 +250,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>registryUrl</text>
+        <text>port</text>
       </register>
       <register name="-" type="4">
-        <text>registryUrl</text>
+        <text>port</text>
       </register>
       <register name="/" type="4">
         <text>createReg</text>
@@ -262,31 +262,31 @@
         <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdWNjZXNzID0gdHJ1ZQo=</text>
       </register>
       <register name="1" type="4">
-        <text>registryUrl</text>
+        <text>port</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>registryUrl</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">TWFsZm9ybWVkVVJMRXhjZXB0aW9uIA==</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">TWFsZm9ybWVkVVJMRXhjZXB0aW9uIA==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">fCA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.unRind(this.getURL());</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>Naming</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="9" type="4">
-        <text>|</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
