@@ -26,12 +26,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1463924373833">
-        <mark key="'" line="255" column="43" />
-        <mark key="[" line="74" column="13" />
-        <mark key="]" line="65" column="34" />
-        <mark key="^" line="65" column="34" />
-        <mark key="." line="65" column="34" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1463927319131">
+        <mark key="'" line="125" column="17" />
+        <mark key="[" line="94" column="16" />
+        <mark key="]" line="94" column="16" />
+        <mark key="^" line="94" column="25" />
+        <mark key="." line="94" column="16" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1460744382475">
         <mark key="'" line="15" column="22" />
@@ -49,10 +49,11 @@
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Main.java" timestamp="1463923566738">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="8" />
-        <mark key="." line="34" column="8" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Main.java" timestamp="1463926619041">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/physics/PhysicsComponent.java" timestamp="1460752367833">
         <mark key="'" line="74" column="14" />
@@ -61,12 +62,16 @@
         <mark key="." line="158" column="24" />
         <mark key="^" line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/NetworkStats.java" timestamp="1463924544097">
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/NetworkStats.java" timestamp="1463925846449">
         <mark key="'" line="7" column="23" />
-        <mark key="[" line="21" column="67" />
-        <mark key="]" line="21" column="76" />
-        <mark key="." line="21" column="76" />
-        <mark key="^" line="21" column="76" />
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+        <mark key="^" line="25" column="52" />
+      </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/10sim.dat" timestamp="1463926148490">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" timestamp="1460753470798">
         <mark key="'" line="18" column="2" />
@@ -82,11 +87,12 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" timestamp="1463923950537">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" timestamp="1463926987561">
+        <mark key="'" line="148" column="0" />
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="46" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="30" column="46" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" timestamp="1461841003079">
         <mark key="'" line="135" column="0" />
@@ -150,21 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="22" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" />
-      <jump line="52" column="8" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="24" column="12" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gui/GameScreen.java" />
-      <jump line="15" column="2" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" />
-      <jump line="54" column="14" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" />
-      <jump line="23" column="12" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" />
-      <jump line="28" column="12" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObjectManager.java" />
-      <jump line="27" column="13" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObjectManager.java" />
-      <jump line="15" column="19" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObject.java" />
-      <jump line="19" column="46" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObject.java" />
-      <jump line="23" column="24" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObject.java" />
-      <jump line="35" column="22" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObject.java" />
-      <jump line="66" column="27" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
-      <jump line="65" column="14" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
       <jump line="63" column="49" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
       <jump line="55" column="30" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" />
       <jump line="48" column="58" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" />
@@ -250,67 +241,75 @@
       <jump line="152" column="45" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="214" column="28" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="275" column="43" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="79" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="256" column="29" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
+      <jump line="84" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="304" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="23" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="36" column="19" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="63" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="206" column="40" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="215" column="36" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="132" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="60" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="61" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="62" column="16" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="120" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>requestsAcks</text>
+        <text encoding="base64">Ym9vbGVhbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>requestsAcks</text>
+        <text encoding="base64">Ym9vbGVhbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>still</text>
+        <text encoding="base64">XDx1cGRhdGVOdW1fTVR5cGVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBmaW5pc2goKSB7CiAgICAgICAgICAgIGRvbmUgPSB0cnVlOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdWNjZXNzID0gdHJ1ZQo=</text>
       </register>
       <register name="1" type="4">
-        <text>requestsAcks</text>
+        <text encoding="base64">Ym9vbGVhbiA=</text>
       </register>
-      <register name="2" type="4">
-        <text>requestsAcks</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>k</text>
+        <text>true</text>
       </register>
-      <register name="4" type="4">
-        <text>requestsAcks</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdWNjZXNzID0gdHJ1ZQo=</text>
       </register>
       <register name="5" type="4">
-        <text>h</text>
+        <text>false</text>
       </register>
       <register name="6" type="4">
-        <text>Acks</text>
+        <text>true</text>
       </register>
       <register name="7" type="4">
-        <text>Acks</text>
+        <text>false</text>
       </register>
       <register name="8" type="4">
-        <text>&quot; &quot;</text>
+        <text>2</text>
       </register>
       <register name="9" type="4">
-        <text>ns</text>
+        <text>200</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>still</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVOdW1fTVR5cGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>still</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVOdW1fTVR5cGVzXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>run</entry>
-        <entry encoding="base64">XDxNZXNzYWdlVHlwZVw+</entry>
-        <entry>messageType</entry>
-        <entry>broadcast</entry>
-        <entry>num</entry>
-        <entry>MT_ypes</entry>
-        <entry encoding="base64">XDxlbGVjdGlvblJvdW5kT2ZmXD4=</entry>
         <entry>elect</entry>
         <entry encoding="base64">XDxSXD4=</entry>
         <entry>OrdinaryProcess</entry>
@@ -324,6 +323,13 @@
         <entry>null</entry>
         <entry>poll</entry>
         <entry>still</entry>
+        <entry>Entry</entry>
+        <entry>print</entry>
+        <entry>pw</entry>
+        <entry>cap</entry>
+        <entry encoding="base64">XDx1cGRhdGVUaW1lc19jYXB0XD4=</entry>
+        <entry encoding="base64">XDxudW1fTVR5cGVzXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVOdW1fTVR5cGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
