@@ -29,11 +29,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" timestamp="1463930937562">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="75" />
-        <mark key="." line="96" column="14" />
-        <mark key="^" line="96" column="14" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" timestamp="1463932093965">
+        <mark key="'" line="122" column="28" />
+        <mark key="[" line="147" column="53" />
+        <mark key="]" line="147" column="53" />
+        <mark key="." line="147" column="53" />
+        <mark key="^" line="147" column="53" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" timestamp="1461841003079">
         <mark key="'" line="135" column="0" />
@@ -186,55 +187,58 @@
       <jump line="28" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
       <jump line="106" column="13" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
+      <jump line="120" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
+      <jump line="52" column="55" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
+      <jump line="122" column="28" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBSUmdoaGp5dGVtLmdldFNlY3VyaXR5TWFuYWdlcigpID09IG51bGwpIHsgLy8gbm90IG5lZWRlZCB3aGVuIGxvY2FsCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNZXNzYWdlVHlwZVw+</text>
+        <text>Naming</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBSUmdoaGp5dGVtLmdldFNlY3VyaXR5TWFuYWdlcigpID09IG51bGwpIHsgLy8gbm90IG5lZWRlZCB3aGVuIGxvY2FsCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">Ly8gCi8vIAovLyA=</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoU3lzdGVtLmdldFNlY3VyaXR5TWFuYWdlcigpID09IG51bGwpIHsgLy8gbm90IG5lZWRlZCB3aGVuIGxvY2FsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">TWFsZm9ybWVkVVJMRXhjZXB0aW9uIA==</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text encoding="base64">fCA=</text>
       </register>
       <register name="4" type="4">
-        <text>localhost</text>
+        <text>.getURL()</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>this</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3VycmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Naming</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>Node</text>
+        <text>|</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNZXNzYWdlVHlwZVw+</last-search>
+      <last-search>Naming</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNZXNzYWdlVHlwZVw+</last-pattern>
+      <last-pattern>Naming</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -251,14 +255,16 @@
         <entry>commonList</entry>
         <entry>run</entry>
         <entry encoding="base64">XDxNZXNzYWdlVHlwZVw+</entry>
+        <entry>naming</entry>
+        <entry>Naming</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
         <entry>vsplit</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
