@@ -20,12 +20,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1463930206786">
-        <mark key="'" line="137" column="17" />
-        <mark key="[" line="94" column="16" />
-        <mark key="]" line="94" column="16" />
-        <mark key="^" line="94" column="25" />
-        <mark key="." line="94" column="16" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1464011309121">
+        <mark key="'" line="77" column="58" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1460744382475">
         <mark key="'" line="15" column="22" />
@@ -42,12 +38,6 @@
         <mark key="]" line="31" column="25" />
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Main.java" timestamp="1463937513792">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="40" />
-        <mark key="." line="6" column="40" />
-        <mark key="^" line="6" column="40" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/physics/PhysicsComponent.java" timestamp="1460752367833">
         <mark key="'" line="74" column="14" />
@@ -80,13 +70,6 @@
         <mark key="]" line="35" column="29" />
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" timestamp="1463937337248">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="79" column="16" />
-        <mark key="]" line="79" column="37" />
-        <mark key="." line="79" column="37" />
-        <mark key="^" line="79" column="37" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" timestamp="1461841003079">
         <mark key="'" line="135" column="0" />
@@ -147,10 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
-      <jump line="60" column="22" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
-      <jump line="46" column="61" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
-      <jump line="47" column="72" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
       <jump line="53" column="69" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
       <jump line="54" column="54" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
       <jump line="55" column="37" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
@@ -172,7 +151,6 @@
       <jump line="257" column="91" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="258" column="77" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="65" column="34" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="67" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="68" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="69" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="172" column="94" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
@@ -247,6 +225,11 @@
       <jump line="31" column="33" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
       <jump line="85" column="4" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
       <jump line="47" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
+      <jump line="237" column="29" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="173" column="29" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="174" column="30" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="67" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="77" column="58" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -256,7 +239,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>delayMap</text>
+        <text>KILL</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdWNjZXNzID0gdHJ1ZQo=</text>
@@ -293,16 +276,14 @@
       </register>
     </registers>
     <search>
-      <last-search>delayMap</last-search>
+      <last-search>KILL</last-search>
       <last-offset />
-      <last-pattern>delayMap</last-pattern>
+      <last-pattern>KILL</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return</entry>
-        <entry>null</entry>
         <entry>poll</entry>
         <entry>still</entry>
         <entry>Entry</entry>
@@ -321,6 +302,8 @@
         <entry encoding="base64">XDxERUxBWVNcPg==</entry>
         <entry>receive</entry>
         <entry>delayMap</entry>
+        <entry>messageType.KILL</entry>
+        <entry>KILL</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
