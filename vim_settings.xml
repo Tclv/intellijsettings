@@ -20,8 +20,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1464011309121">
-        <mark key="'" line="77" column="58" />
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1464012695972">
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="90" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1460744382475">
         <mark key="'" line="15" column="22" />
@@ -46,10 +48,10 @@
         <mark key="." line="158" column="24" />
         <mark key="^" line="158" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/NetworkStats.java" timestamp="1463925846449">
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/NetworkStats.java" timestamp="1464012678333">
         <mark key="'" line="7" column="23" />
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="52" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="85" />
         <mark key="." line="25" column="52" />
         <mark key="^" line="25" column="52" />
       </file>
@@ -233,7 +235,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBOZXR3b3JrU3RhdHMoaW50IG1heExldmVsLCBpbnQgcmVxdWVzdENhcCwgaW50IGtpbGxzLCBpbnQgYWNrcywgaW50IGNhcHMpIHsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -242,7 +244,7 @@
         <text>KILL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBzdWNjZXNzID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBOZXR3b3JrU3RhdHMoaW50IG1heExldmVsLCBpbnQgcmVxdWVzdENhcCwgaW50IGtpbGxzLCBpbnQgYWNrcywgaW50IGNhcHMpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
