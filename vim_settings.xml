@@ -20,6 +20,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" timestamp="1464017185847">
+        <mark key="'" line="140" column="17" />
+      </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/ElevatorMusic.java" timestamp="1460744382475">
         <mark key="'" line="15" column="22" />
       </file>
@@ -30,11 +33,10 @@
         <mark key="^" line="29" column="28" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Message.java" timestamp="1463919848430">
-        <mark key="'" line="7" column="40" />
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="25" />
-        <mark key="." line="31" column="25" />
-        <mark key="^" line="31" column="25" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/physics/PhysicsComponent.java" timestamp="1460752367833">
         <mark key="'" line="74" column="14" />
@@ -127,9 +129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="69" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
-      <jump line="54" column="54" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
-      <jump line="55" column="37" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
       <jump line="56" column="31" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
       <jump line="18" column="2" filename="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/renderer/RendererComponent.java" />
       <jump line="17" column="2" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" />
@@ -227,6 +226,9 @@
       <jump line="174" column="30" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="67" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="77" column="58" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="217" column="40" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="226" column="36" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
+      <jump line="140" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -236,7 +238,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>KILL</text>
+        <text encoding="base64">XDx1cGRhdGVUaW1lc19jYXB0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBOZXR3b3JrU3RhdHMoaW50IG1heExldmVsLCBpbnQgcmVxdWVzdENhcCwgaW50IGtpbGxzLCBpbnQgYWNrcywgaW50IGNhcHMpIHsK</text>
@@ -273,9 +275,9 @@
       </register>
     </registers>
     <search>
-      <last-search>KILL</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVUaW1lc19jYXB0XD4=</last-search>
       <last-offset />
-      <last-pattern>KILL</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVUaW1lc19jYXB0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -290,7 +292,6 @@
         <entry encoding="base64">XDxudW1fTVR5cGVzXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVOdW1fTVR5cGVzXD4=</entry>
         <entry>DELAYS</entry>
-        <entry encoding="base64">XDx1cGRhdGVUaW1lc19jYXB0XD4=</entry>
         <entry>bind</entry>
         <entry>createRegistry</entry>
         <entry encoding="base64">XDxwcm9jZXNzVXJsXD4=</entry>
@@ -301,6 +302,7 @@
         <entry>delayMap</entry>
         <entry>messageType.KILL</entry>
         <entry>KILL</entry>
+        <entry encoding="base64">XDx1cGRhdGVUaW1lc19jYXB0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
