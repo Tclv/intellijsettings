@@ -107,11 +107,12 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Main.java" timestamp="1468962247912">
+      <file name="$USER_HOME$/Development/CIAs3/src/Main.java" timestamp="1468962803907">
+        <mark key="'" line="16" column="32" />
         <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/DestinationType.java" timestamp="1463919813751">
         <mark key="[" line="5" column="0" />
@@ -163,7 +164,7 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1468955305623">
+      <file name="/fragment.java" timestamp="1468962536822">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy maze.txt" timestamp="1468934177863">
@@ -267,20 +268,20 @@
       <jump line="128" column="16" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="86" column="0" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="132" column="35" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="16" column="37" filename="$USER_HOME$/Development/CIAs3/src/Main.java" />
       <jump line="57" column="4" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="73" column="21" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="31" column="29" filename="$USER_HOME$/Development/CIAs3/src/Direction.java" />
       <jump line="55" column="28" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="1" column="20" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="21" column="16" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
+      <jump line="16" column="32" filename="$USER_HOME$/Development/CIAs3/src/Main.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20</text>
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
         <text>write</text>
@@ -289,31 +290,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm91dGUud3JpdGVUb0ZpbGUoIi4vZGF0YS90ZXN0LnR4dCIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>20</text>
+        <text>10</text>
       </register>
       <register name="2" type="4">
-        <text>200</text>
+        <text>;
+        int gen = 10</text>
       </register>
       <register name="3" type="4">
-        <text>iteration</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>10</text>
       </register>
       <register name="5" type="4">
-        <text>l</text>
+        <text>20</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>200</text>
       </register>
       <register name="7" type="4">
-        <text>y</text>
+        <text>iteration</text>
       </register>
       <register name="8" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
