@@ -15,8 +15,8 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1468963832298">
-        <mark key="'" line="4" column="4" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1468965379819">
+        <mark key="'" line="41" column="0" />
         <mark key="[" line="34" column="20" />
         <mark key="]" line="45" column="1" />
         <mark key="." line="45" column="1" />
@@ -37,12 +37,12 @@
         <mark key="." line="29" column="28" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1468959574042">
-        <mark key="'" line="73" column="21" />
-        <mark key="[" line="73" column="21" />
-        <mark key="]" line="73" column="21" />
-        <mark key="^" line="73" column="21" />
-        <mark key="." line="73" column="21" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1468966967991">
+        <mark key="'" line="83" column="88" />
+        <mark key="[" line="83" column="79" />
+        <mark key="]" line="83" column="79" />
+        <mark key="." line="83" column="79" />
+        <mark key="^" line="83" column="91" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Message.java" timestamp="1463919848430">
         <mark key="[" line="31" column="11" />
@@ -85,8 +85,8 @@
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Messenger.java" timestamp="1461841003079">
         <mark key="'" line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1468961472138">
-        <mark key="'" line="21" column="16" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1468965366899">
+        <mark key="'" line="47" column="19" />
         <mark key="[" line="47" column="11" />
         <mark key="]" line="47" column="19" />
         <mark key="." line="47" column="19" />
@@ -107,12 +107,12 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Main.java" timestamp="1468962803907">
-        <mark key="'" line="16" column="32" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Main.java" timestamp="1468967211152">
+        <mark key="'" line="10" column="22" />
         <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/DestinationType.java" timestamp="1463919813751">
         <mark key="[" line="5" column="0" />
@@ -138,12 +138,12 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="20" column="68" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1468963901024">
-        <mark key="'" line="33" column="57" />
-        <mark key="[" line="37" column="28" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="29" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1468967585951">
+        <mark key="'" line="45" column="30" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="8" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="8" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1460750869367">
         <mark key="'" line="4" column="37" />
@@ -152,12 +152,12 @@
         <mark key="." line="56" column="19" />
         <mark key="^" line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1468960292712">
-        <mark key="'" line="31" column="29" />
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="40" column="32" />
-        <mark key="." line="40" column="32" />
-        <mark key="^" line="40" column="32" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1468967512242">
+        <mark key="'" line="46" column="12" />
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="28" />
+        <mark key="^" line="44" column="26" />
+        <mark key="." line="44" column="28" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObjectFactory.java" timestamp="1460742345610">
         <mark key="[" line="20" column="16" />
@@ -165,7 +165,7 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1468964246905">
+      <file name="/fragment.java" timestamp="1468967100075">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy maze.txt" timestamp="1468934177863">
@@ -176,26 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="163" column="15" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="153" column="10" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="75" column="27" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="80" column="29" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="78" column="6" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="85" column="29" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="143" column="12" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="311" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="9" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="235" column="14" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="229" column="34" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="222" column="131" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="312" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="296" column="24" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="326" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="92" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="97" column="30" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="303" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="152" column="45" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="214" column="28" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="275" column="43" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
@@ -245,7 +225,6 @@
       <jump line="0" column="3" filename="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" />
       <jump line="1" column="7" filename="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" />
       <jump line="32" column="12" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="35" column="11" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="37" column="12" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="28" column="12" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="42" column="26" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
@@ -255,11 +234,9 @@
       <jump line="47" column="7" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="4" column="4" filename="$USER_HOME$/Development/CIAs3/src/Coordinate.java" />
       <jump line="30" column="7" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="27" column="26" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="41" column="20" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="46" column="15" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="25" column="11" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="26" column="29" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="18" column="0" filename="$USER_HOME$/Development/CIAs3/src/Direction.java" />
       <jump line="43" column="15" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="46" column="35" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
@@ -270,62 +247,84 @@
       <jump line="132" column="35" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="57" column="4" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="73" column="21" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="31" column="29" filename="$USER_HOME$/Development/CIAs3/src/Direction.java" />
       <jump line="55" column="28" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="1" column="20" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="21" column="16" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="16" column="32" filename="$USER_HOME$/Development/CIAs3/src/Main.java" />
-      <jump line="33" column="57" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="10" column="22" filename="$USER_HOME$/Development/CIAs3/src/Main.java" />
+      <jump line="47" column="19" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
+      <jump line="93" column="50" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Development/CIAs3/src/Coordinate.java" />
+      <jump line="31" column="29" filename="$USER_HOME$/Development/CIAs3/src/Direction.java" />
+      <jump line="58" column="29" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="70" column="42" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="65" column="34" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/CIAs3/src/Direction.java" />
+      <jump line="40" column="50" filename="$USER_HOME$/Development/CIAs3/src/Direction.java" />
+      <jump line="46" column="12" filename="$USER_HOME$/Development/CIAs3/src/Direction.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
+      <jump line="3" column="17" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
+      <jump line="83" column="88" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
+      <jump line="33" column="8" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="48" column="28" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="26" column="11" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="27" column="26" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="35" column="12" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="38" column="24" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="42" column="15" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="45" column="30" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>runMaze</text>
+        <text>route</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm91dGUud3JpdGVUb0ZpbGUoIi4vZGF0YS90ZXN0LnR4dCIpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>2</text>
+        <text>/</text>
       </register>
       <register name="2" type="4">
-        <text>10</text>
+        <text>/</text>
       </register>
-      <register name="3" type="4">
-        <text>;
-        int gen = 10</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDIwMDAwMDsgaSsrKSB7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="5" type="4">
-        <text>10</text>
+        <text>1</text>
       </register>
       <register name="6" type="4">
-        <text>20</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>200</text>
+        <text>.dirToInt(</text>
       </register>
       <register name="8" type="4">
-        <text>iteration</text>
+        <text>Direction</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>runMaze</last-search>
+      <last-search>route</last-search>
       <last-offset />
-      <last-pattern>runMaze</last-pattern>
+      <last-pattern>route</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxTeXN0ZW1cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -333,10 +332,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21waWxlXD4=</entry>
-        <entry>\n*</entry>
-        <entry>\\n*</entry>
-        <entry>[^0-9]*</entry>
         <entry>[0-9]*</entry>
         <entry>System.out</entry>
         <entry>%s</entry>
@@ -353,6 +348,10 @@
         <entry encoding="base64">XDxkaXJUb0ludkNvb3JkaW5hdGVEZWx0YVw+</entry>
         <entry>write</entry>
         <entry>runMaze</entry>
+        <entry>Value</entry>
+        <entry>while</entry>
+        <entry>EnumMap</entry>
+        <entry>route</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
