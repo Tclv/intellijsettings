@@ -37,12 +37,12 @@
         <mark key="." line="29" column="28" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1468966967991">
-        <mark key="'" line="83" column="88" />
-        <mark key="[" line="83" column="79" />
-        <mark key="]" line="83" column="79" />
-        <mark key="." line="83" column="79" />
-        <mark key="^" line="83" column="91" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1469627325291">
+        <mark key="'" line="87" column="36" />
+        <mark key="[" line="90" column="15" />
+        <mark key="]" line="90" column="15" />
+        <mark key="." line="90" column="35" />
+        <mark key="^" line="81" column="55" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Message.java" timestamp="1463919848430">
         <mark key="[" line="31" column="11" />
@@ -107,12 +107,11 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Main.java" timestamp="1468967211152">
-        <mark key="'" line="10" column="22" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Main.java" timestamp="1469627437880">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/DestinationType.java" timestamp="1463919813751">
         <mark key="[" line="5" column="0" />
@@ -138,12 +137,12 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="20" column="68" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1469626374752">
+      <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1469627542006">
         <mark key="'" line="64" column="50" />
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="8" />
-        <mark key="^" line="33" column="7" />
-        <mark key="." line="33" column="8" />
+        <mark key="[" line="64" column="54" />
+        <mark key="]" line="64" column="54" />
+        <mark key="^" line="64" column="54" />
+        <mark key="." line="64" column="54" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1460750869367">
         <mark key="'" line="4" column="37" />
@@ -152,12 +151,12 @@
         <mark key="." line="56" column="19" />
         <mark key="^" line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1469626345574">
-        <mark key="'" line="44" column="27" />
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="44" column="23" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="44" column="23" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1469627196988">
+        <mark key="'" line="43" column="27" />
+        <mark key="[" line="56" column="104" />
+        <mark key="]" line="57" column="8" />
+        <mark key="." line="57" column="8" />
+        <mark key="^" line="57" column="8" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObjectFactory.java" timestamp="1460742345610">
         <mark key="[" line="20" column="16" />
@@ -165,7 +164,7 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1468967100075">
+      <file name="/fragment.java" timestamp="1469627420921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy maze.txt" timestamp="1468934177863">
@@ -176,9 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
-      <jump line="84" column="26" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
-      <jump line="304" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="23" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="36" column="19" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="63" column="22" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
@@ -276,55 +272,58 @@
       <jump line="56" column="43" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="60" column="44" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="64" column="50" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="81" column="55" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
+      <jump line="85" column="36" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
+      <jump line="87" column="36" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
-        <text>ordinal</text>
+        <text encoding="base64">XDxtYXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcm91dGUud3JpdGVUb0ZpbGUoIi4vZGF0YS90ZXN0LnR4dCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcC5wdXQoZGlyLCBwaGVyb21vbmVzW25ld1Bvcy5nZXRYKCldW25ld1Bvcy5nZXRZKCldKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>20</text>
       </register>
-      <register name="2" type="4">
-        <text>l</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgbm9fZ2VuID0gMjA7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
+        <text>20</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>[dir.ordinal()];</text>
       </register>
       <register name="5" type="4">
-        <text>b</text>
+        <text>surroundingPheromone.get</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>Double</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>Direction dir : Direction.values()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDIwMDAwMDsgaSsrKSB7Cg==</text>
+      <register name="8" type="4">
+        <text>[dir.ordinal()];</text>
       </register>
       <register name="9" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ordinal</last-search>
+      <last-search encoding="base64">XDxtYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>ordinal</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxTeXN0ZW1cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +331,6 @@
     </search>
     <history>
       <history-search>
-        <entry>%s</entry>
         <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
         <entry>pheromone</entry>
         <entry>System</entry>
@@ -352,6 +350,7 @@
         <entry>route</entry>
         <entry>dirToInt</entry>
         <entry>ordinal</entry>
+        <entry encoding="base64">XDxtYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
