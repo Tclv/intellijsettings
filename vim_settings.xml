@@ -2,14 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="A" line="34" column="28" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <mark key="A" line="78" column="28" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" timestamp="1469719480772">
-        <mark key="[" line="19" column="68" />
-        <mark key="]" line="19" column="68" />
-        <mark key="." line="19" column="68" />
-        <mark key="^" line="19" column="65" />
+      <file name="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" timestamp="1469721034582">
+        <mark key="[" line="57" column="64" />
+        <mark key="]" line="57" column="62" />
+        <mark key="^" line="57" column="62" />
+        <mark key="." line="57" column="62" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/MessageType.java" timestamp="1463921546283">
         <mark key="[" line="2" column="31" />
@@ -80,9 +80,9 @@
         <mark key="^" line="72" column="28" />
         <mark key="." line="72" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" timestamp="1469719367095">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="19" />
+      <file name="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" timestamp="1469719772284">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="81" />
         <mark key="." line="46" column="19" />
         <mark key="^" line="46" column="19" />
       </file>
@@ -178,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="19" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
-      <jump line="137" column="17" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Node.java" />
       <jump line="150" column="21" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
       <jump line="106" column="8" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
       <jump line="113" column="24" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
@@ -278,13 +276,15 @@
       <jump line="4" column="22" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
       <jump line="10" column="32" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
       <jump line="29" column="0" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="21" column="27" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="7" column="31" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>distance</text>
+        <text>&quot;javaObjects.txt&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>distance</text>
+        <text>&quot;javaObjects.txt&quot;</text>
       </register>
       <register name="/" type="4">
         <text>evap</text>
@@ -293,31 +293,34 @@
         <text encoding="base64">ICAgICAgICBpbnQgZ2VuID0gOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>distance</text>
+        <text>&quot;javaObjects.txt&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXN0YW5jZXMgPSBidWlsZERpc3RhbmNlTWF0cml4KCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKCkK</text>
       </register>
       <register name="4" type="4">
-        <text>10</text>
+        <text>boid</text>
       </register>
       <register name="5" type="4">
-        <text>20</text>
+        <text>getRpit</text>
       </register>
       <register name="6" type="4">
-        <text>20</text>
+        <text>private</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>opened</text>
       </register>
       <register name="8" type="4">
-        <text>1</text>
+        <text>Convers</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">TWFpbgo=</text>
+      <register name="9" type="4">
+        <text>disatnces</text>
+      </register>
+      <register name="y" type="2">
+        <text encoding="base64">ICAgICAgICBTaG9ydGVzdFBhdGhGaW5kZXIgc3AgPSBuZXcgU2hvcnRlc3RQYXRoRmluZGVyKG1hemUsIGdlbiwgbm9HZW4sIFEsIGV2YXApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -364,10 +367,11 @@
         <entry>%s///</entry>
         <entry>%s///g</entry>
         <entry>ww</entry>
-        <entry>W</entry>
         <entry>let@/=&quot;&quot;</entry>
         <entry>.,.+1w</entry>
         <entry>vsplit</entry>
+        <entry>W</entry>
+        <entry>ws</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
