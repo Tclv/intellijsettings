@@ -107,11 +107,12 @@
         <mark key="^" line="3" column="40" />
         <mark key="." line="3" column="40" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Main.java" timestamp="1469629594050">
+      <file name="$USER_HOME$/Development/CIAs3/src/Main.java" timestamp="1469706303210">
         <mark key="'" line="21" column="20" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="7" column="67" />
+        <mark key="." line="7" column="67" />
+        <mark key="^" line="7" column="67" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/DestinationType.java" timestamp="1463919813751">
         <mark key="[" line="5" column="0" />
@@ -151,7 +152,7 @@
         <mark key="." line="56" column="19" />
         <mark key="^" line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1469630124093">
+      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1469706294358">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -277,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>containing</text>
+        <text>hard</text>
       </register>
       <register name="-" type="4">
-        <text>containing</text>
+        <text>hard</text>
       </register>
       <register name="/" type="4">
         <text>evap</text>
@@ -289,31 +290,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEZpbGVOb3RGb3VuZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>containing</text>
+        <text>hard</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBkb3J1cyBvbiAxOS8wNy8xNi4K</text>
+      <register name="2" type="4">
+        <text>hard</text>
       </register>
       <register name="3" type="4">
-        <text>Coordinate</text>
+        <text>containing</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZG9ydXMgb24gMTkvMDcvMTYuCiAqLwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBkb3J1cyBvbiAxOS8wNy8xNi4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVydCBhbiBlbnVtIHRvIGEgY29vcmRpbmF0ZSBkZWx0YQogICAgICogQHJldHVybiBjb29yZGluYXRlIGRlbHRhCiAgICAgKi8K</text>
+      <register name="5" type="4">
+        <text>Coordinate</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVydCBhbiBlbnVtIHRvIHRoZSBpbgogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgZG9ydXMgb24gMTkvMDcvMTYuCiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVydCBhbiBlbnVtIHRvIGEgY29vcmRpbmF0ZSBkZWx0YQogICAgICogQHJldHVybiBjb29yZGluYXRlIGRlbHRhCiAgICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ29udmVydCBhbiBlbnVtIHRvIHRoZSBpbgogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>R</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
