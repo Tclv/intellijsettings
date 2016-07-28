@@ -20,7 +20,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/data/hard_solution.txt" timestamp="1469706677974" />
       <file name="$USER_HOME$/Development/CIAs3/src/Assignment_1.java" timestamp="1469703887753">
         <mark key="'" line="5" column="53" />
         <mark key="[" line="5" column="0" />
@@ -72,12 +71,12 @@
         <mark key="^" line="72" column="28" />
         <mark key="." line="72" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" timestamp="1469707182540">
-        <mark key="'" line="47" column="47" />
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="25" />
-        <mark key="^" line="47" column="47" />
-        <mark key="." line="46" column="25" />
+      <file name="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" timestamp="1469707894420">
+        <mark key="'" line="44" column="16" />
+        <mark key="[" line="49" column="66" />
+        <mark key="]" line="49" column="66" />
+        <mark key="^" line="44" column="16" />
+        <mark key="." line="49" column="70" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/driver/PlayerStateMachine.java" timestamp="1460739586048">
         <mark key="'" line="7" column="19" />
@@ -157,8 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" />
-      <jump line="26" column="35" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab2/src/Main.java" />
       <jump line="28" column="20" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Messenger.java" />
@@ -257,61 +254,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" />
       <jump line="48" column="62" filename="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" />
       <jump line="47" column="47" filename="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" />
+      <jump line="49" column="66" filename="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" />
+      <jump line="44" column="16" filename="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>medium</text>
+        <text>no_gen</text>
       </register>
       <register name="-" type="4">
-        <text>medium</text>
+        <text>no_gen</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZWRpdW1cPg==</text>
+        <text encoding="base64">XDxub19nZW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgUm91dGUgZmluZFNob3J0ZXN0Um91dGUoTWF6ZSBtYXplLCBQYXRoU3BlY2lmaWNhdGlvbiBzcGVjLCBpbnQgYW50c1BlckdlbiwgaW50IGdlbmVyYXRpb25zLCBkb3VibGUgUSwgZG91YmxlIGV2YXBvcmF0aW9uKSB7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>medium</text>
+        <text>no_gen</text>
       </register>
       <register name="2" type="4">
-        <text>medium</text>
+        <text>no_gen</text>
       </register>
       <register name="3" type="4">
-        <text>20</text>
+        <text>40</text>
       </register>
       <register name="4" type="4">
-        <text>30</text>
+        <text>140</text>
       </register>
       <register name="5" type="4">
-        <text>20</text>
+        <text>medium</text>
       </register>
       <register name="6" type="4">
-        <text>500</text>
+        <text>medium</text>
       </register>
       <register name="7" type="4">
-        <text>hard</text>
+        <text>20</text>
       </register>
       <register name="8" type="4">
-        <text>hard</text>
+        <text>30</text>
       </register>
       <register name="9" type="4">
-        <text>Created by dorus on 7/28/16.</text>
+        <text>20</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZWRpdW1cPg==</last-search>
+      <last-search encoding="base64">XDxub19nZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZWRpdW1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxub19nZW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Entry</entry>
         <entry>print</entry>
         <entry>pw</entry>
         <entry>cap</entry>
@@ -331,6 +329,7 @@
         <entry encoding="base64">XDx1cGRhdGVUaW1lc19jYXB0XD4=</entry>
         <entry>hard</entry>
         <entry encoding="base64">XDxtZWRpdW1cPg==</entry>
+        <entry encoding="base64">XDxub19nZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
