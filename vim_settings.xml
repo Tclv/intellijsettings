@@ -2,14 +2,111 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1471014327482">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1471014348669">
+        <mark key="[" line="89" column="37" />
+        <mark key="]" line="89" column="37" />
+        <mark key="." line="89" column="37" />
+        <mark key="^" line="89" column="37" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1471013796529">
+        <mark key="'" line="35" column="28" />
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="39" column="23" />
+        <mark key="^" line="39" column="23" />
+        <mark key="." line="39" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1471012627185">
+        <mark key="'" line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/SurroundingPheromone.java" timestamp="1471012945889">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="7" filename="$USER_HOME$/Development/CIAs3/src/Coordinate.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
+      <jump line="40" column="28" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="78" column="44" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
+      <jump line="82" column="34" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>index</text>
+      </register>
+      <register name="-" type="4">
+        <text>index</text>
+      </register>
+      <register name="/" type="4">
+        <text>stepBack</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluQm91bmRzKG5ld1BvcykpIHsKICAgICAgICAgICAgICAgIHN1cnJvdW5kaW5nUGhlcm9tb25lcy5wdXQoZGlyLCBwaGVyb21vbmVzW25ld1Bvcy5nZXRYKCldW25ld1Bvcy5nZXRZKCldKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHN1cnJvdW5kaW5nUGhlcm9tb25lcy5wdXQoZGlyLCAwLjApOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>index</text>
+      </register>
+      <register name="2" type="4">
+        <text>i</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgaW50IHJlc3VsdCA9IDE3OwogICAgICAgIGludCBjID0gKGludCkgeDsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGM7CiAgICAgICAgYyA9IChpbnQpIHk7CiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBjOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjID0gbWVzc2FnZS5oYXNoQ29kZSgpOwogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgYzsK</text>
+      </register>
+      <register name="6" type="4">
+        <text>d</text>
+      </register>
+      <register name="7" type="4">
+        <text>I</text>
+      </register>
+      <register name="8" type="4">
+        <text>d</text>
+      </register>
+      <register name="9" type="4">
+        <text>n</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>stepBack</last-search>
+      <last-offset />
+      <last-pattern>stepBack</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>add</entry>
+        <entry encoding="base64">XDxtYWtlU3RlcFw+</entry>
+        <entry>stepBack</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>Lw</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
