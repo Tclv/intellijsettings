@@ -3,21 +3,42 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" timestamp="1471015941426">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="31" column="42" />
+      <file name="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" timestamp="1471016852918">
+        <mark key="'" line="14" column="11" />
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1471014327482">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Development/CIAs3/src/TravellingSalesMan.java" timestamp="1471016954179">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="54" column="9" />
+        <mark key="." line="54" column="9" />
+        <mark key="^" line="54" column="9" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" timestamp="1471016727435">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1471015829331">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/AntColonyOptimization.java" timestamp="1471016897672">
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1471014327482">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1471015917346">
         <mark key="'" line="62" column="9" />
@@ -25,6 +46,13 @@
         <mark key="]" line="32" column="25" />
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1471017047218">
+        <mark key="'" line="74" column="32" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="17" />
+        <mark key="^" line="86" column="17" />
+        <mark key="." line="86" column="17" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1471012627185">
         <mark key="'" line="107" column="0" />
@@ -48,55 +76,72 @@
       <jump line="78" column="44" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="82" column="34" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="62" column="9" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
+      <jump line="73" column="18" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="52" column="46" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="43" column="15" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="33" column="34" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="96" column="54" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="95" column="18" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="79" column="16" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="22" column="12" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/Development/CIAs3/src/ProductDistances.java" />
+      <jump line="14" column="11" filename="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" />
+      <jump line="44" column="26" filename="$USER_HOME$/Development/CIAs3/src/TravellingSalesMan.java" />
+      <jump line="52" column="48" filename="$USER_HOME$/Development/CIAs3/src/TravellingSalesMan.java" />
+      <jump line="79" column="36" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="74" column="32" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="6" column="13" filename="$USER_HOME$/Development/CIAs3/src/TravellingSalesMan.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toString</text>
+        <text>tsp</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>tsp</text>
       </register>
       <register name="/" type="4">
-        <text>runMaze</text>
+        <text encoding="base64">XDxUcmF2ZWxsaW5nU2FsZXNNYW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGluQm91bmRzKG5ld1BvcykpIHsKICAgICAgICAgICAgICAgIHN1cnJvdW5kaW5nUGhlcm9tb25lcy5wdXQoZGlyLCBwaGVyb21vbmVzW25ld1Bvcy5nZXRYKCldW25ld1Bvcy5nZXRZKCldKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHN1cnJvdW5kaW5nUGhlcm9tb25lcy5wdXQoZGlyLCAwLjApOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>toString</text>
+        <text>tsp</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text>tsp</text>
       </register>
       <register name="3" type="4">
-        <text>int</text>
+        <text>TravellingSalesMan</text>
       </register>
       <register name="4" type="4">
-        <text>dirToInt</text>
+        <text>sp</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>sp</text>
       </register>
       <register name="6" type="4">
-        <text>runMaze</text>
+        <text>sp</text>
       </register>
       <register name="7" type="4">
-        <text>runMaze</text>
+        <text>sp</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ3V0cyBhIGxvb3AgZnJvbSB0aGUgY3VycmVudCByb3V0ZS4KICAgICAqIEBwYXJhbSByb3V0ZSBjdXJyZW50IHJvdXRlCiAgICAgKiBAcGFyYW0gdmlzaXRNYXAgdmlzaXRlZCBwb3NpdGlvbnMKICAgICAqLwogICAgcHVibGljIHZvaWQgY3V0TG9vcCgpIHsKICAgICAgICBDb29yZGluYXRlIHBvcyA9IHN0YXJ0OwogICAgICAgIEhhc2hNYXA8Q29vcmRpbmF0ZSwgQm9vbGVhbj4gY29vcmRpbmF0ZVZpc2l0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIAogICAgICAgIGRvIHsKICAgICAgICAgICAgRGlyZWN0aW9uIGRpciA9IHJvdXRlLnN0ZXBCYWNrKCk7CiAgICAgICAgICAgIHdhbGtCYWNrUG9zID0gd2Fsa0JhY2tQb3MuYWRkKERpcmVjdGlvbi5kaXJUb0ludkNvb3JkaW5hdGVEZWx0YShkaXIpKTsKICAgICAgICAgICAgdmlzaXRNYXBbd2Fsa0JhY2tQb3MuZ2V0WCgpXVt3YWxrQmFja1Bvcy5nZXRZKCldID0gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHdoaWxlICghY3VycmVudFBvc2l0aW9uLmVxdWFscyh3YWxrQmFja1BvcykpOwogICAgfQo=</text>
+      <register name="8" type="4">
+        <text>ShortestPathFinder</text>
       </register>
       <register name="9" type="4">
-        <text>currentPosition</text>
+        <text>testPathFinder</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>runMaze</last-search>
+      <last-search encoding="base64">XDxUcmF2ZWxsaW5nU2FsZXNNYW5cPg==</last-search>
       <last-offset />
-      <last-pattern>runMaze</last-pattern>
+      <last-pattern encoding="base64">XDxUcmF2ZWxsaW5nU2FsZXNNYW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -106,11 +151,17 @@
         <entry encoding="base64">XDxtYWtlU3RlcFw+</entry>
         <entry>stepBack</entry>
         <entry>runMaze</entry>
+        <entry encoding="base64">XDxyb3V0ZU1hdHJpeFw+</entry>
+        <entry encoding="base64">XDxTaG9ydGVzdFBhdGhGaW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxQcm9kdWN0RGlzdGFuY2VzXD4=</entry>
+        <entry encoding="base64">XDxzcFw+</entry>
+        <entry encoding="base64">XDxUcmF2ZWxsaW5nU2FsZXNNYW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Lw</entry>
         <entry>W</entry>
+        <entry>.,.+19w</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
@@ -120,6 +171,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
