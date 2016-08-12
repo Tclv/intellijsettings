@@ -3,26 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/CIAs3/src/ShortestPathFinder.java" timestamp="1471015941426">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="31" column="42" />
+      </file>
       <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1471014327482">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1471014348669">
-        <mark key="[" line="89" column="37" />
-        <mark key="]" line="89" column="37" />
-        <mark key="." line="89" column="37" />
-        <mark key="^" line="89" column="37" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1471015829331">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1471013796529">
-        <mark key="'" line="35" column="28" />
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="39" column="23" />
-        <mark key="^" line="39" column="23" />
-        <mark key="." line="39" column="23" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1471015917346">
+        <mark key="'" line="62" column="9" />
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="25" />
+        <mark key="." line="32" column="25" />
+        <mark key="^" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1471012627185">
         <mark key="'" line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1471016065714">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="44" column="21" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/SurroundingPheromone.java" timestamp="1471012945889">
         <mark key="[" line="30" column="0" />
@@ -36,55 +47,56 @@
       <jump line="40" column="28" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="78" column="44" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="82" column="34" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
+      <jump line="62" column="9" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>toString</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>toString</text>
       </register>
       <register name="/" type="4">
-        <text>stepBack</text>
+        <text>runMaze</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGluQm91bmRzKG5ld1BvcykpIHsKICAgICAgICAgICAgICAgIHN1cnJvdW5kaW5nUGhlcm9tb25lcy5wdXQoZGlyLCBwaGVyb21vbmVzW25ld1Bvcy5nZXRYKCldW25ld1Bvcy5nZXRZKCldKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHN1cnJvdW5kaW5nUGhlcm9tb25lcy5wdXQoZGlyLCAwLjApOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>index</text>
+        <text>toString</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+      <register name="3" type="4">
+        <text>int</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgaW50IHJlc3VsdCA9IDE3OwogICAgICAgIGludCBjID0gKGludCkgeDsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGM7CiAgICAgICAgYyA9IChpbnQpIHk7CiAgICAgICAgcmVzdWx0ID0gMzEgKiByZXN1bHQgKyBjOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9</text>
+        <text>dirToInt</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gbWVzc2FnZS5oYXNoQ29kZSgpOwogICAgICAgIHJlc3VsdCA9IDMxICogcmVzdWx0ICsgYzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text>runMaze</text>
       </register>
       <register name="7" type="4">
-        <text>I</text>
+        <text>runMaze</text>
       </register>
-      <register name="8" type="4">
-        <text>d</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ3V0cyBhIGxvb3AgZnJvbSB0aGUgY3VycmVudCByb3V0ZS4KICAgICAqIEBwYXJhbSByb3V0ZSBjdXJyZW50IHJvdXRlCiAgICAgKiBAcGFyYW0gdmlzaXRNYXAgdmlzaXRlZCBwb3NpdGlvbnMKICAgICAqLwogICAgcHVibGljIHZvaWQgY3V0TG9vcCgpIHsKICAgICAgICBDb29yZGluYXRlIHBvcyA9IHN0YXJ0OwogICAgICAgIEhhc2hNYXA8Q29vcmRpbmF0ZSwgQm9vbGVhbj4gY29vcmRpbmF0ZVZpc2l0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIAogICAgICAgIGRvIHsKICAgICAgICAgICAgRGlyZWN0aW9uIGRpciA9IHJvdXRlLnN0ZXBCYWNrKCk7CiAgICAgICAgICAgIHdhbGtCYWNrUG9zID0gd2Fsa0JhY2tQb3MuYWRkKERpcmVjdGlvbi5kaXJUb0ludkNvb3JkaW5hdGVEZWx0YShkaXIpKTsKICAgICAgICAgICAgdmlzaXRNYXBbd2Fsa0JhY2tQb3MuZ2V0WCgpXVt3YWxrQmFja1Bvcy5nZXRZKCldID0gZmFsc2U7CiAgICAgICAgfQogICAgICAgIHdoaWxlICghY3VycmVudFBvc2l0aW9uLmVxdWFscyh3YWxrQmFja1BvcykpOwogICAgfQo=</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>currentPosition</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stepBack</last-search>
+      <last-search>runMaze</last-search>
       <last-offset />
-      <last-pattern>stepBack</last-pattern>
+      <last-pattern>runMaze</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -93,10 +105,12 @@
         <entry>add</entry>
         <entry encoding="base64">XDxtYWtlU3RlcFw+</entry>
         <entry>stepBack</entry>
+        <entry>runMaze</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Lw</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
