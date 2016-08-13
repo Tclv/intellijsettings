@@ -126,7 +126,12 @@
         <mark key="." line="7" column="67" />
         <mark key="^" line="7" column="67" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/AntColonyOptimization.java" timestamp="1471105920918" />
+      <file name="$USER_HOME$/Development/CIAs3/src/AntColonyOptimization.java" timestamp="1471108773042">
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="49" />
+        <mark key="." line="48" column="49" />
+        <mark key="^" line="48" column="49" />
+      </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/DestinationType.java" timestamp="1463919813751">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -152,12 +157,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1471108017790">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="51" />
-        <mark key="." line="32" column="24" />
-        <mark key="^" line="32" column="24" />
+      <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1471109462554">
+        <mark key="'" line="128" column="16" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="173" column="30" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1460750869367">
         <mark key="'" line="4" column="37" />
@@ -189,25 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="7" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="41" column="20" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="46" column="15" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="25" column="11" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/Development/CIAs3/src/Direction.java" />
-      <jump line="43" column="15" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="46" column="35" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="34" column="20" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
-      <jump line="40" column="58" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
-      <jump line="128" column="16" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="132" column="35" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="57" column="4" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="73" column="21" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="55" column="28" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
-      <jump line="1" column="20" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
-      <jump line="21" column="16" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
-      <jump line="16" column="32" filename="$USER_HOME$/Development/CIAs3/src/Main.java" />
-      <jump line="10" column="22" filename="$USER_HOME$/Development/CIAs3/src/Main.java" />
       <jump line="47" column="19" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
       <jump line="93" column="50" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="41" column="0" filename="$USER_HOME$/Development/CIAs3/src/Coordinate.java" />
@@ -285,50 +271,69 @@
       <jump line="89" column="32" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
       <jump line="27" column="33" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
       <jump line="171" column="29" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
-      <jump line="132" column="109" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
       <jump line="0" column="0" filename="/fragment.java" />
       <jump line="90" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="14" column="32" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="131" column="19" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="35" column="26" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="153" column="50" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="152" column="81" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="173" column="26" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="34" column="23" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="46" column="49" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="62" column="30" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="71" column="87" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="100" column="37" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="114" column="33" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="120" column="31" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="22" column="22" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="123" column="30" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="127" column="20" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="36" column="8" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="134" column="15" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="132" column="12" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="129" column="16" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmVhZHMgdGhlIGNvb3JkaW5hdGVzIGZpbGUgYW5kIHJldHVybnMgYSBwYXRoIHNwZWNpZmljYXRpb24KICAgICAqIEBwYXJhbSBmaWxlUGF0aCBTdHJpbmcgb2YgdGhlIHBhdGggdG8gdGhlIGZpbGUKICAgICAqIEByZXR1cm4gQSBzcGVjaWZpY2F0aW9uIG9mIHRoZSBwYXRoCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgUGF0aFNwZWNpZmljYXRpb24gcmVhZENvb3JkaW5hdGVzKFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIobmV3IEZpbGVSZWFkZXIoZmlsZVBhdGgpKTsKICAgICAgICBzY2FuLnVzZURlbGltaXRlcihQYXR0ZXJuLmNvbXBpbGUoIlssO11cXHMqIikpOwogICAgICAgIGludCBzdGFydFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgc3RhcnRZID0gc2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IGVuZFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgZW5kWSA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIENvb3JkaW5hdGUgc3RhcnQgPSBuZXcgQ29vcmRpbmF0ZShzdGFydFgsIHN0YXJ0WSk7CiAgICAgICAgQ29vcmRpbmF0ZSBlbmQgPSBuZXcgQ29vcmRpbmF0ZShlbmRYLCBlbmRZKTsKICAgICAgICByZXR1cm4gbmV3IFBhdGhTcGVjaWZpY2F0aW9uKHN0YXJ0LCBlbmQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZERpc3RhbmNlTGlzdHMoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>start.getX()).append(&quot;, &quot;).append(start.getY()</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>Sho</text>
+        <text encoding="base64">XDxzdGFydFRvUHJvZHVjdHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDBMOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmVhZHMgdGhlIGNvb3JkaW5hdGVzIGZpbGUgYW5kIHJldHVybnMgYSBwYXRoIHNwZWNpZmljYXRpb24KICAgICAqIEBwYXJhbSBmaWxlUGF0aCBTdHJpbmcgb2YgdGhlIHBhdGggdG8gdGhlIGZpbGUKICAgICAqIEByZXR1cm4gQSBzcGVjaWZpY2F0aW9uIG9mIHRoZSBwYXRoCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgUGF0aFNwZWNpZmljYXRpb24gcmVhZENvb3JkaW5hdGVzKFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIobmV3IEZpbGVSZWFkZXIoZmlsZVBhdGgpKTsKICAgICAgICBzY2FuLnVzZURlbGltaXRlcihQYXR0ZXJuLmNvbXBpbGUoIlssO11cXHMqIikpOwogICAgICAgIGludCBzdGFydFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgc3RhcnRZID0gc2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IGVuZFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgZW5kWSA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIENvb3JkaW5hdGUgc3RhcnQgPSBuZXcgQ29vcmRpbmF0ZShzdGFydFgsIHN0YXJ0WSk7CiAgICAgICAgQ29vcmRpbmF0ZSBlbmQgPSBuZXcgQ29vcmRpbmF0ZShlbmRYLCBlbmRZKTsKICAgICAgICByZXR1cm4gbmV3IFBhdGhTcGVjaWZpY2F0aW9uKHN0YXJ0LCBlbmQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZERpc3RhbmNlTGlzdHMoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIHBlcnNpc3RGaWxlID0gIi4vdG1wL3Byb2R1Y3RNYXRyaXhEaXN0IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogUmVhZHMgdGhlIGNvb3JkaW5hdGVzIGZpbGUgYW5kIHJldHVybnMgYSBwYXRoIHNwZWNpZmljYXRpb24KICAgICAqIEBwYXJhbSBmaWxlUGF0aCBTdHJpbmcgb2YgdGhlIHBhdGggdG8gdGhlIGZpbGUKICAgICAqIEByZXR1cm4gQSBzcGVjaWZpY2F0aW9uIG9mIHRoZSBwYXRoCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgUGF0aFNwZWNpZmljYXRpb24gcmVhZENvb3JkaW5hdGVzKFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIobmV3IEZpbGVSZWFkZXIoZmlsZVBhdGgpKTsKICAgICAgICBzY2FuLnVzZURlbGltaXRlcihQYXR0ZXJuLmNvbXBpbGUoIlssO11cXHMqIikpOwogICAgICAgIGludCBzdGFydFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgc3RhcnRZID0gc2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IGVuZFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgZW5kWSA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIENvb3JkaW5hdGUgc3RhcnQgPSBuZXcgQ29vcmRpbmF0ZShzdGFydFgsIHN0YXJ0WSk7CiAgICAgICAgQ29vcmRpbmF0ZSBlbmQgPSBuZXcgQ29vcmRpbmF0ZShlbmRYLCBlbmRZKTsKICAgICAgICByZXR1cm4gbmV3IFBhdGhTcGVjaWZpY2F0aW9uKHN0YXJ0LCBlbmQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>start.getX()).append(&quot;, &quot;).append(start.getY()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBSb3V0ZVtdW10gZ2V0Um91dGVzKCkgewogICAgICAgIHJldHVybiBwcm9kdWN0VG9Qcm9kdWN0Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text>'</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>private</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBTaG9ydGVzdFBhdGhGaW5kZXIgc3AgPSBuZXcgU2hvcnRlc3RQYXRoRmluZGVyKG1hemUsIGdlbiwgbm9HZW4sIFEsIGV2YXApOwo=</text>
@@ -338,9 +343,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Sho</last-search>
+      <last-search encoding="base64">XDxzdGFydFRvUHJvZHVjdHNcPg==</last-search>
       <last-offset />
-      <last-pattern>Sho</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydFRvUHJvZHVjdHNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxTeXN0ZW1cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -348,10 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXJUb0ludkNvb3JkaW5hdGVEZWx0YVw+</entry>
-        <entry>write</entry>
-        <entry>runMaze</entry>
-        <entry>Value</entry>
         <entry>while</entry>
         <entry>EnumMap</entry>
         <entry>route</entry>
@@ -368,6 +369,10 @@
         <entry encoding="base64">XDxUU1BEYXRhXD4=</entry>
         <entry>ShortestPathFinder</entry>
         <entry>Sho</entry>
+        <entry encoding="base64">XDxmaWxlUGF0aFw+</entry>
+        <entry encoding="base64">XDxyb3V0ZU1hdHJpeFw+</entry>
+        <entry encoding="base64">XDxidWlsZFN0YXJ0VG9Qcm9kdWN0c1w+</entry>
+        <entry encoding="base64">XDxzdGFydFRvUHJvZHVjdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
