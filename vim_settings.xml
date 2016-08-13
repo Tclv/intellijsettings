@@ -25,7 +25,7 @@
         <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1469785561753">
-        <mark key="'" line="42" column="0" />
+        <mark key="'" line="44" column="0" />
         <mark key="[" line="17" column="5" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" timestamp="1468948918967">
@@ -41,11 +41,8 @@
         <mark key="^" line="29" column="28" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1469786068852">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="128" column="87" />
+        <mark key="'" line="180" column="0" />
+        <mark key="^" line="157" column="87" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Message.java" timestamp="1463919848430">
         <mark key="[" line="31" column="11" />
@@ -146,7 +143,6 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="68" column="35" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1460750869367">
