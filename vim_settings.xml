@@ -149,7 +149,12 @@
         <mark key="^" line="68" column="35" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1471095435562" />
+      <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1471096738463">
+        <mark key="[" line="24" column="81" />
+        <mark key="]" line="24" column="83" />
+        <mark key="^" line="24" column="83" />
+        <mark key="." line="24" column="83" />
+      </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1460750869367">
         <mark key="'" line="4" column="37" />
         <mark key="[" line="55" column="41" />
@@ -283,43 +288,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Write</text>
+        <text>privare</text>
       </register>
       <register name="-" type="4">
-        <text>Write</text>
+        <text>privare</text>
       </register>
       <register name="/" type="4">
-        <text>asdasd</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgZ2VuID0gOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>Write</text>
+        <text>privare</text>
       </register>
-      <register name="2" type="4">
-        <text>Strin</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>, Route[][] routeMatrix)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgUm91dGVbXSBzdGFydFRvUHJvZHVjdDsKICAgIHByaXZhcmUgUm91dGVbXSBwcm9kdWN0VG9FbmQ7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.size();</text>
+      <register name="4" type="8">
+        <text>e Route[] startToProduct;
+e Route[] productToEnd;</text>
       </register>
-      <register name="5" type="4">
-        <text>routeMatrix</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBidWlsZERpc3RhbmNlTGlzdCgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvdXRlTWF0cml4ID0gcm91dGVNYXRyaXg7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>distances</text>
+        <text>privare</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJvZHVjdCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>, Route[][] routeMatrix)</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBTaG9ydGVzdFBhdGhGaW5kZXIgc3AgPSBuZXcgU2hvcnRlc3RQYXRoRmluZGVyKG1hemUsIGdlbiwgbm9HZW4sIFEsIGV2YXApOwo=</text>
@@ -329,17 +335,16 @@
       </register>
     </registers>
     <search>
-      <last-search>asdasd</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>asdasd</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxTeXN0ZW1cPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry>toString</entry>
         <entry>addPheromone</entry>
         <entry>evaporate</entry>
@@ -359,6 +364,7 @@
         <entry encoding="base64">XDxwZXJzaXRGaWxlXD4=</entry>
         <entry>a</entry>
         <entry>asdasd</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
