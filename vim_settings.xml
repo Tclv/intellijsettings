@@ -24,9 +24,11 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1469785561753">
+      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1471108077823">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="17" column="5" />
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" timestamp="1468948918967">
         <mark key="'" line="1" column="7" />
@@ -40,9 +42,12 @@
         <mark key="." line="29" column="28" />
         <mark key="^" line="29" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1469786068852">
+      <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1471108225268">
         <mark key="'" line="180" column="0" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
         <mark key="^" line="157" column="87" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Message.java" timestamp="1463919848430">
         <mark key="[" line="31" column="11" />
@@ -95,17 +100,18 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1469785918144">
+      <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1471108094818">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="104" column="18" />
+        <mark key="]" line="104" column="22" />
+        <mark key="." line="104" column="22" />
+        <mark key="^" line="104" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/PathSpecification.java" timestamp="1469630180357">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="36" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="1" column="36" />
+      <file name="$USER_HOME$/Development/CIAs3/src/PathSpecification.java" timestamp="1471108325365">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="49" />
+        <mark key="^" line="29" column="49" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/DataMessage.java" timestamp="1463920801452">
         <mark key="[" line="3" column="40" />
@@ -120,6 +126,7 @@
         <mark key="." line="7" column="67" />
         <mark key="^" line="7" column="67" />
       </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/AntColonyOptimization.java" timestamp="1471105920918" />
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/DestinationType.java" timestamp="1463919813751">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -145,6 +152,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1471108017790">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
+      </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameworld/Room.java" timestamp="1460750869367">
         <mark key="'" line="4" column="37" />
         <mark key="[" line="55" column="41" />
@@ -164,7 +178,7 @@
         <mark key="^" line="20" column="26" />
         <mark key="." line="20" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1469781997229">
+      <file name="/fragment.java" timestamp="1471107912412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy maze.txt" timestamp="1468934177863">
@@ -175,21 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="4" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="10" column="23" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="34" column="49" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="6" column="11" filename="$USER_HOME$/Development/CIAs3/src/Route.java" />
-      <jump line="0" column="3" filename="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" />
-      <jump line="1" column="7" filename="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" />
-      <jump line="32" column="12" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="37" column="12" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="28" column="12" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
-      <jump line="42" column="26" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="13" column="23" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="27" column="8" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="41" column="26" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="47" column="7" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
-      <jump line="4" column="4" filename="$USER_HOME$/Development/CIAs3/src/Coordinate.java" />
       <jump line="30" column="7" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="41" column="20" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="46" column="15" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
@@ -275,46 +274,61 @@
       <jump line="33" column="37" filename="$USER_HOME$/Development/CIAs3/src/TravellingSalesMan.java" />
       <jump line="52" column="31" filename="$USER_HOME$/Development/CIAs3/src/TravellingSalesMan.java" />
       <jump line="56" column="20" filename="$USER_HOME$/Development/CIAs3/src/TravellingSalesMan.java" />
+      <jump line="88" column="11" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="126" column="19" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="111" column="18" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="70" column="16" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="67" column="18" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="52" column="12" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="49" column="31" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="24" column="12" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="89" column="32" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="27" column="33" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="171" column="29" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="132" column="109" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="0" column="0" filename="/fragment.java" />
+      <jump line="90" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Write</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVhZHMgdGhlIGNvb3JkaW5hdGVzIGZpbGUgYW5kIHJldHVybnMgYSBwYXRoIHNwZWNpZmljYXRpb24KICAgICAqIEBwYXJhbSBmaWxlUGF0aCBTdHJpbmcgb2YgdGhlIHBhdGggdG8gdGhlIGZpbGUKICAgICAqIEByZXR1cm4gQSBzcGVjaWZpY2F0aW9uIG9mIHRoZSBwYXRoCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgUGF0aFNwZWNpZmljYXRpb24gcmVhZENvb3JkaW5hdGVzKFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIobmV3IEZpbGVSZWFkZXIoZmlsZVBhdGgpKTsKICAgICAgICBzY2FuLnVzZURlbGltaXRlcihQYXR0ZXJuLmNvbXBpbGUoIlssO11cXHMqIikpOwogICAgICAgIGludCBzdGFydFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgc3RhcnRZID0gc2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IGVuZFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgZW5kWSA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIENvb3JkaW5hdGUgc3RhcnQgPSBuZXcgQ29vcmRpbmF0ZShzdGFydFgsIHN0YXJ0WSk7CiAgICAgICAgQ29vcmRpbmF0ZSBlbmQgPSBuZXcgQ29vcmRpbmF0ZShlbmRYLCBlbmRZKTsKICAgICAgICByZXR1cm4gbmV3IFBhdGhTcGVjaWZpY2F0aW9uKHN0YXJ0LCBlbmQpOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Write</text>
+        <text>start.getX()).append(&quot;, &quot;).append(start.getY()</text>
       </register>
       <register name="/" type="4">
-        <text>asdasd</text>
+        <text>Sho</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZ2VuID0gOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgc2VyaWFsVmVyc2lvblVJRCA9IDBMOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Write</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVhZHMgdGhlIGNvb3JkaW5hdGVzIGZpbGUgYW5kIHJldHVybnMgYSBwYXRoIHNwZWNpZmljYXRpb24KICAgICAqIEBwYXJhbSBmaWxlUGF0aCBTdHJpbmcgb2YgdGhlIHBhdGggdG8gdGhlIGZpbGUKICAgICAqIEByZXR1cm4gQSBzcGVjaWZpY2F0aW9uIG9mIHRoZSBwYXRoCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgUGF0aFNwZWNpZmljYXRpb24gcmVhZENvb3JkaW5hdGVzKFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIobmV3IEZpbGVSZWFkZXIoZmlsZVBhdGgpKTsKICAgICAgICBzY2FuLnVzZURlbGltaXRlcihQYXR0ZXJuLmNvbXBpbGUoIlssO11cXHMqIikpOwogICAgICAgIGludCBzdGFydFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgc3RhcnRZID0gc2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IGVuZFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgZW5kWSA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIENvb3JkaW5hdGUgc3RhcnQgPSBuZXcgQ29vcmRpbmF0ZShzdGFydFgsIHN0YXJ0WSk7CiAgICAgICAgQ29vcmRpbmF0ZSBlbmQgPSBuZXcgQ29vcmRpbmF0ZShlbmRYLCBlbmRZKTsKICAgICAgICByZXR1cm4gbmV3IFBhdGhTcGVjaWZpY2F0aW9uKHN0YXJ0LCBlbmQpOwogICAgfQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>Strin</text>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>, Route[][] routeMatrix)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text>.size();</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>routeMatrix</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogUmVhZHMgdGhlIGNvb3JkaW5hdGVzIGZpbGUgYW5kIHJldHVybnMgYSBwYXRoIHNwZWNpZmljYXRpb24KICAgICAqIEBwYXJhbSBmaWxlUGF0aCBTdHJpbmcgb2YgdGhlIHBhdGggdG8gdGhlIGZpbGUKICAgICAqIEByZXR1cm4gQSBzcGVjaWZpY2F0aW9uIG9mIHRoZSBwYXRoCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgUGF0aFNwZWNpZmljYXRpb24gcmVhZENvb3JkaW5hdGVzKFN0cmluZyBmaWxlUGF0aCkgdGhyb3dzIEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiB7CiAgICAgICAgU2Nhbm5lciBzY2FuID0gbmV3IFNjYW5uZXIobmV3IEZpbGVSZWFkZXIoZmlsZVBhdGgpKTsKICAgICAgICBzY2FuLnVzZURlbGltaXRlcihQYXR0ZXJuLmNvbXBpbGUoIlssO11cXHMqIikpOwogICAgICAgIGludCBzdGFydFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgc3RhcnRZID0gc2Nhbi5uZXh0SW50KCk7CiAgICAgICAgaW50IGVuZFggPSBzY2FuLm5leHRJbnQoKTsKICAgICAgICBpbnQgZW5kWSA9IHNjYW4ubmV4dEludCgpOwogICAgICAgIENvb3JkaW5hdGUgc3RhcnQgPSBuZXcgQ29vcmRpbmF0ZShzdGFydFgsIHN0YXJ0WSk7CiAgICAgICAgQ29vcmRpbmF0ZSBlbmQgPSBuZXcgQ29vcmRpbmF0ZShlbmRYLCBlbmRZKTsKICAgICAgICByZXR1cm4gbmV3IFBhdGhTcGVjaWZpY2F0aW9uKHN0YXJ0LCBlbmQpOwogICAgfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>distances</text>
+        <text>start.getX()).append(&quot;, &quot;).append(start.getY()</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cHJvZHVjdCA=</text>
+        <text>'</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBTaG9ydGVzdFBhdGhGaW5kZXIgc3AgPSBuZXcgU2hvcnRlc3RQYXRoRmluZGVyKG1hemUsIGdlbiwgbm9HZW4sIFEsIGV2YXApOwo=</text>
@@ -324,20 +338,16 @@
       </register>
     </registers>
     <search>
-      <last-search>asdasd</last-search>
+      <last-search>Sho</last-search>
       <last-offset />
-      <last-pattern>asdasd</last-pattern>
+      <last-pattern>Sho</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxTeXN0ZW1cPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>toString</entry>
-        <entry>addPheromone</entry>
-        <entry>evaporate</entry>
         <entry encoding="base64">XDxkaXJUb0ludkNvb3JkaW5hdGVEZWx0YVw+</entry>
         <entry>write</entry>
         <entry>runMaze</entry>
@@ -354,6 +364,10 @@
         <entry encoding="base64">XDxwZXJzaXRGaWxlXD4=</entry>
         <entry>a</entry>
         <entry>asdasd</entry>
+        <entry>buildDistance</entry>
+        <entry encoding="base64">XDxUU1BEYXRhXD4=</entry>
+        <entry>ShortestPathFinder</entry>
+        <entry>Sho</entry>
       </history-search>
       <history-cmd>
         <entry>split</entry>
