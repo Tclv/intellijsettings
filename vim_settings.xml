@@ -24,12 +24,12 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1471111333231">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="60" />
-        <mark key="." line="38" column="60" />
-        <mark key="^" line="38" column="60" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1471196763067">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="21" />
+        <mark key="." line="42" column="21" />
+        <mark key="^" line="42" column="21" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" timestamp="1468948918967">
         <mark key="'" line="1" column="7" />
@@ -147,7 +147,6 @@
         <mark key="^" line="41" column="60" />
         <mark key="." line="41" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/data/TSP solution.txt" timestamp="1471118204849" />
       <file name="$USER_HOME$/Development/ElevatorMusic/desktop/src/com/elevatormusic/desktop/DesktopLauncher.java" timestamp="1460737059684">
         <mark key="'" line="19" column="30" />
         <mark key="[" line="20" column="65" />
@@ -176,11 +175,10 @@
         <mark key="." line="56" column="19" />
         <mark key="^" line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1469785666757">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1471196834291">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObjectFactory.java" timestamp="1460742345610">
         <mark key="[" line="20" column="16" />
@@ -308,43 +306,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEVudW1NYXA8RGlyZWN0aW9uLCBDb29yZGluYXRlPiBkaXJUb0ludkNvb3JkaW5hdGVEZWx0YU1hcCA9IGJ1aWxkRGlyVG9JbnZDb29yZGluYXRlRGVsdGEoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>other the to be subtracted coordinate</text>
       </register>
       <register name="/" type="4">
         <text>System</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2sgd2hldGhlciBhIHBvaW50IGxpZXMgYmV0d2VlbiBhIHggcmFuZ2Ugd2l0aCBbbG93LHVwKQogICAgICogQHBhcmFtIGxvdyBsb3dlciBib3VuZAogICAgICogQHBhcmFtIHVwIHVwcGVyIGJvdW5kIChub24taW5jbHVzaXZlKQogICAgICogQHJldHVybiBib29sZWFuIHdoZXRoZXIgcG9pbnQgbGllcyBiZXR3ZWVuIHR3byBjb29yZGluYXRlcwogICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU3Vic3RyYWN0IGEgY29vcmRpbmF0ZSBmcm9tIHRoZSBjdXJyZW50IGNvb3JkaW5hdGUKICAgICAqIEBwYXJhbSBvdGhlciB0aGUgdG8gYmUgc3VidHJhY3RlZCBjb29yZGluYXRlCiAgICAgKiBAcmV0dXJuIHJlc3VsdCBjb29yZGluYXRlCiAgICAgKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEVudW1NYXA8RGlyZWN0aW9uLCBDb29yZGluYXRlPiBkaXJUb0ludkNvb3JkaW5hdGVEZWx0YU1hcCA9IGJ1aWxkRGlyVG9JbnZDb29yZGluYXRlRGVsdGEoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhcnREaXN0YW5jZXNbcHJvZHVjdE9yZGVyWzBdXSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0YXJ0VG9Qcm9kdWN0W3Byb2R1Y3RPcmRlclswXV0uc2l6ZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb2R1Y3RUb1Byb2R1Y3RbZnJvbV1bdG9dLnNpemUoKSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkaXN0YW5jZXNbZnJvbV1bdG9dKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odG90YWxMZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgQ29vcmRpbmF0ZSBkaXJUb0ludkNvb3JkaW5hdGVEZWx0YShEaXJlY3Rpb24gZGlyKSB7CiAgICAgICAgcmV0dXJuIGRpclRvSW52Q29vcmRpbmF0ZURlbHRhTWFwLmdldChkaXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZW5kRGlzdGFuY2VzW3Byb2R1Y3RPcmRlci5sZW5ndGggLSAxXSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHByb2R1Y3RUb0VuZFtwcm9kdWN0T3JkZXIubGVuZ3RoIC0gMV0uc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEVudW1NYXA8RGlyZWN0aW9uLCBDb29yZGluYXRlPiBidWlsZERpclRvSW52Q29vcmRpbmF0ZURlbHRhKCkgewogICAgICAgIEVudW1NYXA8RGlyZWN0aW9uLCBDb29yZGluYXRlPiBtYXAgPSBuZXcgRW51bU1hcDw+KERpcmVjdGlvbi5jbGFzcyk7CiAgICAgICAgbWFwLnB1dChEaXJlY3Rpb24uRWFzdCwgd2VzdFZlY3Rvcik7CiAgICAgICAgbWFwLnB1dChEaXJlY3Rpb24uV2VzdCwgZWFzdFZlY3Rvcik7CiAgICAgICAgbWFwLnB1dChEaXJlY3Rpb24uTm9ydGgsIHNvdXRoVmVjdG9yKTsKICAgICAgICBtYXAucHV0KERpcmVjdGlvbi5Tb3V0aCwgbm9ydGhWZWN0b3IpOwogICAgICAgIHJldHVybiBtYXA7CiAgICB9Cgo=</text>
       </register>
       <register name="6" type="4">
-        <text>]</text>
+        <text>other the to be subtracted coordinate</text>
       </register>
       <register name="7" type="4">
-        <text>startDistances</text>
+        <text>Substract a coordinate from the current coordinate</text>
       </register>
-      <register name="8" type="4">
-        <text>[</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHRvdGFsTGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RhcnREaXN0YW5jZXNbcHJvZHVjdE9yZGVyWzBdXSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHN0YXJ0VG9Qcm9kdWN0W3Byb2R1Y3RPcmRlclswXV0uc2l6ZSgpKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgICAgICBTaG9ydGVzdFBhdGhGaW5kZXIgc3AgPSBuZXcgU2hvcnRlc3RQYXRoRmluZGVyKG1hemUsIGdlbiwgbm9HZW4sIFEsIGV2YXApOwo=</text>
