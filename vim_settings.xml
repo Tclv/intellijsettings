@@ -24,13 +24,6 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Coordinate.java" timestamp="1471196763067">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-        <mark key="^" line="42" column="21" />
-      </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" timestamp="1468948918967">
         <mark key="'" line="1" column="7" />
         <mark key="]" line="1" column="6" />
@@ -42,12 +35,6 @@
         <mark key="]" line="29" column="28" />
         <mark key="." line="29" column="28" />
         <mark key="^" line="29" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Maze.java" timestamp="1471110065949">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="^" line="122" column="32" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/Message.java" timestamp="1463919848430">
         <mark key="[" line="31" column="11" />
@@ -103,20 +90,6 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="16" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Route.java" timestamp="1471110760227">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-        <mark key="^" line="26" column="44" />
-      </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/PathSpecification.java" timestamp="1471111246670">
-        <mark key="'" line="38" column="35" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="39" column="35" />
-      </file>
       <file name="$USER_HOME$/Development/Distributed-Algorithms/DA-lab3/src/DataMessage.java" timestamp="1463920801452">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="40" />
@@ -156,10 +129,6 @@
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/Ant.java" timestamp="1471111374381">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="47" />
-        <mark key="]" line="60" column="51" />
-        <mark key="." line="60" column="51" />
-        <mark key="^" line="60" column="51" />
       </file>
       <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1471118229432">
         <mark key="'" line="0" column="0" />
@@ -174,11 +143,6 @@
         <mark key="]" line="56" column="19" />
         <mark key="." line="56" column="19" />
         <mark key="^" line="56" column="19" />
-      </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/Direction.java" timestamp="1471196834291">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Development/ElevatorMusic/core/src/com/elevatormusic/gameobject/GameObjectFactory.java" timestamp="1460742345610">
         <mark key="[" line="20" column="16" />
