@@ -156,8 +156,8 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1476028727619">
-        <mark key="'" line="245" column="0" />
+      <file name="$USER_HOME$/Development/CIAs3/src/TSPData.java" timestamp="1477134547521">
+        <mark key="'" line="10" column="13" />
         <mark key="[" line="233" column="0" />
         <mark key="]" line="233" column="55" />
         <mark key="^" line="41" column="73" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="17" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="83" column="88" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="33" column="8" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="48" column="28" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
@@ -293,10 +292,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
       <jump line="244" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>oordiante</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGVyc2lzdEZpbGUgPSAiLi90bXAvcHJvZHVjdE1hdHJpeERpc3QiOwo=</text>
       </register>
       <register name="-" type="4">
         <text>oordiante</text>
@@ -349,7 +349,7 @@
       <last-replace />
       <last-substitute encoding="base64">XDxTeXN0ZW1cPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
