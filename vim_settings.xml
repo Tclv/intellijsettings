@@ -29,6 +29,11 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/CIAs3/data/tsp products.txt" timestamp="1478029137910">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/Development/CIAs3/data/easy coordinates.txt" timestamp="1468948918967">
         <mark key="'" line="1" column="7" />
         <mark key="]" line="1" column="6" />
@@ -193,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="88" filename="$USER_HOME$/Development/CIAs3/src/Maze.java" />
       <jump line="33" column="8" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="48" column="28" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
       <jump line="26" column="11" filename="$USER_HOME$/Development/CIAs3/src/Ant.java" />
@@ -293,10 +297,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
       <jump line="244" column="0" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
       <jump line="10" column="13" filename="$USER_HOME$/Development/CIAs3/src/TSPData.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/CIAs3/data/tsp products.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUU1BEYXRhIHRzcERhdGEgPSBUU1BEYXRhLnJlYWRGcm9tRmlsZShwZXJzaXN0RmlsZSk7Cg==</text>
+        <text encoding="base64">MTg7CjE6IDAsIDE5OwoyOiAxMSwgMTM7CjM6IDc1LCA3MjsKNDogNzksIDA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>oordiante</text>
